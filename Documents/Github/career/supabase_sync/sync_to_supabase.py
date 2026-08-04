@@ -12,6 +12,17 @@ def get_latest_file(directory: str, pattern: str) -> str:
     latest_file = max(files, key=os.path.getmtime)
     return latest_file
 
+def get_time_slot() -> str:
+    hour = datetime.now().hour
+    if hour < 10:
+        return "Morning"
+    elif hour < 13:
+        return "Noon"
+    elif hour < 16:
+        return "Evening"
+    else:
+        return "Night"
+
 def sync_to_supabase(target_file=None):
     print("\n--- Starting Supabase Sync ---")
     # Load environment variables
@@ -74,7 +85,8 @@ def sync_to_supabase(target_file=None):
                 "text": post.get("text", ""),
                 "url": url,
                 "emails": post.get("extracted_emails", []),
-                "date": date_str
+                "date": date_str,
+                "slot": get_time_slot()
             }).execute()
             synced_count += 1
             print(f"Synced post {post_id} to Supabase.")
