@@ -1,0 +1,35 @@
+{
+  "company_name": "Gainwell Technologies",
+  "company_url": "https://www.linkedin.com/company/gainwell-technologies/",
+  "execution_date": "2026-07-22T18:30:05.585202",
+  "1st_degree_count": 0,
+  "1st_degree_referral_drafts": [],
+  "new_connection_requests_target": 5,
+  "new_connection_requests_sent": [
+    {
+      "first_name": "Sameera",
+      "profile_url": "https://www.linkedin.com/in/sameera-nandan-ananta-24867216a",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Adithya",
+      "profile_url": "https://www.linkedin.com/in/adithya-konda-a6400a111",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Vijay",
+      "profile_url": "https://www.linkedin.com/in/vijaypss",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Mohammed",
+      "profile_url": "https://www.linkedin.com/in/mohammedshoaibu",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Bhuvanesh",
+      "profile_url": "https://www.linkedin.com/in/bhuvanesh-kumar-308432190",
+      "status": "Connection Request Sent"
+    }
+  ]
+}

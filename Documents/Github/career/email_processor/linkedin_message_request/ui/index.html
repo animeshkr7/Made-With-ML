@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Drafts Workflow</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons for modern iconography -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="glass-header">
+            <div class="header-left">
+                <i class="ph-fill ph-paper-plane-tilt brand-icon"></i>
+                <h1>Drafts Manager</h1>
+            </div>
+            <div class="header-right">
+                <div class="user-profile">
+                    <img src="https://ui-avatars.com/api/?name=User&background=3b82f6&color=fff" alt="User" class="avatar">
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Controls Bar -->
+            <div class="controls-bar glass-panel">
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="company-filter"><i class="ph ph-buildings"></i> Company</label>
+                        <select id="company-filter" class="modern-select">
+                            <option value="all">All Companies</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="date-filter"><i class="ph ph-calendar-blank"></i> Date</label>
+                        <select id="date-filter" class="modern-select">
+                            <option value="all">All Dates</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="actions">
+                    <button id="refresh-btn" class="btn btn-secondary">
+                        <i class="ph ph-arrows-clockwise"></i> Refresh
+                    </button>
+                </div>
+            </div>
+
+            <!-- Data Table -->
+            <div class="table-container glass-panel">
+                <table id="drafts-table" class="modern-table">
+                    <thead>
+                        <tr>
+                            <th>Person</th>
+                            <th>Status</th>
+                            <th>Job Details</th>
+                            <th>Draft Message</th>
+                            <th>Date</th>
+                            <th>Action</th>
+                            <th>Submit</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                        <!-- Rows will be populated by JS -->
+                    </tbody>
+                </table>
+                <div id="empty-state" class="empty-state hidden">
+                    <i class="ph ph-folder-open empty-icon"></i>
+                    <h3>No Drafts Found</h3>
+                    <p>Try adjusting your filters or running the generation workflow.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Script -->
+    <script src="app.js"></script>
+</body>
+</html>

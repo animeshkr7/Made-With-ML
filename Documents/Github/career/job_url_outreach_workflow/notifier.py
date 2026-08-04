@@ -53,9 +53,12 @@ def send_job_outreach_notification(job_url: str, company_name: str, job_title: s
         for idx, item in enumerate(first_degree, 1):
             text_lines.append(f"Connection #{idx}: {item.get('name', 'N/A')}")
             text_lines.append(f"Profile:    {item.get('profile_url', 'N/A')}")
+            text_lines.append(f"")
             text_lines.append(f"1st Degree: Yes (Direct Message Available)")
+            text_lines.append(f"")
             text_lines.append(f"--- Draft Message ---")
             text_lines.append(item.get('draft_message', 'No message generated.'))
+            text_lines.append(f"")
             text_lines.append("=" * 40 + "\n")
 
     # Then show 2nd/3rd degree connections
@@ -64,10 +67,13 @@ def send_job_outreach_notification(job_url: str, company_name: str, job_title: s
         for idx, item in enumerate(non_first_degree, 1):
             text_lines.append(f"Connection #{idx}: {item.get('name', 'N/A')}")
             text_lines.append(f"Profile:    {item.get('profile_url', 'N/A')}")
+            text_lines.append(f"")
             text_lines.append(f"1st Degree: No (Connect Request Needed)")
             text_lines.append(f"Connect Sent: {'YES (Sent on LinkedIn)' if item.get('request_sent') else 'FAILED / Already Pending'}")
+            text_lines.append(f"")
             text_lines.append(f"--- Draft Message ---")
             text_lines.append(item.get('draft_message', 'No message generated.'))
+            text_lines.append(f"")
             text_lines.append("=" * 40 + "\n")
 
 

@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Career Job Link | Career Portal</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .badge-date {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            background: rgba(79, 70, 229, 0.15);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            color: #818cf8;
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+        .header-actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+        }
+        .nav-link {
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.3s;
+        }
+        .nav-link:hover {
+            color: var(--text-main);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-actions" style="margin-bottom: 1rem;">
+                <a href="/" class="nav-link">&larr; Back to Main Dashboard</a>
+                <span class="badge-date" id="currentDateBadge">
+                    <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+                    Auto Date: <strong id="todayStr">--</strong>
+                </span>
+            </div>
+            <h1>Save Career Page Job Link</h1>
+            <p>Submit career portal job links to store automatically in Supabase with today's date</p>
+        </header>
+
+        <main>
+            <!-- Submit Link Section -->
+            <section class="glass-panel" id="submit-section">
+                <h2>Submit Job Link</h2>
+                <form id="link-form">
+                    <div class="form-group">
+                        <label for="careerUrlInput">Career Page Job Link URL</label>
+                        <input type="url" id="careerUrlInput" placeholder="https://careers.company.com/jobs/detail/12345" required>
+                    </div>
+
+                    <div class="flex-row">
+                        <div class="form-group" style="flex: 1;">
+                            <label for="customDateInput">Date (DD-MM-YY) <small style="color:var(--text-muted);">(Leave empty to use current date)</small></label>
+                            <input type="text" id="customDateInput" placeholder="Auto-fills current date" pattern="|\d{2}-\d{2}-\d{2}">
+                        </div>
+
+                        <div class="form-group" style="flex: 1;">
+                            <label for="linkStatusInput">Status</label>
+                            <select id="linkStatusInput">
+                                <option value="Pending" selected>Pending</option>
+                                <option value="Applied">Applied</option>
+                                <option value="Rejected">Rejected</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button type="submit" id="saveLinkBtn">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                        Save Career Link
+                    </button>
+                </form>
+            </section>
+
+            <!-- Today's Saved Links Section -->
+            <section class="glass-panel" id="saved-section" style="margin-top: 2rem;">
+                <div style="display: flex; justify-content: space-between; align-items: center;">
+                    <h2>Saved Links for Today (<span id="tableDateStr">--</span>)</h2>
+                    <button class="btn-secondary" id="refreshBtn" style="padding: 0.4rem 0.8rem; font-size: 0.85rem;">
+                        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                        Refresh
+                    </button>
+                </div>
+
+                <div class="results-container" id="savedResultsContainer" style="display: none;">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Career Job URL</th>
+                                <th>Date</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="savedTableBody">
+                            <!-- Populated via JS -->
+                        </tbody>
+                    </table>
+                </div>
+                <p id="noSavedMsg" style="display: none; margin-top: 1rem; color: var(--text-muted);">No career links saved yet for today.</p>
+            </section>
+        </main>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast">Message here</div>
+
+    <script>
+        const API_BASE_URL = window.location.origin;
+
+        function getTodayDDMMYY() {
+            const now = new Date();
+            const dd = String(now.getDate()).padStart(2, '0');
+            const mm = String(now.getMonth() + 1).padStart(2, '0');
+            const yy = String(now.getFullYear()).slice(-2);
+            return `${dd}-${mm}-${yy}`;
+        }
+
+        const todayStr = getTodayDDMMYY();
+        document.getElementById('todayStr').textContent = todayStr;
+        document.getElementById('tableDateStr').textContent = todayStr;
+
+        const linkForm = document.getElementById('link-form');
+        const savedResultsContainer = document.getElementById('savedResultsContainer');
+        const savedTableBody = document.getElementById('savedTableBody');
+        const noSavedMsg = document.getElementById('noSavedMsg');
+        const toast = document.getElementById('toast');
+
+        function showToast(message, type = 'success') {
+            toast.textContent = message;
+            toast.className = '';
+            toast.classList.add(`toast-${type}`, 'show');
+            setTimeout(() => toast.classList.remove('show'), 3000);
+        }
+
+        function getStatusClass(status) {
+            const s = (status || '').toLowerCase();
+            if (s === 'applied') return 'status-applied';
+            if (s === 'rejected') return 'status-rejected';
+            return 'status-pending';
+        }
+
+        async function fetchSavedLinks(dateQuery = todayStr) {
+            try {
+                const response = await fetch(`${API_BASE_URL}/fetch_by_date?date=${dateQuery}`);
+                const result = await response.json();
+
+                savedTableBody.innerHTML = '';
+                if (response.ok && result.data && result.data.length > 0) {
+                    savedResultsContainer.style.display = 'block';
+                    noSavedMsg.style.display = 'none';
+
+                    result.data.forEach(item => {
+                        const tr = document.createElement('tr');
+                        tr.innerHTML = `
+                            <td>${item.id}</td>
+                            <td style="max-width: 320px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">
+                                <a href="${item.url}" target="_blank" style="color: var(--primary); text-decoration: none;">${item.url}</a>
+                            </td>
+                            <td>${item.date}</td>
+                            <td><span class="status-badge ${getStatusClass(item.status)}">${item.status}</span></td>
+                            <td class="action-btns">
+                                <button class="btn-danger" onclick="deleteLink(${item.id})">Delete</button>
+                            </td>
+                        `;
+                        savedTableBody.appendChild(tr);
+                    });
+                } else {
+                    savedResultsContainer.style.display = 'none';
+                    noSavedMsg.style.display = 'block';
+                }
+            } catch (err) {
+                console.error("Error fetching saved links:", err);
+            }
+        }
+
+        linkForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const url = document.getElementById('careerUrlInput').value.trim();
+            const date = document.getElementById('customDateInput').value.trim() || todayStr;
+            const status = document.getElementById('linkStatusInput').value;
+
+            try {
+                const response = await fetch(`${API_BASE_URL}/link`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ url, date, status })
+                });
+
+                const result = await response.json();
+                if (response.ok) {
+                    showToast(`Saved career link for ${result.saved_date || date}!`);
+                    linkForm.reset();
+                    fetchSavedLinks(date);
+                } else {
+                    showToast(result.detail || 'Error saving link', 'error');
+                }
+            } catch (err) {
+                showToast('Network error saving link', 'error');
+                console.error(err);
+            }
+        });
+
+        async function deleteLink(id) {
+            if (!confirm(`Delete record #${id}?`)) return;
+            try {
+                const response = await fetch(`${API_BASE_URL}/delete_record/${id}`, { method: 'DELETE' });
+                if (response.ok) {
+                    showToast('Record deleted');
+                    fetchSavedLinks(todayStr);
+                } else {
+                    const res = await response.json();
+                    showToast(res.detail || 'Error deleting', 'error');
+                }
+            } catch (err) {
+                showToast('Network error', 'error');
+            }
+        }
+
+        document.getElementById('refreshBtn').addEventListener('click', () => fetchSavedLinks(todayStr));
+
+        // Initial load
+        fetchSavedLinks(todayStr);
+    </script>
+</body>
+</html>

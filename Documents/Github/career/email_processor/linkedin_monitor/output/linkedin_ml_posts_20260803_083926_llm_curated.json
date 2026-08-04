@@ -1,0 +1,184 @@
+[
+    {
+        "id": 5,
+        "author": "Dr. Jagadeesh G",
+        "url": "https://www.linkedin.com/posts/jagadeesh-gaddam-iit-tp_geospatial-ai-engineer-remote-sensing-share-7489874639805100032-30Z1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "We are #hiring for a higher level position at Smart Bhujal.\n\nRecently graduated PhDs preferred but Masters' students with strong profiles will also also considered.\n\nApply here: https://lnkd.in/dH5bKiAZ\n\nGeospatial Engineer (Remote Sensing + Software)\n\nWe are hiring a Geospatial Engineer to build remote sensing and machine learning systems for water - turning satellite imagery into decision support our customers actually use. You should be comfortable with Earth observation data at scale, deep learning, and shipping real software.\n\nResponsibilities:\n- Build ML pipelines on satellite imagery (Sentinel-1/2, Landsat, MODIS) including cloud masking, harmonization across sensors, and gap-filled analysis-ready time series\n- Train deep learning models on Earth observation data: semantic segmentation for surface water and crop extent, change detection, and time-series classification over long optical/SAR stacks\n- Work with InSAR for land deformation, processing interferograms and turning subsidence signals into usable indicators\n- Derive evapotranspiration and soil moisture products from imagery (SEBAL/SSEBop-family approaches, SMAP downscaling) and validate them against ground data\n- Fuse coarse and fine sensors (GRACE/GRACE-FO storage anomalies, thermal, passive microwave) into consistent products through spatial and temporal downscaling\n- Evaluate and fine-tune geospatial foundation models (Prithvi, Clay and similar) against task-specific baselines, and know when the smaller model wins\n- Operate at scale on cloud-native geospatial stacks: Google Earth Engine, STAC catalogs, COGs, xarray/rioxarray/Dask, Zarr\n- Build the customer-facing layer: decision support tools and dashboards that turn imagery and model outputs into something a client can act on, including map views, time-series explorers, alerting, scenario comparison and report exports\n- Ship models as services into the platform with inference APIs, retraining schedules and versioned artifacts, so a model that works in a notebook keeps working in production\n\n#hiring #smartbhujal #geospatial #ai\n\n… more",
+        "search_keyword": "hiring AI ML engineer",
+        "scraped_at": "2026-08-03T08:31:54.631778",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 11,
+        "author": "Angela Liu",
+        "url": "https://www.linkedin.com/posts/angela-liu-94497051_hiring-aiengineer-machinelearning-share-7489869158407499776-iOW4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hiring: AI Engineer — Shenzhen 📍\nI'm working with a leading financial services client to find an AI Engineer who will join their DPS Engineering team, embedded within a cross-functional product delivery squad.\nThis is not a research role. You'll be designing, building, and shipping AI-driven capabilities into real product features — from NLP and predictive analytics to GenAI use cases that directly impact business operations.\nWhat you'll do:→ Design, develop, and deploy ML and AI models aligned with product objectives→ Build and maintain end-to-end ML pipelines — data ingestion, training, evaluation, deployment, monitoring→ Embed AI capabilities into product features and workflows alongside backend/frontend engineers→ Translate business problems into AI/ML solutions with clear success metrics→ Ensure AI solutions meet enterprise standards on security, privacy, and responsible AI\nWhat we're looking for:→ Strong Python and AI/ML frameworks — TensorFlow, PyTorch, Scikit-learn→ Hands-on experience with GenAI / LLMs — prompt engineering, RAG architectures, API-based models→ MLOps practices — CI/CD, model deployment, monitoring→ Cloud platform experience — Azure preferred, AWS/GCP acceptable→ Proven track record of delivering AI solutions in production environments→ Experience working in agile, squad-based delivery models\nLevel: Manager / Senior Manager / Associate Director\nIf you're an AI engineer who thrives on turning models into production-grade product features — not just notebooks and demos — I'd love to have a conversation.\nDM me or drop a comment below. Confidential discussions welcome.\n#Hiring #AIEngineer #MachineLearning #GenAI #RAG #MLOps #Python #TensorFlow #PyTorch #Shenzhen #FinTech\n… more",
+        "search_keyword": "hiring AI ML engineer",
+        "scraped_at": "2026-08-03T08:32:10.217761",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 13,
+        "author": "Ha Dao Thi (Rose), hiring",
+        "url": "https://www.linkedin.com/posts/ha-dao-thi-rose-5b13901a5_remote-remote-hybrid-share-7489868422680551424-PS6T/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "HOT JOBS | TECH TALENT WANTED 🚀\n Cơ hội dành cho các bạn Data / AI / Backend / Frontend / Solution / Project Management. \n\n🔥 OPEN POSITIONS:\n1️⃣ Lead Data Platform Engineer | Vietnam | #Remote | $5,500\n\n2️⃣Senior Data Analyst | Vietnam | #Remote | $2,700\n\n3️⃣Forward-Deployed Engineer – Python, AI Agent, LLM, RAG, Reasoning \nSystem, Typescript | HCM/HN | #Hybrid/#Remote | $5,500\n\n4️⃣ AI Technical Project Manager / Project Manager / Solutions Manager / Deployment Lead / Implementation Leader | HCM/HN | #Hybrid/ #Remote | $5,700\n\n5️⃣Senior AI Engineer – LLM, AI Agent, RAG, Computer Vision | Cau Giay, #Hanoi | #Hybrid | $4,000\n\n6️⃣Senior Backend Engineer (.NET) | Cau Giay, #Hanoi | #Hybrid | $3,000\n\n7️⃣Senior Frontend Engineer (ReactJS) | Cau Giay, #Hanoi | #Hybrid | $3,000\n\n8️⃣Member of Technical Staff – ML Engineer (All Levels) | #NYC/USA | Onsite | $170K–$300K\n\n9️⃣Senior Backend Engineer – Typescript, AWS, GraphQL | #HCM | #Remote | $4,000\n\n🔟Lead Backend Engineer – #Typescript, #NodeJS | #HCM | #Remote | $5,100\n\n11. Forward-Deployed Engineer (All Levels) | #NYC/SF/USA | Onsite | $150K–$250K\n\n12. Forward-Deployed Engineer (Senior/Lead) | #SF/USA | Onsite | Negotiable\n\n13. AI Technical Project Manager / Project Manager / Solutions Manager / 14. Deployment Lead / Implementation Leader – EDT time work remotely | \nSF/USA | Onsite | Negotiable\n\n14. Solution Architect – Hands-on Architect, Client-facing, Node.js/NestJS, GCP, AI/LLM, C4 Diagram | #HCM | #Onsite | Negotiable\n\n💡 Interested or know someone who fits?\n 📱 Zalo / WhatsApp: +84 364 703 790\n 📧 Email: Ha.dao@hdglobalcareer.com\n👉 DM me / Send CV directly to discuss suitable opportunities.\n\n#Hiring #TechJobs #ITJobs #AIJobs #DataJobs #SoftwareEngineer #AIEngineer #BackendEngineer #FrontendEngineer #DataAnalyst #MachineLearning #LLM #RAG #AIAgent #SolutionArchitect #ProjectManager #VietnamJobs #RemoteJobs #HanoiJobs #HCMJobs #USJobs #TechRecruitment #OpenToWork\n… more",
+        "search_keyword": "hiring AI ML engineer",
+        "scraped_at": "2026-08-03T08:32:15.264412",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 16,
+        "author": "Ravi Joseph",
+        "url": "https://www.linkedin.com/posts/ravi-joseph-1b2637250_hiring-gpuprogramming-cuda-share-7489865357508128768-g93N/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "🚀 Hiring: GPU Programming Software Engineer (Remote | Contract)\n\nWe're looking for experienced GPU Programming Software Engineers to help build and optimize next-generation AI systems.\n\n💰 Compensation: $60–$85/hour\n🌍 Location: Remote\n📄 Employment Type: Contract\n\nRequired Skills\n\nCUDA\n\nWebGPU\n\nGLSL\n\nC++\n\n\nWhat You'll Do\n\nDesign, implement, and optimize GPU-based software solutions.\n\nDevelop high-performance GPU kernels and shaders.\n\nBuild host-side integrations in C++.\n\nContribute to GPU-related tasks that help train advanced LLMs.\n\n\nPreferred Qualifications\n\nStrong experience with GPU programming on NVIDIA hardware.\n\nBackground in Graphics Programming, ML Acceleration, Scientific Computing, or High-Performance Computing.\n\nStrong proficiency in C++.\n\n\n⏳ Hiring is fast, with onboarding typically starting within 24–48 hours for selected candidates.\n\n📩 Interested? Apply here:\n\nhttps://lnkd.in/g9Tj532s\n\nIf you have any questions, feel free to DM me. I'll be happy to guide you through the application process.\n\n#Hiring #GPUProgramming #CUDA #WebGPU #GLSL #Cpp #SoftwareEngineer #RemoteJobs #AIJobs #MachineLearning #HPC #GraphicsProgramming #HiringNow\n… more",
+        "search_keyword": "hiring AI ML engineer",
+        "scraped_at": "2026-08-03T08:32:22.339776",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 36,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/remote-mxpn-hybrid-computer-engineer-iv-share-7489870920514269184-6D1y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Join Barbaricum as a Remote MXPN- Hybrid- Computer Engineer IV (UI/UX SME)- Remote! 🏢 Employment type: Full-time\n\n💻 Skills: TensorFlow, Machine Learning, Web security, Large Language Models, PyTorch\n\nRepost to help your network 🌱\n\n#remotework #remoteworking #remotejobs #workfromhome #wfh #software #developer #dev #coding #hiring #tech #engineer #development #career #jobopening #tensorflow #machinelearning #websecurity #llms #pytorch #other #fulltime\n\nApply now: https://lnkd.in/eJCM7Ffz\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:34:05.312735",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 40,
+        "author": "Nitish Reddy",
+        "url": "https://www.linkedin.com/posts/nitish-reddy-6a3294277_hiring-ai-engineer-location-remote-share-7489868342573555712-q8x8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hiring: AI Engineer\n\n📍 Location: Remote\n💼 Experience: 3+ Years\n📄 Contract: 3 Months (Extendable)\n\n⚡ Notice Period: Immediate Joiners Only\nMandatory Skills:\n\n✔️ Generative AI, LLMs, Prompt Engineering, RAG\n✔️ Fine-tuning, Embeddings & Vector Databases\n✔️ Python, TensorFlow, PyTorch, Scikit-learn\n✔️ LangChain & OpenAI APIs\n✔️ Machine Learning, NLP & Model Deployment\n✔️ AWS/Azure/GCP (Preferred)\n\n📩 Immediate joiners, share your updated resume or DM for more details.\n\nrikhitapadmaa@gmail.com\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:34:16.864571",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 54,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:3732032-7489862950611116033/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Productivity Specialist Remote Jobs UAE 2026\n🟢 APPLY NOW:👉https://lnkd.in/daAeaUqT\n\nWe're hiring a Senior Enterprise AI Productivity Specialist for a 100% Remote contract role in the UAE. Design enterprise AI solutions, automate business workflows, and help global organizations boost productivity with cutting-edge AI.\n━━━━━━━━━━━━━━━━━━━\n📍 Location\n🇦🇪 UAE (100% Remote)\n━━━━━━━━━━━━━━━━━━━\n💰 Salary Range\n💵 $80–$150 USD per hour (Contract)\n━━━━━━━━━━━━━━━━━━━\n🎓 Education\n✔ Bachelor's or Master's in Computer Science, Artificial Intelligence, Data Science, Software Engineering, or a related field\n━━━━━━━━━━━━━━━━━━━\n✅ Requirements\n✔ 5+ years of Enterprise AI or Productivity Solution experience\n✔ Expertise in Machine Learning & Natural Language Processing (NLP)\n✔ Experience with AI Workflow Automation & API Integrations\n✔ Strong Data Analytics, Reporting & ROI Measurement skills\n✔ Excellent stakeholder management & communication\n━━━━━━━━━━━━━━━━━━━\n🎁 Benefits\n✅ Fully Remote – Work from Anywhere in the UAE\n✅ Premium Pay ($80–$150/hour)\n✅ Flexible Working Hours\n✅ Work on Enterprise-Scale AI Projects\n✅ Exposure to Advanced AI, ML & Automation Technologies\n✅ Global Team & Outstanding Career Growth\n━━━━━━━━━━━━━━━━━━━\n🌟 Why You'll Love This Role\nLead enterprise AI transformation, build intelligent automation solutions, optimize business productivity, and create measurable business impact while working with a world-class technology team.\n━━━━━━━━━━━━━━━━━━━\n💬 Ready to take your AI career to the next level?\nComment \"Interested\" below 👇\n❤️ Like this post\n🔄 Share it with your network and help someone discover this opportunity!\n━━━━━━━━━━━━━━━━━━━\n#AIJobs #ArtificialIntelligence #GenerativeAI #MachineLearning #EnterpriseAI #Automation #RemoteJobs #UAEJobs #TechCareers #DataScience #DigitalTransformation #HiringNow #FutureOfWork #RemoteWork #CareerGrowth\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:34:55.058296",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 55,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/aijobs-artificialintelligence-generativeai-share-7489862691881160705-gzmS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Productivity Specialist Remote Jobs UAE 2026\n🟢 APPLY NOW:👉https://lnkd.in/d-2Fvn9b\n\nWe're hiring a Senior Enterprise AI Productivity Specialist for a 100% Remote contract role in the UAE. Design enterprise AI solutions, automate business workflows, and help global organizations boost productivity with cutting-edge AI.\n━━━━━━━━━━━━━━━━━━━\n📍 Location\n🇦🇪 UAE (100% Remote)\n━━━━━━━━━━━━━━━━━━━\n💰 Salary Range\n💵 $80–$150 USD per hour (Contract)\n━━━━━━━━━━━━━━━━━━━\n🎓 Education\n✔ Bachelor's or Master's in Computer Science, Artificial Intelligence, Data Science, Software Engineering, or a related field\n━━━━━━━━━━━━━━━━━━━\n✅ Requirements\n✔ 5+ years of Enterprise AI or Productivity Solution experience\n✔ Expertise in Machine Learning & Natural Language Processing (NLP)\n✔ Experience with AI Workflow Automation & API Integrations\n✔ Strong Data Analytics, Reporting & ROI Measurement skills\n✔ Excellent stakeholder management & communication\n━━━━━━━━━━━━━━━━━━━\n🎁 Benefits\n✅ Fully Remote – Work from Anywhere in the UAE\n✅ Premium Pay ($80–$150/hour)\n✅ Flexible Working Hours\n✅ Work on Enterprise-Scale AI Projects\n✅ Exposure to Advanced AI, ML & Automation Technologies\n✅ Global Team & Outstanding Career Growth\n━━━━━━━━━━━━━━━━━━━\n🌟 Why You'll Love This Role\nLead enterprise AI transformation, build intelligent automation solutions, optimize business productivity, and create measurable business impact while working with a world-class technology team.\n━━━━━━━━━━━━━━━━━━━\n💬 Ready to take your AI career to the next level?\nComment \"Interested\" below 👇\n❤️ Like this post\n🔄 Share it with your network and help someone discover this opportunity!\n━━━━━━━━━━━━━━━━━━━\n#AIJobs #ArtificialIntelligence #GenerativeAI #MachineLearning #EnterpriseAI #Automation #RemoteJobs #UAEJobs #TechCareers #DataScience #DigitalTransformation #HiringNow #FutureOfWork #RemoteWork #CareerGrowth\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:34:57.584830",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 58,
+        "author": "Komal Zubair",
+        "url": "https://www.linkedin.com/posts/komal-zubair-21a072414_aijobs-artificialintelligence-generativeai-share-7489862547614105600-pgjK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Productivity Specialist Remote Jobs UAE 2026\n🟢 APPLY NOW:👉https://lnkd.in/daAeaUqT\n\nWe're hiring a Senior Enterprise AI Productivity Specialist for a 100% Remote contract role in the UAE. Design enterprise AI solutions, automate business workflows, and help global organizations boost productivity with cutting-edge AI.\n━━━━━━━━━━━━━━━━━━━\n📍 Location\n🇦🇪 UAE (100% Remote)\n━━━━━━━━━━━━━━━━━━━\n💰 Salary Range\n💵 $80–$150 USD per hour (Contract)\n━━━━━━━━━━━━━━━━━━━\n🎓 Education\n✔ Bachelor's or Master's in Computer Science, Artificial Intelligence, Data Science, Software Engineering, or a related field\n━━━━━━━━━━━━━━━━━━━\n✅ Requirements\n✔ 5+ years of Enterprise AI or Productivity Solution experience\n✔ Expertise in Machine Learning & Natural Language Processing (NLP)\n✔ Experience with AI Workflow Automation & API Integrations\n✔ Strong Data Analytics, Reporting & ROI Measurement skills\n✔ Excellent stakeholder management & communication\n━━━━━━━━━━━━━━━━━━━\n🎁 Benefits\n✅ Fully Remote – Work from Anywhere in the UAE\n✅ Premium Pay ($80–$150/hour)\n✅ Flexible Working Hours\n✅ Work on Enterprise-Scale AI Projects\n✅ Exposure to Advanced AI, ML & Automation Technologies\n✅ Global Team & Outstanding Career Growth\n━━━━━━━━━━━━━━━━━━━\n🌟 Why You'll Love This Role\nLead enterprise AI transformation, build intelligent automation solutions, optimize business productivity, and create measurable business impact while working with a world-class technology team.\n━━━━━━━━━━━━━━━━━━━\n💬 Ready to take your AI career to the next level?\nComment \"Interested\" below 👇\n❤️ Like this post\n🔄 Share it with your network and help someone discover this opportunity!\n━━━━━━━━━━━━━━━━━━━\n#AIJobs #ArtificialIntelligence #GenerativeAI #MachineLearning #EnterpriseAI #Automation #RemoteJobs #UAEJobs #TechCareers #DataScience #DigitalTransformation #HiringNow #FutureOfWork #RemoteWork #CareerGrowth\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:35:05.467946",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 60,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/neuroscience-artificialintelligence-machinelearning-share-7489861992661512192-grHZ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Neuroscience Specialist Jobs UAE 2026 \n🟢 APPLY NOW:👉https://lnkd.in/dQmYYRXn\n\nA global technology leader is hiring a Neuroscience Specialist for a fully remote contract role. Apply your expertise in Neuroscience, Cognitive Science, and AI to build next-generation intelligent systems while earning $60–$80/hour.\n━━━━━━━━━━━━━━━━━━━\n📍 Location\n🇦🇪 UAE (100% Remote – Work from Anywhere)\n━━━━━━━━━━━━━━━━━━━\n💰 Salary Range\n$60–$80 USD per hour (Contract)\n━━━━━━━━━━━━━━━━━━━\n🎓 Education\n✔ Master's or PhD in Neuroscience, Cognitive Science, or a related field\n━━━━━━━━━━━━━━━━━━━\n✅ Requirements\n✔ Experience in Neuroscience & AI applications\n✔ Knowledge of Neural Networks & Cognitive Models\n✔ TensorFlow or PyTorch experience\n✔ Strong analytical & research skills\n✔ Ability to work independently in a remote environment\n━━━━━━━━━━━━━━━━━━━\n🎁 Benefits\n✅ Fully Remote & Flexible Work\n✅ Premium Hourly Pay ($60–$80/hr)\n✅ Work on Cutting-Edge AI Research\n✅ Global & Diverse Team\n✅ Career Growth in AI & Neuroscience\n✅ High-Impact Projects Bridging Brain Science & Machine Learning\n━━━━━━━━━━━━━━━━━━━\n🌟 Why Apply?\nJoin one of the world's leading AI organizations and contribute to brain-inspired AI, cognitive computing, neural architecture optimization, and next-generation machine learning. This is a rare opportunity to combine Neuroscience and Artificial Intelligence while working remotely from anywhere.\n━━━━━━━━━━━━━━━━━━━\n💬 Interested?\nComment \"Interested\" 👇\n❤️ Like this post\n🔄 Share it with your network to help others discover this opportunity!\n━━━━━━━━━━━━━━━━━━━\n#Neuroscience #ArtificialIntelligence #MachineLearning #AIJobs #RemoteJobs #CognitiveScience #DeepLearning #TensorFlow #PyTorch #DataScience #TechJobs #HiringNow #UAEJobs #RemoteWork #CareerGrowth\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:35:10.492062",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 64,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:2965738-7489861550581768193/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Neuroscience Specialist Jobs UAE 2026 \n🟢 APPLY NOW:👉https://lnkd.in/dyN3bC5Q\n\nA global technology leader is hiring a Neuroscience Specialist for a fully remote contract role. Apply your expertise in Neuroscience, Cognitive Science, and AI to build next-generation intelligent systems while earning $60–$80/hour.\n━━━━━━━━━━━━━━━━━━━\n📍 Location\n🇦🇪 UAE (100% Remote – Work from Anywhere)\n━━━━━━━━━━━━━━━━━━━\n💰 Salary Range\n$60–$80 USD per hour (Contract)\n━━━━━━━━━━━━━━━━━━━\n🎓 Education\n✔ Master's or PhD in Neuroscience, Cognitive Science, or a related field\n━━━━━━━━━━━━━━━━━━━\n✅ Requirements\n✔ Experience in Neuroscience & AI applications\n✔ Knowledge of Neural Networks & Cognitive Models\n✔ TensorFlow or PyTorch experience\n✔ Strong analytical & research skills\n✔ Ability to work independently in a remote environment\n━━━━━━━━━━━━━━━━━━━\n🎁 Benefits\n✅ Fully Remote & Flexible Work\n✅ Premium Hourly Pay ($60–$80/hr)\n✅ Work on Cutting-Edge AI Research\n✅ Global & Diverse Team\n✅ Career Growth in AI & Neuroscience\n✅ High-Impact Projects Bridging Brain Science & Machine Learning\n━━━━━━━━━━━━━━━━━━━\n🌟 Why Apply?\nJoin one of the world's leading AI organizations and contribute to brain-inspired AI, cognitive computing, neural architecture optimization, and next-generation machine learning. This is a rare opportunity to combine Neuroscience and Artificial Intelligence while working remotely from anywhere.\n━━━━━━━━━━━━━━━━━━━\n💬 Interested?\nComment \"Interested\" 👇\n❤️ Like this post\n🔄 Share it with your network to help others discover this opportunity!\n━━━━━━━━━━━━━━━━━━━\n#Neuroscience #ArtificialIntelligence #MachineLearning #AIJobs #RemoteJobs #CognitiveScience #DeepLearning #TensorFlow #PyTorch #DataScience #TechJobs #HiringNow #UAEJobs #RemoteWork #CareerGrowth\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:35:23.295993",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 69,
+        "author": "Komal Zubair",
+        "url": "https://www.linkedin.com/posts/komal-zubair-21a072414_neuroscience-artificialintelligence-machinelearning-share-7489860690736889856-38ji/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Neuroscience Specialist Jobs UAE 2026 \n🟢 APPLY NOW:👉https://lnkd.in/dyN3bC5Q\n\nA global technology leader is hiring a Neuroscience Specialist for a fully remote contract role. Apply your expertise in Neuroscience, Cognitive Science, and AI to build next-generation intelligent systems while earning $60–$80/hour.\n━━━━━━━━━━━━━━━━━━━\n📍 Location\n🇦🇪 UAE (100% Remote – Work from Anywhere)\n━━━━━━━━━━━━━━━━━━━\n💰 Salary Range\n$60–$80 USD per hour (Contract)\n━━━━━━━━━━━━━━━━━━━\n🎓 Education\n✔ Master's or PhD in Neuroscience, Cognitive Science, or a related field\n━━━━━━━━━━━━━━━━━━━\n✅ Requirements\n✔ Experience in Neuroscience & AI applications\n✔ Knowledge of Neural Networks & Cognitive Models\n✔ TensorFlow or PyTorch experience\n✔ Strong analytical & research skills\n✔ Ability to work independently in a remote environment\n━━━━━━━━━━━━━━━━━━━\n🎁 Benefits\n✅ Fully Remote & Flexible Work\n✅ Premium Hourly Pay ($60–$80/hr)\n✅ Work on Cutting-Edge AI Research\n✅ Global & Diverse Team\n✅ Career Growth in AI & Neuroscience\n✅ High-Impact Projects Bridging Brain Science & Machine Learning\n━━━━━━━━━━━━━━━━━━━\n🌟 Why Apply?\nJoin one of the world's leading AI organizations and contribute to brain-inspired AI, cognitive computing, neural architecture optimization, and next-generation machine learning. This is a rare opportunity to combine Neuroscience and Artificial Intelligence while working remotely from anywhere.\n━━━━━━━━━━━━━━━━━━━\n💬 Interested?\nComment \"Interested\" 👇\n❤️ Like this post\n🔄 Share it with your network to help others discover this opportunity!\n━━━━━━━━━━━━━━━━━━━\n#Neuroscience #ArtificialIntelligence #MachineLearning #AIJobs #RemoteJobs #CognitiveScience #DeepLearning #TensorFlow #PyTorch #DataScience #TechJobs #HiringNow #UAEJobs #RemoteWork #CareerGrowth\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:35:36.006966",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 77,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/remote-copy-of-senior-lua-developer-roblox-share-7489833669319213056-t8t2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Great remote opportunity: Lifted, an Upwork Company™ is seeking a Copy of Senior Lua Developer (Roblox) – AI Code Evaluation. 💰 Salary: $120K / year, 🏢 Employment type: Contract, 📍Remote locations: Worldwide\n\n💻 Skills: Machine Learning, Generative AI, Lua\n\nRepost to help your network 🌱\n\n#remotework #remoteworking #remotejobs #workfromhome #wfh #software #developer #dev #coding #hiring #tech #engineer #development #career #jobopening #machinelearning #generativeai #lua #gamedeveloper #contract\n\nApply now: https://lnkd.in/eQ68VjyF\n… more",
+        "search_keyword": "hiring machine learning",
+        "scraped_at": "2026-08-03T08:35:56.560357",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 121,
+        "author": "GUMMA MALLIKARJUNA RAO, open to work",
+        "url": "https://www.linkedin.com/posts/gumma-mallikarjuna-rao-a960643b4_opentowork-aiengineer-genai-share-7489878145907671041-cdaE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Open to Work!\nI'm currently looking for my next opportunity as an AI/ML Engineer / GenAI-LLM Engineer / AI Backend Developer.\nAbout me:\n 🎯 2 years of hands-on experience as an AI/Python Backend Developer at Axiora Global Solutions\n 🛠️ Stack: Python, FastAPI, LangChain, RAG pipelines (FAISS, ChromaDB), ReAct agents, Anthropic Claude API, GPT-4\n 🎓 B.Pharm + AI/ML background — strong fit for healthcare AI roles\n 📍 Open to Hyderabad, Bangalore, Chennai, or Remote/Hybrid\n ⚡ Immediate joiner\nIf you know of any openings, or can refer me to your team, I'd be truly grateful 🙏 Even a share or comment helps this reach the right people.\n📧 malligumma77@gmail.com\n#OpenToWork #AIEngineer #GenAI #LLMEngineer #RAG #FastAPI #Hiring #Hyderabad\n… more",
+        "search_keyword": "looking for ML engineers",
+        "scraped_at": "2026-08-03T08:38:25.678572",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    }
+]

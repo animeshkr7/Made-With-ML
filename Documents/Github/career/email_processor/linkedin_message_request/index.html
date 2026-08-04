@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Message Request | Job URLs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div style="display: flex; justify-content: flex-end; margin-bottom: 0.5rem;">
+                <a href="/link" style="color: #818cf8; text-decoration: none; font-size: 0.9rem; font-weight: 500; display: inline-flex; align-items: center; gap: 0.4rem; background: rgba(79, 70, 229, 0.15); border: 1px solid rgba(99, 102, 241, 0.3); padding: 0.4rem 0.8rem; border-radius: 20px;">
+                    <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"></path></svg>
+                    Go to /link (Save Career Links) &rarr;
+                </a>
+            </div>
+            <h1>Job URL Tracker</h1>
+            <p>Supabase CRUD interface for LinkedIn & Career Page Job Requests</p>
+        </header>
+
+        <main>
+            <!-- Add Record Section -->
+            <section class="glass-panel" id="add-section">
+                <h2>Add New Job URL</h2>
+                <form id="add-form">
+                    <div class="form-group">
+                        <label for="urlInput">LinkedIn Job URL</label>
+                        <input type="url" id="urlInput" placeholder="https://www.linkedin.com/jobs/..." required>
+                    </div>
+                    
+                    <div class="flex-row">
+                        <div class="form-group" style="flex: 1;">
+                            <label for="dateInput">Date (DD-MM-YY)</label>
+                            <input type="text" id="dateInput" placeholder="15-07-26" pattern="\d{2}-\d{2}-\d{2}" title="Format: DD-MM-YY" required>
+                        </div>
+                        
+                        <div class="form-group" style="flex: 1;">
+                            <label for="statusInput">Status</label>
+                            <select id="statusInput" required>
+                                <option value="Pending">Pending</option>
+                                <option value="Applied">Applied</option>
+                                <option value="Rejected">Rejected</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button type="submit" id="addBtn">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
+                        Save Record
+                    </button>
+                </form>
+            </section>
+
+            <!-- Fetch Records Section -->
+            <section class="glass-panel" id="fetch-section" style="margin-top: 2rem;">
+                <h2>Fetch Records by Date</h2>
+                <form id="fetch-form" class="flex-row">
+                    <div class="form-group" style="flex: 1; margin-bottom: 0;">
+                        <label for="fetchDateInput">Search Date (DD-MM-YY)</label>
+                        <input type="text" id="fetchDateInput" placeholder="15-07-26" pattern="\d{2}-\d{2}-\d{2}" required>
+                    </div>
+                    <button type="submit" class="btn-secondary">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                        Search
+                    </button>
+                </form>
+
+                <div class="results-container" id="resultsContainer" style="display: none;">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Job URL</th>
+                                <th>Date</th>
+                                <th>Status</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody id="resultsTableBody">
+                            <!-- Data populated via JS -->
+                        </tbody>
+                    </table>
+                </div>
+                <p id="noResultsMsg" style="display: none; margin-top: 1rem; color: var(--text-muted);">No records found for this date.</p>
+            </section>
+        </main>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast">Message here</div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -88,45 +88,42 @@ def process_job_url(job_url: str) -> dict:
             if company_url:
                 print(f"Navigating to company page: {company_url}")
                 
-                # === MATCH workflow_generate_drafts.py LOGIC (lines 60-83) ===
-                # Step 1: Get 1st degree connections from company people page
+                # Step 1: Get 1st degree connections from company people page (fetch up to 5)
                 first_degree = extract_connections_from_company_page(
                     page, company_url, max_connections=5, network="F"
                 )
                 
-                # Step 2: Get new connections with Connect buttons
+                # Step 2: Calculate how many new connections to fetch
+                # Formula: max(3, 5 - number of 1st degree connections)
+                num_1st = len(first_degree)
+                num_new_required = max(3, 5 - num_1st)
+                
+                # Step 3: Get new connections with Connect buttons
                 new_conns = extract_connections_from_company_page(
-                    page, company_url, max_connections=5, network=None, require_connect=True
+                    page, company_url, max_connections=num_new_required, network=None, require_connect=True
                 )
                 
-                # Step 3: Combine — 1ST DEGREE FIRST, then fill with new connections
+                # Step 4: Combine — 1ST DEGREE FIRST, then exactly `num_new_required` new connections
                 final_connections = []
                 seen_urls = set()
                 
-                # Add 1st degree first (up to 3)
-                for conn in first_degree[:3]:
+                # Add all found 1st degree (up to 5)
+                for conn in first_degree:
                     p_url = conn.get("profile_url")
                     if p_url and p_url not in seen_urls:
                         seen_urls.add(p_url)
                         final_connections.append(conn)
                 
-                # Fill remaining slots with new connections (up to total of 5)
+                # Add new connections
+                added_new = 0
                 for conn in new_conns:
-                    if len(final_connections) >= 5:
+                    if added_new >= num_new_required:
                         break
                     p_url = conn.get("profile_url")
                     if p_url and p_url not in seen_urls:
                         seen_urls.add(p_url)
                         final_connections.append(conn)
-                
-                # If still have room, add more 1st degree
-                for conn in first_degree[3:]:
-                    if len(final_connections) >= 5:
-                        break
-                    p_url = conn.get("profile_url")
-                    if p_url and p_url not in seen_urls:
-                        seen_urls.add(p_url)
-                        final_connections.append(conn)
+                        added_new += 1
                 
                 raw_connections = final_connections
             else:

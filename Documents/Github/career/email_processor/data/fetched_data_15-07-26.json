@@ -1,0 +1,185 @@
+﻿{
+    "message": "Found 30 records",
+    "data": [
+        {
+            "id": 1,
+            "email": "test@example.com",
+            "type": "Machine Learning Engineer",
+            "date": "15-07-26"
+        },
+        {
+            "id": 2,
+            "email": "animeshkr7@gmail.com",
+            "type": "X",
+            "date": "15-07-26"
+        },
+        {
+            "id": 3,
+            "email": "an@ha.com",
+            "type": "Application",
+            "date": "15-07-26"
+        },
+        {
+            "id": 5,
+            "email": "anchal.sharma@publicissapient.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 6,
+            "email": "jeet.kakaiya@productsquads.co",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 7,
+            "email": "mzigronbonfil@apple.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 8,
+            "email": "priyanka.ch@saisservices.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 9,
+            "email": "mehar.bassan1@exlservice.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 10,
+            "email": "careers@novixer.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 11,
+            "email": "careers@antino.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 12,
+            "email": "ishita.gupta@antino.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 13,
+            "email": "Brahmmani.Kodiganti@mergencorp.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 14,
+            "email": "pooja.singh4@exlservice.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 15,
+            "email": "debarati.das@ubique-systems.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 16,
+            "email": "kavya.j@jaastechnologies.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 17,
+            "email": "kavya.j@jaastechnologies.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 18,
+            "email": "mamta.v@techgene.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 19,
+            "email": "palash.raj@truecredits.in",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 20,
+            "email": "shanmathi@greathrsol.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 21,
+            "email": "megha.bhatt@phebushr.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 22,
+            "email": "viji@spectrumconsultingindia.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 23,
+            "email": "nahuja@jigya.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 24,
+            "email": "ayushi.katare@apptadinc.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 25,
+            "email": "Harshita.Bhavani@mergencorp.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 26,
+            "email": "Harshita.Bhavani@mergencorp.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 27,
+            "email": "Sushmitha.U@q1tech.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 28,
+            "email": "harini.shagilesh@way2smile.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 29,
+            "email": "vanshika@kaivale.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 30,
+            "email": "sakshi.dwivedi@lagozon.com",
+            "type": "D",
+            "date": "15-07-26"
+        },
+        {
+            "id": 31,
+            "email": "siddarth.jayapal@srmtech.com",
+            "type": "D",
+            "date": "15-07-26"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+  "company_name": "JioSaavn",
+  "company_url": "https://www.linkedin.com/company/jio-saavn/",
+  "execution_date": "2026-07-22T18:35:31.990736",
+  "1st_degree_count": 0,
+  "1st_degree_referral_drafts": [],
+  "new_connection_requests_target": 5,
+  "new_connection_requests_sent": [
+    {
+      "first_name": "Mrutunjay",
+      "profile_url": "https://www.linkedin.com/in/mrutunjay-tiwari",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Ayush",
+      "profile_url": "https://www.linkedin.com/in/ayush-kumar-jha-02b7b2115",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Shridhar",
+      "profile_url": "https://www.linkedin.com/in/shridhar-bagal",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Kumar",
+      "profile_url": "https://www.linkedin.com/in/kumar-kranthi-006b3117b",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "ANKIT",
+      "profile_url": "https://www.linkedin.com/in/ankit-kumar-02310b1a0",
+      "status": "Connection Request Sent"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+================================================== 
+Running Workflow at 27-07-2026 12:09:30.50 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 27-07-26 (Today), 26-07-26 (Yesterday)
+==================================================
+[INFO] Found 2 total records across target dates.
+[INFO] Found 1 pending job URLs to process.
+
+--- [1/1] Processing Record ID #9 (Date: 27-07-26) ---
+URL: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcareers%2Emastercard%2Ecom%2Fus%2Fen%2Fjob%2FMASRUSR277214EXTERNALENUS%2FAI-Engineer%3Futm_source%3Dlinkedin%26utm_medium%3Dphenom-feeds%26source%3DLINKEDIN&urlhash=zFyj&mt=h-E3gxDpCGTnXexDlwx34bd2mqVUhpOa2HH-RdM4AATEWW27Hs1bsUV5UJS3jSZDLWCvGpVBkkC1lUAc2LM7y3TtAHs&isSdui=true
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcareers%2Emastercard%2Ecom%2Fus%2Fen%2Fjob%2FMASRUSR277214EXTERNALENUS%2FAI-Engineer%3Futm_source%3Dlinkedin%26utm_medium%3Dphenom-feeds%26source%3DLINKEDIN&urlhash=zFyj&mt=h-E3gxDpCGTnXexDlwx34bd2mqVUhpOa2HH-RdM4AATEWW27Hs1bsUV5UJS3jSZDLWCvGpVBkkC1lUAc2LM7y3TtAHs&isSdui=true ---
+Scraping job URL: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fcareers%2Emastercard%2Ecom%2Fus%2Fen%2Fjob%2FMASRUSR277214EXTERNALENUS%2FAI-Engineer%3Futm_source%3Dlinkedin%26utm_medium%3Dphenom-feeds%26source%3DLINKEDIN&urlhash=zFyj&mt=h-E3gxDpCGTnXexDlwx34bd2mqVUhpOa2HH-RdM4AATEWW27Hs1bsUV5UJS3jSZDLWCvGpVBkkC1lUAc2LM7y3TtAHs&isSdui=true
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "Mastercard",
+  "job_id": "MASRUSR277214EXTERNALENUS",
+  "job_title": "AI-Engineer"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'Mastercard'...
+-> Found exact LinkedIn company name: 'Mastercard'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/mastercard/
+Navigating to company page: https://www.linkedin.com/company/mastercard/
+Navigating to Company People page: https://www.linkedin.com/company/mastercard/people/?facetNetwork=F
+Found person: Sushilkumar (1st Degree: True) -> https://www.linkedin.com/in/sushilkumar-mate-1611572
+Found person: Abhishek (1st Degree: True) -> https://www.linkedin.com/in/abhishekmehendale
+Found person: Nilesh (1st Degree: True) -> https://www.linkedin.com/in/nilesh-dandawate-1870a389
+Found person: Siddhesh (1st Degree: True) -> https://www.linkedin.com/in/siddhesh-jadhav-738157112
+Found person: Satyanarayan (1st Degree: True) -> https://www.linkedin.com/in/satyanarayan-ambat-36153a74
+Navigating to Company People page: https://www.linkedin.com/company/mastercard/people/
+Found person: Vikas (1st Degree: False) -> https://www.linkedin.com/in/vikas-raghav-82a77214b
+Found person: Siddharth (1st Degree: False) -> https://www.linkedin.com/in/siddharth-pradhan-4213ba99
+Found person: Kuleshwar (1st Degree: False) -> https://www.linkedin.com/in/kuleshwar-sahu-507a4745
+Found person: Anshul (1st Degree: False) -> https://www.linkedin.com/in/anshulprasad
+Found person: Abhishek (1st Degree: False) -> https://www.linkedin.com/in/abhishek-velankar
+Generating tailored message for Sushilkumar (connected: True)...
+Generating tailored message for Abhishek (connected: True)...
+Generating tailored message for Nilesh (connected: True)...
+Generating tailored message for Vikas (connected: False)...
+--> Non 1st-degree connection (Vikas). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/vikas-raghav-82a77214b...
+-> Connect button not found. Already connected, pending, or 3rd degree without option.
+Generating tailored message for Siddharth (connected: False)...
+--> Non 1st-degree connection (Siddharth). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/siddharth-pradhan-4213ba99...
+-> Could not find Send button after clicking Connect.
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for Mastercard!
+[SUCCESS] Record #9 successfully processed and updated to 'Completed'!
+
+[COMPLETE] Workflow Execution Finished! Processed 1 pending items.
+================================================== 
+Running Workflow at 27-07-2026 14:11:21.44 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 27-07-26 (Today), 26-07-26 (Yesterday)
+==================================================
+[INFO] Found 3 total records across target dates.
+[INFO] Found 1 pending job URLs to process.
+
+--- [1/1] Processing Record ID #10 (Date: 27-07-26) ---
+URL: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154260?utm_medium=jobboard&utm_source=linkedin
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154260?utm_medium=jobboard&utm_source=linkedin ---
+Scraping job URL: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154260?utm_medium=jobboard&utm_source=linkedin
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "Honeywell",
+  "job_id": "154260",
+  "job_title": "N/A"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'Honeywell'...
+-> Found exact LinkedIn company name: 'Honeywell Technologies'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/honeywell/
+Navigating to company page: https://www.linkedin.com/company/honeywell/
+Navigating to Company People page: https://www.linkedin.com/company/honeywell/people/?facetNetwork=F
+Found person: Neha (1st Degree: True) -> https://www.linkedin.com/in/neha-sharma-01062213
+Found person: Bibhu (1st Degree: True) -> https://www.linkedin.com/in/bibhu-prasad-patri-9b074b160
+Found person: Ankit (1st Degree: True) -> https://www.linkedin.com/in/ankit-ranjan-a4049520a
+Found person: Onkar (1st Degree: True) -> https://www.linkedin.com/in/onkartelang
+Found person: Vijay (1st Degree: True) -> https://www.linkedin.com/in/deshpandevijay
+Navigating to Company People page: https://www.linkedin.com/company/honeywell/people/
+Found person: Rohit (1st Degree: False) -> https://www.linkedin.com/in/chimpchase
+Found person: Venkatesh (1st Degree: False) -> https://www.linkedin.com/in/venkatanziegers
+Found person: Vaibhav (1st Degree: False) -> https://www.linkedin.com/in/vaibhavagarwal47
+Found person: Manoj (1st Degree: False) -> https://www.linkedin.com/in/manoj-r-a64760136
+Found person: Rishabh (1st Degree: False) -> https://www.linkedin.com/in/s-rishabh
+Generating tailored message for Neha (connected: True)...
+Generating tailored message for Bibhu (connected: True)...
+Generating tailored message for Ankit (connected: True)...
+Generating tailored message for Rohit (connected: False)...
+--> Non 1st-degree connection (Rohit). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/chimpchase...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Venkatesh (connected: False)...
+--> Non 1st-degree connection (Venkatesh). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/venkatanziegers...
+-> Could not find Send button after clicking Connect.
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for Honeywell Technologies!
+[SUCCESS] Record #10 successfully processed and updated to 'Completed'!
+
+[COMPLETE] Workflow Execution Finished! Processed 1 pending items.
+================================================== 
+Running Workflow at 27-07-2026 16:11:28.44 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 27-07-26 (Today), 26-07-26 (Yesterday)
+==================================================
+[INFO] Found 3 total records across target dates.
+[INFO] Found 0 pending job URLs to process.
+[SUCCESS] No pending job URLs to process. Everything up to date!
+================================================== 
+Running Workflow at 28-07-2026 12:09:30.51 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 28-07-26 (Today), 27-07-26 (Yesterday)
+==================================================
+[INFO] Found 4 total records across target dates.
+[INFO] Found 1 pending job URLs to process.
+
+--- [1/1] Processing Record ID #11 (Date: 28-07-26) ---
+URL: https://careers.mrcooper.com/us/en/job/MRCOUS024298EXTERNALENUS/Machine-Learning-Engineer
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://careers.mrcooper.com/us/en/job/MRCOUS024298EXTERNALENUS/Machine-Learning-Engineer ---
+Scraping job URL: https://careers.mrcooper.com/us/en/job/MRCOUS024298EXTERNALENUS/Machine-Learning-Engineer
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "mrcooper",
+  "job_id": "MRCOUS024298EXTERNALENUS",
+  "job_title": "Machine-Learning-Engineer"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'mrcooper'...
+-> Found exact LinkedIn company name: 'MrCooper Studio'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/mrcooper-studio/
+Navigating to company page: https://www.linkedin.com/company/mrcooper-studio/
+Navigating to Company People page: https://www.linkedin.com/company/mrcooper-studio/people/?facetNetwork=F
+Navigating to Company People page: https://www.linkedin.com/company/mrcooper-studio/people/
+No connections retrieved. Generating default draft message...
+Generating tailored message for  (connected: False)...
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for MrCooper Studio!
+[SUCCESS] Record #11 successfully processed and updated to 'Completed'!
+
+[COMPLETE] Workflow Execution Finished! Processed 1 pending items.
+================================================== 
+Running Workflow at 28-07-2026 16:11:28.51 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 28-07-26 (Today), 27-07-26 (Yesterday)
+==================================================
+[INFO] Found 4 total records across target dates.
+[INFO] Found 0 pending job URLs to process.
+[SUCCESS] No pending job URLs to process. Everything up to date!
+================================================== 
+Running Workflow at 29-07-2026 12:09:30.53 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 29-07-26 (Today), 28-07-26 (Yesterday)
+==================================================
+[INFO] Found 1 total records across target dates.
+[INFO] Found 0 pending job URLs to process.
+[SUCCESS] No pending job URLs to process. Everything up to date!
+================================================== 
+Running Workflow at 29-07-2026 14:36:08.88 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 29-07-26 (Today), 28-07-26 (Yesterday)
+==================================================
+[INFO] Found 3 total records across target dates.
+[INFO] Found 2 pending job URLs to process.
+
+--- [1/2] Processing Record ID #12 (Date: 29-07-26) ---
+URL: https://search.jobs.barclays/job/bengaluru/engineer-ai-platform/13015/93001881504
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://search.jobs.barclays/job/bengaluru/engineer-ai-platform/13015/93001881504 ---
+Scraping job URL: https://search.jobs.barclays/job/bengaluru/engineer-ai-platform/13015/93001881504
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "Barclays",
+  "job_id": "13015",
+  "job_title": "Engineer - AI Platform"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'Barclays'...
+-> Found exact LinkedIn company name: 'Barclays'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/barclays-bank/
+Navigating to company page: https://www.linkedin.com/company/barclays-bank/
+Navigating to Company People page: https://www.linkedin.com/company/barclays-bank/people/?facetNetwork=F
+Found person: Sushant (1st Degree: True) -> https://www.linkedin.com/in/sushant1803
+Found person: Sharan (1st Degree: True) -> https://www.linkedin.com/in/sharan-benur
+Found person: Nikhil (1st Degree: True) -> https://www.linkedin.com/in/itsnikhil09
+Found person: Snehal (1st Degree: True) -> https://www.linkedin.com/in/snehalvir
+Found person: Manas (1st Degree: True) -> https://www.linkedin.com/in/manasbatra1216
+Navigating to Company People page: https://www.linkedin.com/company/barclays-bank/people/
+Found person: Rohini (1st Degree: False) -> https://www.linkedin.com/in/rohini-bhavsar
+Found person: Pratik (1st Degree: False) -> https://www.linkedin.com/in/pratik-morey-0511a0162
+Found person: Shubham (1st Degree: False) -> https://www.linkedin.com/in/shubhamgogawale-5a335b12b
+Found person: Adarsh (1st Degree: False) -> https://www.linkedin.com/in/adrsh23
+Found person: Sourabh (1st Degree: False) -> https://www.linkedin.com/in/sourabh-k-61b765159
+Generating tailored message for Sushant (connected: True)...
+Generating tailored message for Sharan (connected: True)...
+Generating tailored message for Nikhil (connected: True)...
+Generating tailored message for Rohini (connected: False)...
+--> Non 1st-degree connection (Rohini). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/rohini-bhavsar...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Pratik (connected: False)...
+--> Non 1st-degree connection (Pratik). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/pratik-morey-0511a0162...
+-> Could not find Send button after clicking Connect.
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for Barclays!
+[SUCCESS] Record #12 successfully processed and updated to 'Completed'!
+
+--- [2/2] Processing Record ID #13 (Date: 29-07-26) ---
+URL: https://citi.eightfold.ai/careers/job/859036531833
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://citi.eightfold.ai/careers/job/859036531833 ---
+Scraping job URL: https://citi.eightfold.ai/careers/job/859036531833
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "Citi",
+  "job_id": "859036531833",
+  "job_title": "Applications Development Intermediate Programmer Analyst"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'Citi'...
+-> Found exact LinkedIn company name: 'Citi'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/citi/
+Navigating to company page: https://www.linkedin.com/company/citi/
+Navigating to Company People page: https://www.linkedin.com/company/citi/people/?facetNetwork=F
+Found person: Pavan (1st Degree: True) -> https://www.linkedin.com/in/pavanwagh
+Found person: Gyanesh (1st Degree: True) -> https://www.linkedin.com/in/gyaneshsamal
+Found person: Shubham (1st Degree: True) -> https://www.linkedin.com/in/shubham-malviya-a2a058170
+Found person: Bhoopendra (1st Degree: True) -> https://www.linkedin.com/in/bhoopendra-yadav-930119249
+Found person: Swadesh (1st Degree: True) -> https://www.linkedin.com/in/swadesh-kothari-59934b128
+Navigating to Company People page: https://www.linkedin.com/company/citi/people/
+Found person: Vajreshwari (1st Degree: False) -> https://www.linkedin.com/in/vajreshwari-huchanatti
+Found person: Abhinav (1st Degree: False) -> https://www.linkedin.com/in/gangrade-abhinav
+Found person: Gaurav (1st Degree: False) -> https://www.linkedin.com/in/gaurav-mulchandani-21150610b
+Found person: Sachin (1st Degree: False) -> https://www.linkedin.com/in/sachin-satpute101
+Found person: Pratik (1st Degree: False) -> https://www.linkedin.com/in/pratik-saha-6b17aa145
+Generating tailored message for Pavan (connected: True)...
+Generating tailored message for Gyanesh (connected: True)...
+Generating tailored message for Shubham (connected: True)...
+Generating tailored message for Vajreshwari (connected: False)...
+--> Non 1st-degree connection (Vajreshwari). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/vajreshwari-huchanatti...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Abhinav (connected: False)...
+--> Non 1st-degree connection (Abhinav). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/gangrade-abhinav...
+-> Could not find Send button after clicking Connect.
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for Citi!
+[SUCCESS] Record #13 successfully processed and updated to 'Completed'!
+
+[COMPLETE] Workflow Execution Finished! Processed 2 pending items.
+================================================== 
+Running Workflow at 29-07-2026 16:11:28.51 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 29-07-26 (Today), 28-07-26 (Yesterday)
+==================================================
+[INFO] Found 3 total records across target dates.
+[INFO] Found 0 pending job URLs to process.
+[SUCCESS] No pending job URLs to process. Everything up to date!
+================================================== 
+Running Workflow at 30-07-2026 12:09:30.55 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 30-07-26 (Today), 29-07-26 (Yesterday)
+==================================================
+[INFO] Found 2 total records across target dates.
+[INFO] Found 0 pending job URLs to process.
+[SUCCESS] No pending job URLs to process. Everything up to date!
+================================================== 
+Running Workflow at 30-07-2026 16:11:28.56 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 30-07-26 (Today), 29-07-26 (Yesterday)
+==================================================
+[INFO] Found 2 total records across target dates.
+[INFO] Found 0 pending job URLs to process.
+[SUCCESS] No pending job URLs to process. Everything up to date!
+================================================== 
+Running Workflow at 31-07-2026 12:09:30.56 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 31-07-26 (Today), 30-07-26 (Yesterday)
+==================================================
+[INFO] Found 3 total records across target dates.
+[INFO] Found 3 pending job URLs to process.
+
+--- [1/3] Processing Record ID #14 (Date: 31-07-26) ---
+URL: https://healthcare.wd1.myworkdayjobs.com/Search/job/IN-BANGALORE/Machine-Learning-Engineer_R01132387?source=LinkedIn
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://healthcare.wd1.myworkdayjobs.com/Search/job/IN-BANGALORE/Machine-Learning-Engineer_R01132387?source=LinkedIn ---
+Scraping job URL: https://healthcare.wd1.myworkdayjobs.com/Search/job/IN-BANGALORE/Machine-Learning-Engineer_R01132387?source=LinkedIn
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "Healthcare",
+  "job_id": "R01132387",
+  "job_title": "Machine-Learning-Engineer"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'Healthcare'...
+-> Found exact LinkedIn company name: 'Page by Grupo Mídia'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/grupo-midia/
+Navigating to company page: https://www.linkedin.com/company/grupo-midia/
+Navigating to Company People page: https://www.linkedin.com/company/grupo-midia/people/?facetNetwork=F
+Navigating to Company People page: https://www.linkedin.com/company/grupo-midia/people/
+No connections retrieved. Generating default draft message...
+Generating tailored message for  (connected: False)...
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for Page by Grupo Mídia!
+[SUCCESS] Record #14 successfully processed and updated to 'Completed'!
+
+--- [2/3] Processing Record ID #15 (Date: 31-07-26) ---
+URL: https://jobs.lever.co/aeratechnology/a5e2a621-a540-4230-bed8-574dadf58469/apply?source=LinkedIn
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://jobs.lever.co/aeratechnology/a5e2a621-a540-4230-bed8-574dadf58469/apply?source=LinkedIn ---
+Scraping job URL: https://jobs.lever.co/aeratechnology/a5e2a621-a540-4230-bed8-574dadf58469/apply?source=LinkedIn
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "aeratechnology",
+  "job_id": "a5e2a621-a540-4230-bed8-574dadf58469",
+  "job_title": "AI/ Machine Learning Engineer"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'aeratechnology'...
+-> Found exact LinkedIn company name: 'Page by Aera Technology'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/aera-technology/
+Navigating to company page: https://www.linkedin.com/company/aera-technology/
+Navigating to Company People page: https://www.linkedin.com/company/aera-technology/people/?facetNetwork=F
+Found person: Kartik (1st Degree: True) -> https://www.linkedin.com/in/kartik-bali-340440202
+Found person: Sagar (1st Degree: True) -> https://www.linkedin.com/in/sagar-bhandge
+Found person: Santhosh (1st Degree: True) -> https://www.linkedin.com/in/santhosh-kumar-pampati-172b3490
+Found person: Lokesh (1st Degree: True) -> https://www.linkedin.com/in/lokeshkamani-ds121
+Navigating to Company People page: https://www.linkedin.com/company/aera-technology/people/
+Found person: Parth (1st Degree: False) -> https://www.linkedin.com/in/parth-agarwal-30b8b1166
+Found person: Kritika (1st Degree: False) -> https://www.linkedin.com/in/kritika-m
+Found person: Umesh (1st Degree: False) -> https://www.linkedin.com/in/umesh-nagar-515210119
+Generating tailored message for Kartik (connected: True)...
+Generating tailored message for Sagar (connected: True)...
+Generating tailored message for Santhosh (connected: True)...
+Generating tailored message for Lokesh (connected: True)...
+Generating tailored message for Parth (connected: False)...
+--> Non 1st-degree connection (Parth). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/parth-agarwal-30b8b1166...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Kritika (connected: False)...
+--> Non 1st-degree connection (Kritika). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/kritika-m...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Umesh (connected: False)...
+--> Non 1st-degree connection (Umesh). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/umesh-nagar-515210119...
+-> Could not find Send button after clicking Connect.
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for Page by Aera Technology!
+[SUCCESS] Record #15 successfully processed and updated to 'Completed'!
+
+--- [3/3] Processing Record ID #16 (Date: 31-07-26) ---
+URL: https://www.coinbase.com/en-in/careers/positions/7985187?gh_jid=7985187&gh_src=mmvio3vg1us
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://www.coinbase.com/en-in/careers/positions/7985187?gh_jid=7985187&gh_src=mmvio3vg1us ---
+Scraping job URL: https://www.coinbase.com/en-in/careers/positions/7985187?gh_jid=7985187&gh_src=mmvio3vg1us
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "coinbase",
+  "job_id": "7985187",
+  "job_title": "N/A"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'coinbase'...
+-> Found exact LinkedIn company name: 'Coinbase'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/coinbase/
+Navigating to company page: https://www.linkedin.com/company/coinbase/
+Navigating to Company People page: https://www.linkedin.com/company/coinbase/people/?facetNetwork=F
+Found person: Mudit (1st Degree: True) -> https://www.linkedin.com/in/mudit-tiwari
+Found person: Abhishek (1st Degree: True) -> https://www.linkedin.com/in/abhishekjakhar
+Navigating to Company People page: https://www.linkedin.com/company/coinbase/people/
+Found person: Mohit (1st Degree: False) -> https://www.linkedin.com/in/mohit-rathour
+Found person: Kush (1st Degree: False) -> https://www.linkedin.com/in/kushoz
+Found person: Amisha (1st Degree: False) -> https://www.linkedin.com/in/amisha-ranjan
+Generating tailored message for Mudit (connected: True)...
+Generating tailored message for Abhishek (connected: True)...
+Generating tailored message for Mohit (connected: False)...
+--> Non 1st-degree connection (Mohit). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/mohit-rathour...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Kush (connected: False)...
+--> Non 1st-degree connection (Kush). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/kushoz...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Amisha (connected: False)...
+--> Non 1st-degree connection (Amisha). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/amisha-ranjan...
+-> Could not find Send button after clicking Connect.
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for Coinbase!
+[SUCCESS] Record #16 successfully processed and updated to 'Completed'!
+
+[COMPLETE] Workflow Execution Finished! Processed 3 pending items.
+================================================== 
+Running Workflow at 31-07-2026 16:11:29.18 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 31-07-26 (Today), 30-07-26 (Yesterday)
+==================================================
+[INFO] Found 3 total records across target dates.
+[INFO] Found 0 pending job URLs to process.
+[SUCCESS] No pending job URLs to process. Everything up to date!
+================================================== 
+Running Workflow at 03-08-2026 12:09:30.57 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 03-08-26 (Today), 02-08-26 (Yesterday)
+==================================================
+[INFO] Found 2 total records across target dates.
+[INFO] Found 2 pending job URLs to process.
+
+--- [1/2] Processing Record ID #17 (Date: 03-08-26) ---
+URL: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154260?utm_medium=jobboard&utm_source=linkedin
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154260?utm_medium=jobboard&utm_source=linkedin ---
+Scraping job URL: https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154260?utm_medium=jobboard&utm_source=linkedin
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "Honeywell",
+  "job_id": "154260",
+  "job_title": "N/A"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'Honeywell'...
+-> Found exact LinkedIn company name: 'Honeywell Technologies'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/honeywell/
+Navigating to company page: https://www.linkedin.com/company/honeywell/
+Navigating to Company People page: https://www.linkedin.com/company/honeywell/people/?facetNetwork=F
+Found person: Bibhu (1st Degree: True) -> https://www.linkedin.com/in/bibhu-prasad-patri-9b074b160
+Found person: Neha (1st Degree: True) -> https://www.linkedin.com/in/neha-sharma-01062213
+Found person: Ankit (1st Degree: True) -> https://www.linkedin.com/in/ankit-ranjan-a4049520a
+Found person: Onkar (1st Degree: True) -> https://www.linkedin.com/in/onkartelang
+Found person: Vijay (1st Degree: True) -> https://www.linkedin.com/in/deshpandevijay
+Navigating to Company People page: https://www.linkedin.com/company/honeywell/people/
+Found person: Vignesh (1st Degree: False) -> https://www.linkedin.com/in/vignesh-s-r-937914191
+Found person: Pinchu (1st Degree: False) -> https://www.linkedin.com/in/pinchu-prabha-724b53104
+Found person: Rohit (1st Degree: False) -> https://www.linkedin.com/in/chimpchase
+Generating tailored message for Bibhu (connected: True)...
+Generating tailored message for Neha (connected: True)...
+Generating tailored message for Ankit (connected: True)...
+Generating tailored message for Onkar (connected: True)...
+Generating tailored message for Vijay (connected: True)...
+Generating tailored message for Vignesh (connected: False)...
+--> Non 1st-degree connection (Vignesh). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/vignesh-s-r-937914191...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Pinchu (connected: False)...
+--> Non 1st-degree connection (Pinchu). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/pinchu-prabha-724b53104...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Rohit (connected: False)...
+--> Non 1st-degree connection (Rohit). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/chimpchase...
+-> Could not find Send button after clicking Connect.
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for Honeywell Technologies!
+[SUCCESS] Record #17 successfully processed and updated to 'Completed'!
+
+--- [2/2] Processing Record ID #18 (Date: 03-08-26) ---
+URL: https://usource.ripplehire.com/candidate/?token=8YxWjpwDhdL62DFYUIcQ&lang=en&source=USTLINKEDIN&ref=USTLINKEDIN#detail/job/56390
+Status updated to: 'In-Process'
+
+--- Processing Job URL: https://usource.ripplehire.com/candidate/?token=8YxWjpwDhdL62DFYUIcQ&lang=en&source=USTLINKEDIN&ref=USTLINKEDIN#detail/job/56390 ---
+Scraping job URL: https://usource.ripplehire.com/candidate/?token=8YxWjpwDhdL62DFYUIcQ&lang=en&source=USTLINKEDIN&ref=USTLINKEDIN#detail/job/56390
+Extracting job details using LLM (llama-3.1-8b-instant)...
+-> Extracted Data: {
+  "company_name": "UST",
+  "job_id": "56390",
+  "job_title": "ML Engineer I"
+}
+Loading saved LinkedIn session state...
+Searching LinkedIn for company: 'UST'...
+-> Found exact LinkedIn company name: 'UST'
+-> Found LinkedIn Company URL: https://www.linkedin.com/company/ustglobal/
+Navigating to company page: https://www.linkedin.com/company/ustglobal/
+Navigating to Company People page: https://www.linkedin.com/company/ustglobal/people/?facetNetwork=F
+Found person: Joseph (1st Degree: True) -> https://www.linkedin.com/in/joseph-kurian-18ab0b201
+Found person: Nikhil (1st Degree: True) -> https://www.linkedin.com/in/mathurnik
+Found person: Shubham (1st Degree: True) -> https://www.linkedin.com/in/shubham-gupta09626
+Found person: Manoj (1st Degree: True) -> https://www.linkedin.com/in/manoj-gm-bb19bb88
+Found person: Kishore (1st Degree: True) -> https://www.linkedin.com/in/kishoreguptaofficial
+Navigating to Company People page: https://www.linkedin.com/company/ustglobal/people/
+Found person: Nandu (1st Degree: False) -> https://www.linkedin.com/in/nandu-rajendran-6a5986205
+Found person: Chitransh (1st Degree: False) -> https://www.linkedin.com/in/chitransh-j-287a251a2
+Found person: Suraj (1st Degree: False) -> https://www.linkedin.com/in/suraj-kumar-mohanta-049b25136
+Generating tailored message for Joseph (connected: True)...
+Generating tailored message for Nikhil (connected: True)...
+Generating tailored message for Shubham (connected: True)...
+Generating tailored message for Manoj (connected: True)...
+Generating tailored message for Kishore (connected: True)...
+Generating tailored message for Nandu (connected: False)...
+--> Non 1st-degree connection (Nandu). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/nandu-rajendran-6a5986205...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Chitransh (connected: False)...
+--> Non 1st-degree connection (Chitransh). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/chitransh-j-287a251a2...
+-> Could not find Send button after clicking Connect.
+Generating tailored message for Suraj (connected: False)...
+--> Non 1st-degree connection (Suraj). Sending connection request (no note)...
+Sending connection request to https://www.linkedin.com/in/suraj-kumar-mohanta-049b25136...
+-> Could not find Send button after clicking Connect.
+[SUCCESS] Email notification sent to animeshkr7@gmail.com for UST!
+[SUCCESS] Record #18 successfully processed and updated to 'Completed'!
+
+[COMPLETE] Workflow Execution Finished! Processed 2 pending items.
+================================================== 
+Running Workflow at 03-08-2026 16:11:28.57 
+================================================== 
+
+==================================================
+[START] Automated Job URL Outreach Workflow
+[DATE] Target Dates: 03-08-26 (Today), 02-08-26 (Yesterday)
+==================================================
+[INFO] Found 2 total records across target dates.
+[INFO] Found 0 pending job URLs to process.
+[SUCCESS] No pending job URLs to process. Everything up to date!

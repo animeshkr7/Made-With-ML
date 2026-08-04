@@ -1,0 +1,37 @@
+{
+  "company_name": "Priceline",
+  "company_url": "https://www.linkedin.com/company/priceline-com/",
+  "execution_date": "2026-07-22T18:39:29.680771",
+  "1st_degree_count": 1,
+  "1st_degree_referral_drafts": [
+    {
+      "first_name": "Yash",
+      "profile_url": "https://www.linkedin.com/in/yash-mandwal-a763b0216",
+      "is_1st_degree": true,
+      "draft_message": "Hi Yash,\n\nI noticed Priceline is hiring for a Role and my background matches the requirements. If you are open to it, could you please guide me or refer me for this position? Job ID: N/A\n\nAttached my resume for reference.\n\nBest regards"
+    }
+  ],
+  "new_connection_requests_target": 4,
+  "new_connection_requests_sent": [
+    {
+      "first_name": "Nishant",
+      "profile_url": "https://www.linkedin.com/in/nk28",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Punit",
+      "profile_url": "https://www.linkedin.com/in/punitsavlesha",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Yash",
+      "profile_url": "https://www.linkedin.com/in/yash-patil-719704184",
+      "status": "Connection Request Sent"
+    },
+    {
+      "first_name": "Mohd",
+      "profile_url": "https://www.linkedin.com/in/mohd-aamir-250691",
+      "status": "Connection Request Sent"
+    }
+  ]
+}

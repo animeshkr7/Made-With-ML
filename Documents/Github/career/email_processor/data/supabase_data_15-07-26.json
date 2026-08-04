@@ -1,0 +1,23 @@
+{
+    "message": "Found 3 records",
+    "data": [
+        {
+            "id": 1,
+            "email": "test@example.com",
+            "type": "Machine Learning Engineer",
+            "date": "15-07-26"
+        },
+        {
+            "id": 2,
+            "email": "animeshkr7@gmail.com",
+            "type": "X",
+            "date": "15-07-26"
+        },
+        {
+            "id": 3,
+            "email": "an@ha.com",
+            "type": "Application",
+            "date": "15-07-26"
+        }
+    ]
+}

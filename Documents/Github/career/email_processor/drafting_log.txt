@@ -1,0 +1,4 @@
+Starting daily drafting task for date: 03-08-26
+Fetching data from https://email-creator-api.onrender.com/fetch_by_date?date=03-08-26...
+Error fetching data from API: HTTP Error 503: Service Unavailable
+Email notification sent successfully!

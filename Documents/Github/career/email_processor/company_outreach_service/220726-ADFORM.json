@@ -1,0 +1,50 @@
+{
+  "company_name": "Adform",
+  "company_url": "https://www.linkedin.com/company/adform/",
+  "execution_date": "2026-07-22T14:57:44.307458",
+  "1st_degree_count": 0,
+  "1st_degree_referral_drafts": [],
+  "new_connection_requests_target": 5,
+  "new_connection_requests_sent": [
+    {
+      "first_name": "Mayank",
+      "profile_url": "https://www.linkedin.com/in/mayank-dewal-2bb2b4229",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:29:58.567787",
+      "draft_message": "Hi Mayank,\n\nThanks for connecting! I noticed Adform is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Siddhi",
+      "profile_url": "https://www.linkedin.com/in/siddhi-pitale",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:30:07.271825",
+      "draft_message": "Hi Siddhi,\n\nThanks for connecting! I noticed Adform is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Harish",
+      "profile_url": "https://www.linkedin.com/in/harishfegade",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:30:17.839074",
+      "draft_message": "Hi Harish,\n\nThanks for connecting! I noticed Adform is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Ritik",
+      "profile_url": "https://www.linkedin.com/in/ritik-modi-2b7510194",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:30:27.363734",
+      "draft_message": "Hi Ritik,\n\nThanks for connecting! I noticed Adform is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Gaurav",
+      "profile_url": "https://www.linkedin.com/in/gaurav-gulia-4579b1239",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:30:35.973831",
+      "draft_message": "Hi Gaurav,\n\nThanks for connecting! I noticed Adform is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    }
+  ]
+}

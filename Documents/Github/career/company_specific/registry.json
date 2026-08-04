@@ -1,0 +1,60 @@
+{
+    "companies": [
+        {
+            "id": "akaike",
+            "name": "Akaike.ai",
+            "career_url": "http://akaike.ai/careers",
+            "base_ats": "keka",
+            "scraper_module": "src.companies.akaike"
+        },
+        {
+            "id": "aplazo",
+            "name": "Aplazo",
+            "career_url": "https://aplazo.mx/",
+            "base_ats": "ashby",
+            "scraper_module": "src.companies.aplazo"
+        },
+        {
+            "id": "arista",
+            "name": "Arista Networks",
+            "career_url": "https://www.arista.com/en/careers/",
+            "base_ats": "smartrecruiters",
+            "scraper_module": "src.companies.arista"
+        },
+        {
+            "id": "avalara",
+            "name": "Avalara",
+            "career_url": "https://careers.avalara.com/",
+            "base_ats": "careerpuck",
+            "scraper_module": "src.companies.avalara"
+        },
+        {
+            "id": "cvent",
+            "name": "Cvent",
+            "career_url": "https://www.cvent.com/en/careers",
+            "base_ats": "custom",
+            "scraper_module": "src.companies.cvent"
+        },
+        {
+            "id": "honeywell",
+            "name": "Honeywell",
+            "career_url": "https://careers.honeywell.com",
+            "base_ats": "custom",
+            "scraper_module": "src.companies.honeywell"
+        },
+        {
+            "id": "icertis",
+            "name": "Icertis",
+            "career_url": "https://www.icertis.com/careers",
+            "base_ats": "oracle",
+            "scraper_module": "src.companies.icertis"
+        },
+        {
+            "id": "cisco",
+            "name": "Cisco (ThousandEyes)",
+            "career_url": "https://jobs.cisco.com",
+            "base_ats": "custom",
+            "scraper_module": "src.companies.cisco"
+        }
+    ]
+}

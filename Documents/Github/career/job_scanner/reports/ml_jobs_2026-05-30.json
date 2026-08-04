@@ -1,0 +1,291 @@
+{
+  "scan_date": "2026-05-30",
+  "metrics": {
+    "companies_scanned": 3,
+    "total_discovered": 217,
+    "total_recent": 13,
+    "total_ml_candidates": 13,
+    "matches_found": 12
+  },
+  "matches": [
+    {
+      "title": "Lead Data Scientist",
+      "url": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "The job posting is for a Lead Data Scientist role that involves building predictive models, designing experimentation programs, and leading a team of data scientists. The role requires expertise in statistical inference, experimental design, and predictive modeling, as well as experience leading analytics or data science teams. The job posting also mentions working on the cutting edge of AI research, which suggests that the role involves machine learning and deep learning development.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Machine Learning Intern/Co-op (Fall, 2026)",
+      "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "This job posting is for a Machine Learning Intern role, which involves designing, training, and improving cutting-edge models, developing new techniques to train and serve models, and exploring continual and active learning strategies. The required skills include proficiency in Python and related ML frameworks, experience using large-scale distributed training strategies, familiarity with autoregressive sequence models, and a demonstrated passion for applied NLP models and products. These responsibilities and skills are indicative of a dedicated Machine Learning Engineer role.",
+      "confidence_score": 1.0,
+      "company": "Cohere"
+    },
+    {
+      "title": "Senior ML Systems Engineer, Frameworks & Tooling",
+      "url": "https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f",
+      "location": "N/A",
+      "extracted_date": "2026-05-30",
+      "date_status": "Today",
+      "reasoning": "This role is dedicated to building, maintaining, and evolving the training framework for large-scale language models, which involves designing distributed training abstractions, improving training throughput and stability, and developing tooling for monitoring, logging, debugging, and developer ergonomics. The job requires expertise in large-scale distributed training or HPC systems, familiarity with JAX internals, and experience with multi-node cluster orchestration, containerized environments, and performance engineering.",
+      "confidence_score": 1.0,
+      "company": "Cohere"
+    },
+    {
+      "title": "Applied AI Engineer - Agentic Workflows",
+      "url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "This job posting is classified as a Machine Learning Engineer role because it requires the design, build, and deployment of agentic workflows powered by Large Language Models (LLMs), which involves training and fine-tuning models, as well as working with vector databases and agent/orchestration frameworks. The role also requires experience with RAG, agent workflows, evaluation, and performance optimization, which are all key aspects of Machine Learning engineering.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Applied AI Engineer \u2013 Agentic Workflows (Korea)",
+      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "This job posting is classified as a dedicated Machine Learning Engineer role due to the emphasis on designing, building, and deploying Large Language Models (LLMs) for enterprise customers. The role requires substantial hands-on experience with LLM-based agents, modern LLM ecosystems, and robust failure handling. The job also involves technical leadership, mentorship, and collaboration with customers, product, and platform teams to shape how agentic systems are built, evaluated, and deployed at scale.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Member of Technical Staff, MLE",
+      "url": "https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "This role involves training and customizing frontier models, leveraging a full stack of CPT, post-training, retrieval + agent integrations, model evaluations, and SOTA modeling techniques. The job requires strong ML fundamentals, fluency with Python and core ML/LLM frameworks, and experience working with large-scale datasets and distributed training or inference pipelines. The role also involves contributing to the design and delivery of custom LLM solutions for enterprise customers, which indicates a high level of involvement in ML development.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Member of Technical Staff, MLE (Korea)",
+      "url": "https://jobs.ashbyhq.com/cohere/31c47498-0ccf-4d23-a418-0d2c616ba909",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "The job posting explicitly mentions 'Applied ML team', 'Large Language Models', 'Tensorflow', 'TF-Serving', 'JAX', and 'XLA/MLIR', which are all related to Machine Learning and Deep Learning. The job responsibilities also include tasks such as training and deploying frontier models, identifying opportunities and gaps in existing models, and strategizing what to work on, which are all indicative of a Machine Learning Engineer role.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Member of Technical Staff, MLE",
+      "url": "https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "The job posting explicitly mentions 'Applied ML team', 'Large Language Models', 'Tensorflow', 'TF-Serving', 'JAX', and 'XLA/MLIR', which are all related to machine learning and deep learning. The job responsibilities also include tasks such as training and deploying frontier models, identifying opportunities and gaps in existing models, and strategizing what to work on, which are all indicative of a machine learning engineer role.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Member of Technical Staff, MLE",
+      "url": "https://jobs.ashbyhq.com/cohere/a29a310d-074e-46f2-bdad-308d458d4011",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "This role involves training and customizing frontier models, leveraging a full stack of CPT, post-training, retrieval + agent integrations, model evaluations, and SOTA modeling techniques. The candidate will also contribute to the design and delivery of custom LLM solutions for enterprise customers, build custom models using Cohere's foundation model stack, and develop SOTA modeling techniques. These responsibilities align with the definition of a dedicated Machine Learning Engineer role.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Member of Technical Staff, Senior/Staff MLE",
+      "url": "https://jobs.ashbyhq.com/cohere/86b305e5-84fe-47ab-bc5c-b79a74a63194",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "The job posting explicitly mentions 'Applied ML', 'LLMs', 'CPT', 'post-training', 'retrieval + agent integrations', 'model evaluations', and 'SOTA modeling techniques', which are all indicative of a dedicated Machine Learning Engineer role. The job requires building custom models, training and customizing frontier models, and influencing the capabilities of Cohere's foundation models, further solidifying the classification as a Machine Learning Engineer role.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Senior Member of Technical Staff, MLE (Middle East)",
+      "url": "https://jobs.ashbyhq.com/cohere/6142564c-1e47-48f7-9519-2ce857c92ed9",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "The job posting explicitly mentions 'Applied ML team', 'Large Language Models', 'Tensorflow', 'TF-Serving', 'JAX', and 'XLA/MLIR', which are all related to Machine Learning. Additionally, the job requires experience in leading ML teams, setting technical direction, and developing solutions using ML models. These are all strong indicators that the role is dedicated to ML/DL development.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    },
+    {
+      "title": "Software Engineer - Applied ML - UK Public Sector",
+      "url": "https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da",
+      "location": "N/A",
+      "extracted_date": "N/A",
+      "date_status": "Date Unspecified",
+      "reasoning": "The job posting explicitly mentions 'Applied ML', 'Large Language Models', 'ML infrastructure', 'AI-powered solutions', 'Language models using frameworks like Lang Chain', and 'day-to-day NLP for the industry'. These keywords strongly indicate that the role is dedicated to Machine Learning development.",
+      "confidence_score": 0.95,
+      "company": "Cohere"
+    }
+  ],
+  "raw_results": [
+    {
+      "company": "OpenAI",
+      "url": "https://openai.com/careers",
+      "scan_time": "2026-05-30T11:19:04.330450",
+      "discovered_total": 35,
+      "recent_count": 0,
+      "ml_candidates_count": 0,
+      "matching_ml_jobs": [],
+      "discarded_jobs": []
+    },
+    {
+      "company": "Cohere",
+      "url": "https://jobs.ashbyhq.com/cohere",
+      "scan_time": "2026-05-30T11:19:05.014447",
+      "discovered_total": 114,
+      "recent_count": 13,
+      "ml_candidates_count": 13,
+      "matching_ml_jobs": [
+        {
+          "title": "Lead Data Scientist",
+          "url": "https://jobs.ashbyhq.com/cohere/39cab400-c976-41d9-9002-880ac6985b64",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "The job posting is for a Lead Data Scientist role that involves building predictive models, designing experimentation programs, and leading a team of data scientists. The role requires expertise in statistical inference, experimental design, and predictive modeling, as well as experience leading analytics or data science teams. The job posting also mentions working on the cutting edge of AI research, which suggests that the role involves machine learning and deep learning development.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Machine Learning Intern/Co-op (Fall, 2026)",
+          "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "This job posting is for a Machine Learning Intern role, which involves designing, training, and improving cutting-edge models, developing new techniques to train and serve models, and exploring continual and active learning strategies. The required skills include proficiency in Python and related ML frameworks, experience using large-scale distributed training strategies, familiarity with autoregressive sequence models, and a demonstrated passion for applied NLP models and products. These responsibilities and skills are indicative of a dedicated Machine Learning Engineer role.",
+          "confidence_score": 1.0,
+          "company": "Cohere"
+        },
+        {
+          "title": "Senior ML Systems Engineer, Frameworks & Tooling",
+          "url": "https://jobs.ashbyhq.com/cohere/c99e61c9-ed92-426d-9711-188dfc0f729f",
+          "location": "N/A",
+          "extracted_date": "2026-05-30",
+          "date_status": "Today",
+          "reasoning": "This role is dedicated to building, maintaining, and evolving the training framework for large-scale language models, which involves designing distributed training abstractions, improving training throughput and stability, and developing tooling for monitoring, logging, debugging, and developer ergonomics. The job requires expertise in large-scale distributed training or HPC systems, familiarity with JAX internals, and experience with multi-node cluster orchestration, containerized environments, and performance engineering.",
+          "confidence_score": 1.0,
+          "company": "Cohere"
+        },
+        {
+          "title": "Applied AI Engineer - Agentic Workflows",
+          "url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "This job posting is classified as a Machine Learning Engineer role because it requires the design, build, and deployment of agentic workflows powered by Large Language Models (LLMs), which involves training and fine-tuning models, as well as working with vector databases and agent/orchestration frameworks. The role also requires experience with RAG, agent workflows, evaluation, and performance optimization, which are all key aspects of Machine Learning engineering.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Applied AI Engineer \u2013 Agentic Workflows (Korea)",
+          "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "This job posting is classified as a dedicated Machine Learning Engineer role due to the emphasis on designing, building, and deploying Large Language Models (LLMs) for enterprise customers. The role requires substantial hands-on experience with LLM-based agents, modern LLM ecosystems, and robust failure handling. The job also involves technical leadership, mentorship, and collaboration with customers, product, and platform teams to shape how agentic systems are built, evaluated, and deployed at scale.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Member of Technical Staff, MLE",
+          "url": "https://jobs.ashbyhq.com/cohere/110ba167-4efd-43b7-85d2-3ff719a28b0f",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "This role involves training and customizing frontier models, leveraging a full stack of CPT, post-training, retrieval + agent integrations, model evaluations, and SOTA modeling techniques. The job requires strong ML fundamentals, fluency with Python and core ML/LLM frameworks, and experience working with large-scale datasets and distributed training or inference pipelines. The role also involves contributing to the design and delivery of custom LLM solutions for enterprise customers, which indicates a high level of involvement in ML development.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Member of Technical Staff, MLE (Korea)",
+          "url": "https://jobs.ashbyhq.com/cohere/31c47498-0ccf-4d23-a418-0d2c616ba909",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "The job posting explicitly mentions 'Applied ML team', 'Large Language Models', 'Tensorflow', 'TF-Serving', 'JAX', and 'XLA/MLIR', which are all related to Machine Learning and Deep Learning. The job responsibilities also include tasks such as training and deploying frontier models, identifying opportunities and gaps in existing models, and strategizing what to work on, which are all indicative of a Machine Learning Engineer role.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Member of Technical Staff, MLE",
+          "url": "https://jobs.ashbyhq.com/cohere/876a2d31-e6c3-497b-9c8e-0b7d111fb4cd",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "The job posting explicitly mentions 'Applied ML team', 'Large Language Models', 'Tensorflow', 'TF-Serving', 'JAX', and 'XLA/MLIR', which are all related to machine learning and deep learning. The job responsibilities also include tasks such as training and deploying frontier models, identifying opportunities and gaps in existing models, and strategizing what to work on, which are all indicative of a machine learning engineer role.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Member of Technical Staff, MLE",
+          "url": "https://jobs.ashbyhq.com/cohere/a29a310d-074e-46f2-bdad-308d458d4011",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "This role involves training and customizing frontier models, leveraging a full stack of CPT, post-training, retrieval + agent integrations, model evaluations, and SOTA modeling techniques. The candidate will also contribute to the design and delivery of custom LLM solutions for enterprise customers, build custom models using Cohere's foundation model stack, and develop SOTA modeling techniques. These responsibilities align with the definition of a dedicated Machine Learning Engineer role.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Member of Technical Staff, Senior/Staff MLE",
+          "url": "https://jobs.ashbyhq.com/cohere/86b305e5-84fe-47ab-bc5c-b79a74a63194",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "The job posting explicitly mentions 'Applied ML', 'LLMs', 'CPT', 'post-training', 'retrieval + agent integrations', 'model evaluations', and 'SOTA modeling techniques', which are all indicative of a dedicated Machine Learning Engineer role. The job requires building custom models, training and customizing frontier models, and influencing the capabilities of Cohere's foundation models, further solidifying the classification as a Machine Learning Engineer role.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Senior Member of Technical Staff, MLE (Middle East)",
+          "url": "https://jobs.ashbyhq.com/cohere/6142564c-1e47-48f7-9519-2ce857c92ed9",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "The job posting explicitly mentions 'Applied ML team', 'Large Language Models', 'Tensorflow', 'TF-Serving', 'JAX', and 'XLA/MLIR', which are all related to Machine Learning. Additionally, the job requires experience in leading ML teams, setting technical direction, and developing solutions using ML models. These are all strong indicators that the role is dedicated to ML/DL development.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        },
+        {
+          "title": "Software Engineer - Applied ML - UK Public Sector",
+          "url": "https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da",
+          "location": "N/A",
+          "extracted_date": "N/A",
+          "date_status": "Date Unspecified",
+          "reasoning": "The job posting explicitly mentions 'Applied ML', 'Large Language Models', 'ML infrastructure', 'AI-powered solutions', 'Language models using frameworks like Lang Chain', and 'day-to-day NLP for the industry'. These keywords strongly indicate that the role is dedicated to Machine Learning development.",
+          "confidence_score": 0.95,
+          "company": "Cohere"
+        }
+      ],
+      "discarded_jobs": [
+        {
+          "title": "Applied AI Engineer \u2013 Agentic WorkflowsApplied-ML \u2022 San Francisco; London; Montreal; New York; Toronto \u2022 Full time \u2022 Remote",
+          "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
+          "reason": "LLM classified as non-ML: Parsing error occurred: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01j6sj3drffc0s0f7ahkg7qv16` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6629, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+        }
+      ]
+    },
+    {
+      "company": "Anthropic",
+      "url": "https://www.anthropic.com/careers",
+      "scan_time": "2026-05-30T11:30:02.930298",
+      "discovered_total": 68,
+      "recent_count": 0,
+      "ml_candidates_count": 0,
+      "matching_ml_jobs": [],
+      "discarded_jobs": []
+    }
+  ]
+}

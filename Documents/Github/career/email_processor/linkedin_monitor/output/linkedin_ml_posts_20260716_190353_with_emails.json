@@ -1,0 +1,957 @@
+[
+    {
+        "id": 1,
+        "author": "Gary Silbermann",
+        "url": "https://www.linkedin.com/posts/garysilbermann_im-recruiting-for-a-senior-aiml-engineer-share-7483511492211036160-81nO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "I'm recruiting for a SENIOR AI/ML ENGINEER - to Build Production AI Products Used by Millions of Gamers Worldwide. \nSALARY: R1.5m \u2013 R1.6m.  Based CAPE TOWN or DURBAN.\n\nIt's an excellent opportunity to join a leader in the iGaming Industry \u2013 and to build AI products that actually reach production.\n\nTHE COMPANY is a global tech business sitting at the forefront of ONLINE GAMING innovation, delivering world-class products used by millions of players every day. Combining large-scale cloud platforms, advanced data science & modern AI engineering, they're investing heavily in intelligent systems that personalise player experiences, power recommendation engines & drive the next generation of gaming tech.\n\nIf you're looking for an environment where AI is already creating real business value - & where you'll build production systems rather than prototypes - you'll struggle to find a more exciting opportunity in SA.\n\nTHE ROLE:\nYou'll join an established AI team designing & deploying intelligent products that directly influence how millions of players discover, engage & enjoy games. This is a rare opportunity to become the team's first dedicated AI/ML Engineer - working alongside Data Scientists while owning the engineering, deployment & lifecycle of production AI systems.\n\nIf you're excited by taking AI from idea to production, you'll love this role.\n\nYour initial projects will include:\nAI-powered game recommendation platforms\nLLM applications\nIntelligent player assistants & AI agents\nHybrid recommendation engines\nMachine learning models deployed into production\nTime-series forecasting solutions\nPersonalisation & player retention platforms\n\nThis isn't a research role. It's about building AI products that people actually use.\n\nTech you'll work with:\nThis is an established AWS-based AI environment using tech such as:\nPython, AWS, Snowflake, SageMaker, Airflow, Kubeflow, MLflow, LangChain, LangGraph, Large Language Models (LLMs), AI Agents, Recommendation Systems, Classical Machine Learning, Vector Databases, Docker\nAs the AI capability evolves, you'll also have the opportunity to influence future architecture and technology choices.\n\nREQUIRED SKILLS:\nYou are first and foremost an exceptional SOFTWARE ENGINEER who LOVES BUILDING AI PRODUCTS.\nYou have experience deploying machine learning or Generative AI systems into production - not simply training models in notebooks.\nYou'll ideally bring experience with several of the following:\nProduction AI engineering\nMachine Learning engineering\nLLM applications\nAI agents\nRecommendation engines\nRetrieval-Augmented Generation (RAG)\nLangChain or LangGraph\nAWS AI services\nSageMaker\nAirflow, Kubeflow or MLflow\nVector databases\nDocker\nPython\nYou'll also enjoy working directly with business stakeholders to understand problems, identify opportunities and translate ideas into production-ready AI solutions.\n\nCV please to gary@acuityconsultants.jobs\n\n*\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:29.514523",
+        "extracted_emails": [
+            "gary@acuityconsultants.jobs"
+        ]
+    },
+    {
+        "id": 2,
+        "author": "Mr Mahendhar",
+        "url": "https://www.linkedin.com/posts/mr-mahendhar-94186920b_c2c-dataengineer-python-share-7483511394680688642-_Kp8/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Data Engineer (AI/ML / AWS / Python)\nLocation: Remote\nExperience: 14+ years \nVisa: Only Independent\n\nWe are looking for a skilled Data Engineer with strong experience in Machine Learning, AWS, and Python for a Southwest project. The ideal candidate will be responsible for building scalable data pipelines, enabling ML use cases, and working with cloud-based data platforms to support advanced analytics.\n\nRequired Skills:\n\u00a0\u00a014+ years of experience in Data Engineering\n\u00a0\u00a0Strong programming skills in Python and SQL\n\u00a0\u00a0Hands-on experience with AWS services (S3, Glue, Redshift, Lambda, EMR)\n\u00a0\u00a0Experience with big data tools like Apache Spark, Hadoop, or Kafka\n\u00a0\u00a0Knowledge of Machine Learning concepts and model lifecycle\n\u00a0\u00a0Experience with ETL/ELT frameworks and data pipeline orchestration\n\u00a0\u00a0Strong understanding of data warehousing and data lakes\n\nPreferred Skills:\n\u00a0\u00a0Experience with ML frameworks (TensorFlow, PyTorch, Scikit-learn)\n\u00a0\u00a0Familiarity with Airflow for workflow orchestration\n\u00a0\u00a0Knowledge of Docker and Kubernetes\n\u00a0\u00a0Experience in real-time streaming (Kafka, Kinesis)\n\u00a0\u00a0Exposure to CI/CD and DevOps practices\n\n\nEmail: mahendhar@openclouditsolutions.com\n\n\n#C2C #DataEngineer #Python #AIML #AWS #Remote \n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:32.118567",
+        "extracted_emails": [
+            "mahendhar@openclouditsolutions.com"
+        ]
+    },
+    {
+        "id": 3,
+        "author": "Ben Stanbury",
+        "url": "https://www.linkedin.com/posts/ben-stanbury-800b9624b_databricks-mlops-datascience-share-7483511415085936640-LUmC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Data Scientist / ML Engineer | Databricks | MLOps | Recommendation Systems | Entity Matching\n\nI'm working a contract role for an international events company building out a Databricks platform, and I'm looking for a senior data scientist / ML engineer to own the ML delivery end-to-end.\n \nThis is a hands-on build role covering three workstreams:\n \ud83d\udd39 MLOps foundation (MLflow, Feature Store, model serving, monitoring, drift detection)\n \ud83d\udd39 Recommendation engine for exhibitors and sessions (embedding-based retrieval, Databricks Vector Search)\n \ud83d\udd39 Single customer view, tiered identity resolution (deterministic + fuzzy matching) across sparse registration data\n \nYou'll be defining the approach as well as building it, setting the MLOps patterns, feature engineering conventions, and matching logic the internal team will run with after you hand over.\n\nRequired Experience:\n\u2705 5+ years applied ML/data science, strong production delivery track record\n \u2705 End-to-end ownership of at least one ML delivery (design \u2192 productionisation)\n \u2705 Production MLOps on Databricks (or a directly comparable platform)\n \u2705 Recommendation systems or embedding-based retrieval in production\n \u2705 Entity resolution / fuzzy matching pipelines in production\n \u2705 Comfortable being customer-facing, running knowledge transfer, handing over cleanly\n\nThe details:\n\ud83d\udccd Contract - Outside IR35\n \ud83d\udcb7 Rate: \u00a3500-\u00a3545/day\n \ud83d\uddfa\ufe0f UK based - hybrid \n \ud83d\udee0\ufe0f Python, PySpark, SQL, Delta Lake, Unity Catalog, Lakeflow Jobs, Git-based CI/CD\n \nIf this sounds like your kind of build or you know someone who'd be a strong fit, drop me a message or send a CV my way. Happy to share more detail on the specifics.\n\nBen.stanbury@primusconnect.com\n\n#Databricks #MLOps #DataScience #MachineLearning #Contract #Hiring #RecommendationSystems\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:34.611689",
+        "extracted_emails": [
+            "Ben.stanbury@primusconnect.com"
+        ]
+    },
+    {
+        "id": 5,
+        "author": "Pranay Kumar",
+        "url": "https://www.linkedin.com/posts/pranay-kumar-b89237291_hotlist-michaelfluxteksolcom-desk-1-share-7483511110093131778-EGf6/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "HOTLIST\nmichael@fluxteksol.com\nDesk : +1 832-251-7387 EXT :134\n\n\u2022 AWS & Azure Data Engineer \u2014 10+ Years \u2014 Remote\n \u2022 Senior Data Engineer \u2014 15+ Years \u2014 Remote\n \u2022 AI/ML Engineer / Data Engineer \u2014 15 Years \u2014 Remote\n \u2022 Azure / AWS Cloud & DevOps Engineer \u2014 11+ Years \u2014 Remote\n \u2022 Azure Architect / Cloud Architect \u2014 16 Years \u2014 Remote\n \u2022 Snowflake / Data Architect \u2014 12\u201319+ Years \u2014 Remote / Hybrid\n \u2022 AI/ML / GenAI Engineer \u2014 10\u201313+ Years \u2014 Remote\n \u2022 Lead Data Engineer (AWS / Azure / Snowflake) \u2014 16 Years \u2014 Remote\n \u2022 Python / AI-ML / Backend / Full Stack Engineer \u2014 11+ Years \u2014 Onsite\nJava / Development / Integration\n \u2022 Java Full Stack Developer \u2014 12+ Years \u2014 Remote\n \u2022 Java Developer / Lead Java Developer \u2014 13\u201315+ Years \u2014 Remote / Onsite\n \u2022 MuleSoft Developer \u2014 12 Years \u2014 Remote\n \u2022 SharePoint / MS Dynamics Developer \u2014 14+ Years \u2014 Remote\n \u2022 Oracle Database / PL-SQL Developer \u2014 14+ Years \u2014 Onsite\n \u2022 AS400 Developer \u2014 11+ Years \u2014 Remote\n \u2022 Mainframe z/OS DB2 / System DBA \u2014 15+ Years \u2014 Remote\nSAP\n \u2022 SAP ABAP / Fiori / S/4HANA / CRM \u2014 9\u201320+ Years \u2014 Remote / Onsite\n \u2022 SAP FICO / Finance Transformation \u2014 12\u201315+ Years \u2014 Remote / Onsite\n \u2022 SAP MM / EWM / WM / PTP \u2014 10\u201313+ Years \u2014 Remote / Onsite\n \u2022 SAP SD / OTC / LE \u2014 13\u201317 Years \u2014 Remote / Onsite\n \u2022 SAP BW / SAC / BI / BOBJ Analytics \u2014 18\u201320+ Years \u2014 Remote\n \u2022 SAP Basis / PI-PO-CPI-BTP / Testing \u2014 13\u201318+ Years \u2014 Remote / Onsite\nOracle / Other\n \u2022 Oracle EBS R12 Techno-Functional \u2014 13+ Years \u2014 PA Onsite / Remote\n \u2022 Oracle EBS / Fusion Finance & SCM \u2014 15+ Years \u2014 Remote\n \u2022 QA Automation Lead / SDET \u2014 17 Years \u2014 Onsite\n \u2022 Business Analyst / Strategy & Operations \u2014 10+ Years \u2014 Bay Area Onsite / Remote\n \u2022 Product / Solution / Program Manager \u2014 20 Years \u2014 Remote / DC\u2013MD Onsite\nVisa: H1B | GC | GC EAD | H4 EAD | USC\n Engagement: C2C\n#DataEngineering #BigData #DataArchitect #CloudEngineering #AWS #Azure #Snowflake #MachineLearning #AI #GenAI #DataScience #PythonProgramming #DataPipeline #ETL #CloudComputing #inovation #JavaFullStack #BackendDeveloper #SoftwareEngineering #FullStackDeveloper #Java #Coding #WebDevelopment #SoftwareDevelopment #Programming #Integration #MuleSoft #SystemsArchitecture #DevJobs #TechTalent #SoftwareJobs #ITRecruitment #CodeNewbie #Microservices #RestAPI #EnterpriseSoftware #JavaSpring #SoftwareDesign #DeveloperLife #HiringTech #SoftwareEngineer #TechInnovation #SoftwareSolutions ##Oracle #OracleDatabase #PLSQL #DatabaseAdmin #OracleEBS #Mainframe #AS400 #SystemsDBA #CloudInfrastructure #DatabaseEngineering #ITInfrastructure #DatabaseJobs #EnterpriseSolutions #TechSupport #DataManagement #LegacySystems #OracleCloud \n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:39.616448",
+        "extracted_emails": [
+            "michael@fluxteksol.com"
+        ]
+    },
+    {
+        "id": 6,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:99563-7483510856660480000/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Open to contract opportunities | Not a Hiring Post\n\nTarget roles: Generative AI Engineer, AI/ML Engineer, Machine Learning Engineer, Data Scientist, and Python Developer.\n\nOpen to remote, hybrid, and onsite roles.\n\nEmail: akhil.balusu99@gmail.com | Phone: +1 205-634-1335\n\nRecruiters and hiring managers, please feel free to connect or share relevant opportunities.\n\n#OpenToWork #TechJobs #ContractRoles\n\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:42.093794",
+        "extracted_emails": [
+            "akhil.balusu99@gmail.com"
+        ]
+    },
+    {
+        "id": 7,
+        "author": "Muthyala Santosh",
+        "url": "https://www.linkedin.com/posts/muthyala-santosh-46b0b9267_hiring-aws-devops-engineer-local-share-7483510860645294080-J4xA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Hiring: AWS DevOps Engineer\n\n\ud83d\udccd Local candidates in the Chicago, IL area only. Candidates must be able to work onsite 3 days per week. \n\n\ud83d\udccd Location: Chicago, IL (Hybrid \u2013 3 Days/Week Onsite)\n\ud83d\udcc5 Duration: 12+ Months\n\u23f3 Start Date: ASAP\n\nRequired Skills:\n\u2705 AWS (EC2, S3, RDS, Lambda, ECS/EKS, API Gateway, CloudFront, Route 53, CloudWatch, IAM, VPC, SSM, Secrets Manager)\n\u2705 Terraform (Preferred) / AWS CloudFormation\n\u2705 Jenkins, GitHub Actions, AWS CodePipeline\n\u2705 Docker & Kubernetes (Amazon EKS)\n\u2705 Python & Bash Scripting\n\u2705 CI/CD & Infrastructure as Code (IaC)\n\u2705 4\u20136 years of IT experience with 3+ years of hands-on AWS experience\n\nPreferred Skills:\n\u2714 Ansible\n\u2714 AWS Certifications\n\u2714 Healthcare domain experience\n\u2714 Snowflake, Redshift, Databricks\n\u2714 AI/ML services on AWS\n\u2714 FinOps & Cloud Cost Optimization\n\n\ud83d\udce9 Interested? Send your updated resume to santosh@magicforce.us\n\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:44.608011",
+        "extracted_emails": [
+            "santosh@magicforce.us"
+        ]
+    },
+    {
+        "id": 8,
+        "author": "Shireesha Reddy",
+        "url": "https://www.linkedin.com/posts/shireesha-reddy-0a39341a8_hiringnow-share-7483510540846243840-ZhC5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#HiringNow:\n\nRole: Data Engineer (AI/ML / AWS / Python)\nLocation: Remote\nExp: 12+ yrs required\nPosition: C2C/W2 Candidates \n\nWe are looking for a skilled Data Engineer with strong experience in Machine Learning, AWS, and Python for a Southwest project. The ideal candidate will be responsible for building scalable data pipelines, enabling ML use cases, and working with cloud-based data platforms to support advanced analytics.\nRequired Skills:\n\n\u00a0\u00a014+ years of experience in Data Engineering\n\u00a0\u00a0Strong programming skills in Python and SQL\n\u00a0\u00a0Hands-on experience with AWS services (S3, Glue, Redshift, Lambda, EMR)\n\u00a0\u00a0Experience with big data tools like Apache Spark, Hadoop, or Kafka\n\u00a0\u00a0Knowledge of Machine Learning concepts and model lifecycle\n\u00a0\u00a0Experience with ETL/ELT frameworks and data pipeline orchestration\n\u00a0\u00a0Strong understanding of data warehousing and data lakes\n\nPreferred Skills:\n\n\u00a0\u00a0Experience with ML frameworks (TensorFlow, PyTorch, Scikit-learn)\n\u00a0\u00a0Familiarity with Airflow for workflow orchestration\n\u00a0\u00a0Knowledge of Docker and Kubernetes\n\u00a0\u00a0Experience in real-time streaming (Kafka, Kinesis)\n\u00a0\u00a0Exposure to CI/CD and DevOps practices\n\n\ud83d\udce9 Share your resume: shireesha@tekfynder.com\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:47.098616",
+        "extracted_emails": [
+            "shireesha@tekfynder.com"
+        ]
+    },
+    {
+        "id": 9,
+        "author": "Shaik Sameera",
+        "url": "https://www.linkedin.com/posts/shaik-sameera-7009412b5_not-for-bench-sales-hello-vendors-share-7483510545556369408-b7fd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\u274c\u274cNot for Bench Sales\u274c\u274c \n\nHello Vendors! \ud83d\ude80\n\nLooking for skilled consultants to support your projects? I currently have experienced professionals available for immediate placement. If you have any daily requirements related to C2C or C2H.\n\n \ud83d\udd39 Data Engineers (Snowflake, Databricks, AWS, Azure, Fabric)\n \ud83d\udd39 Java Full Stack Developers (Spring Boot, Microservices, React, Angular)\n \ud83d\udd39 .NET Developers (.NET Core, Azure, C#)\n \ud83d\udd39 DevOps Engineers (AWS, Terraform, Kubernetes, Jenkins)\n \ud83d\udd39 AI/ML & Generative AI Engineers (OpenAI, LangChain, RAG, Python)\n \n\u2705 Immediate Availability\n\u2705 Strong Communication Skills\n\u2705 Remote / Hybrid / Onsite\n\nplease feel free to share them with me at sameera@bermtec.com , call me +1(469) 327 1747 ext 3904\n\n\ud83d\udccc Please Note: This inquiry is not related to bench sales.\n\nI look forward to your emails and the prospect of building a successful and mutually beneficial partnership. \ud83d\ude0a\n\nBest regards,\nSameera .\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:49.571916",
+        "extracted_emails": [
+            "sameera@bermtec.com"
+        ]
+    },
+    {
+        "id": 10,
+        "author": "Shubham Madne",
+        "url": "https://www.linkedin.com/posts/shubham-madne-888305199_hello-all-please-go-through-the-job-description-share-7483510554947493889-lirR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello All,\nPlease go through the job description and let me know your interest.\n\nPosition: Senior Product Owner\nLocation: Exton, PA \nDuration: Contract\n\nJob Responsibilities:\nProduct Strategy & Roadmap \n\u2022 Define and drive the roadmap for Agentic AI and Generative AI initiatives aligned with business objectives.\n\u2022 Identify, evaluate, and prioritize high-impact AI use cases across enterprise functions. \n\u2022 Develop product vision, business cases, and implementation plans for AI-driven solutions. \n\u2022 Continuously assess emerging AI technologies, market trends, and competitive offerings. Requirements Gathering & Stakeholder Management \n\u2022 Collaborate with business leaders and functional teams to understand challenges, opportunities, and requirements. \n\u2022 Lead workshops and discovery sessions to identify and document AI use cases. \n\u2022 Translate business requirements into clear product requirements, user stories, and acceptance criteria. AI Product Delivery \n\u2022 Partner closely with AI engineers, data scientists, architects, and technology teams to deliver AI solutions. \n\u2022 Prioritize product backlogs and manage sprint planning activities. \n\u2022 Ensure solutions meet business objectives, quality standards, and user expectations\n. \u2022 Drive adoption, change management, and value realization for deployed AI capabilities. Domain & Innovation Leadership \n\u2022 Provide guidance on Agentic AI, Generative AI, LLM-based applications, AI agents, workflow automation, and intelligent decision-support systems.\n\u2022 Identify opportunities to leverage AI for process optimization, productivity improvement, and business transformation. \n\u2022 Contribute thought leadership on enterprise AI adoption and governance.\nRequired Qualifications \n\u2022 10+ years of experience in Product Management, Product Ownership, Business Analysis, or Digital Transformation roles. \n\u2022 Demonstrated experience leading Generative AI and/or Agentic AI initiatives from concept through implementation. \n\u2022 Strong understanding of AI/ML concepts, Large Language Models (LLMs), AI agents, prompt engineering, and enterprise AI applications. \n\u2022 Experience working with cross-functional teams including business stakeholders, AI engineers, data scientists, and solution architects. \n\u2022 Strong stakeholder management, communication, and facilitation skills. \u2022 Experience working in Agile/Scrum environments. Preferred Qualifications \n\u2022 Experience in Finance and/or Supply Chain business functions. \n\u2022 Experience implementing AI solutions in enterprise environments similar to manufacturing, business services, document management, workplace services, or digital transformation organizations. \n\u2022 Familiarity with AI platforms and ecosystems. \n\u2022 Product Owner, Scrum Product Owner, Agile, or Product Management certifications. \n\u2022 Experience with AI governance, responsible AI practices, and enterprise AI adoption frameworks.\n\n\n\n\n \n\nKind Regards,\nShubham Madne\nMobile: +1 510-866-3259\nEmail. shubham.m@digitaljanet.com \n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:52.042149",
+        "extracted_emails": [
+            "shubham.m@digitaljanet.com"
+        ]
+    },
+    {
+        "id": 11,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7483510490527096832/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Open to contract opportunities | Not a Hiring Post\n\nTarget roles: Generative AI Engineer, AI/ML Engineer, Machine Learning Engineer, Data Scientist, and Python Developer.\n\nOpen to remote, hybrid, and onsite roles.\n\nEmail: akhil.balusu99@gmail.com | Phone: +1 205-634-1335\n\nRecruiters and hiring managers, please feel free to connect or share relevant opportunities.\n\n#OpenToWork #AIJobs #ContractRoles\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:54.555329",
+        "extracted_emails": [
+            "akhil.balusu99@gmail.com"
+        ]
+    },
+    {
+        "id": 12,
+        "author": "Raja Yadav (Steve Young)",
+        "url": "https://www.linkedin.com/posts/steve-young-093b44379_c2c-ui-cyber-share-7483510628079452160-2lFF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello Recruiters,\nHope you are doing great.\nBelow is the Updated Hotlist of my available consultants who are actively looking for new opportunities on C2C and C2H Contracts.\nKindly Let me know if you have any suitable requirements for them.\nYou can reach through me through :\n\nE-mail:: steve.young@cloudncluster.com\nMobile :: +1 (945) 348 4474\n\n\u00a0******Note:- Don't Send Resume*******\n#C2C roles\n#UI REACT DEVELOPER\n#Cyber Security Engineer\n#IAM Engineer\n#CLOUD ENGINEER\n#DEVOPS ENGINEER\n#ServiceNow Consultant\n#AI/ML ENGINEER\n#DATA ANALYST\n#BUSINESS ANALYST\n#SAP CONSULTANT\n#DATA ENGINEER\n#OPEN TO C2C\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:57.033952",
+        "extracted_emails": [
+            "steve.young@cloudncluster.com"
+        ]
+    },
+    {
+        "id": 13,
+        "author": "Jeevana ganta",
+        "url": "https://www.linkedin.com/posts/jeevana-ganta-626a86262_not-bench-share-7483510635666759680-JWJ4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hi,\n\n#Not for\n#Bench Sales\n\nWe have experienced IT consultants available for C2C and C2H opportunities. They are ready to relocate and can join onsite from Day 1.\nLet\u2019s work together! Please share your requirements, and we will provide the right candidates.\nAvailable consultants:\n\nAI/ML\nDevOps Engineers\nData Engineers\nData Science \nETL Developers\nJava Full Stack Developers\nSalesforce Developer\nBig Data Developers\nCloud Engineers\n\n\nAll are ready for onsite.\nIf you have any requirements, feel free to connect or message me.\n\nName: jeevana ganta\nMail: jeevana@digitalmindstecinc.com\nCompany Phone :+1 4696634704 EXT 2407\n\u2026 more",
+        "scraped_at": "2026-07-16T18:58:59.547849",
+        "extracted_emails": [
+            "jeevana@digitalmindstecinc.com"
+        ]
+    },
+    {
+        "id": 14,
+        "author": "Rajesh Nayak",
+        "url": "https://www.linkedin.com/posts/rajesh-nayak-0b81b01a4_everyone-connections-share-7483510681120649216-YoXG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#everyone #connections\nWe are hiring for Python Developer/ Engineer.\nRemote but PST candidates are preferred\nSkills_ AWS, healthcare, node js. Pyspark\n\nHealthcare experience is mandatory, with that resume won't qualify.\nSend only 12+ years candidate, junior profile will not work\n\nNOTE:- Send the resume along with the visa status and LinkedIn URL.\nDon't send AI/ML engineer resume, without the above details i can't send any update.\n\nEmail:- Rajesh.n@panaceadirect.com\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:02.030461",
+        "extracted_emails": [
+            "Rajesh.n@panaceadirect.com"
+        ]
+    },
+    {
+        "id": 15,
+        "author": "Alle Abhiram, open to work",
+        "url": "https://www.linkedin.com/posts/alle-abhiram-517b51326_hi-share-7483510732228120578-mLdX/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Note: ****\u2757\u2757Not for Bench Sales\u2757\u2757****\nHOTLIST \u2013 Immediate Availability for C2C Contract Opportunities\n\n#Hi US IT RECRUITERS / Hiring Managers#\nHope you are doing Well \n\nI have excellent candidates on my bench having good experience and available immediately on C2C basis.\n\nPlease find my available consultants list of technologies and send me an email to Abhiram@cloud-9bee.com or contact me on: +1\u00a0\u00a0\u00a0if you have any C2C positions or C2H Positions.\n\n\u2b50 Available Consultants (Immediate Joiners)\n\n    Senior Java Full Stack Developer \u2013 11+ Years\n\n    Senior Data Engineer \u2013 12+ Years\n\n    Senior Data Engineer \u2013 11+ Years\n\n    Senior Java Full Stack Developer \u2013 10+ Years\n\n    Senior Python Full Stack Developer \u2013 10+ Years\n\n    AI/ML Engineer \u2013 12+ Years\n\n    Data Scientist \u2013 10+ Years\n\nLook forward to hearing from you..!\n\nThanks & regards,\nAbhiram\nEmail : Abhiram@cloud-9bee.com\nContact: 4692409614\n\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:04.510644",
+        "extracted_emails": [
+            "Abhiram@cloud-9bee.com"
+        ]
+    },
+    {
+        "id": 17,
+        "author": "Krupali Vala",
+        "url": "https://www.linkedin.com/posts/krupali-vala-12099025a_hiring-ai-agenticai-share-7483510350588379136-rXQe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Hiring: AI/ML Engineer (Agentic AI) \ud83d\ude80\n\ud83d\udcbc Experience: 6+ Years\n\n\ud83d\udca1 Key Skills:\n\u2022 Python (Expert), Async Programming, APIs\n\u2022 Agentic AI (ReAct, Plan-Execute, Multi-Agent Systems)\n\u2022 LLMs (OpenAI, Azure, Anthropic), Prompt Engineering\n\u2022 RAG, Vector DBs, Memory Systems\n\u2022 LangChain / LangGraph / AutoGen / CrewAI\n\u2022 Kubernetes, Docker, CI/CD, Cloud (Azure/AWS)\n\n\u2699\ufe0f Role:\nDesign & build autonomous AI agents with planning, reasoning, and real-world tool integration. Work on scalable, production-ready Agentic AI systems.\n\n\u2728 Plus:\nAgentOps, Evaluation, Security, Multi-agent collaboration\n\n\ud83d\udce9 Share your CV at: krupali.vala@delphic.in\n\n#Hiring #AI #AgenticAI #LLM #Python #HyderabadJobs #TechJobs\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:09.526754",
+        "extracted_emails": [
+            "krupali.vala@delphic.in"
+        ]
+    },
+    {
+        "id": 18,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:12309295-7483510384038141952/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 HOTLIST \u2013 Available Consultants\nHello,\nGood Morning..\nPlease let me know if you have any open C2C requirements for the following positions:\nData Engineer\nDevOps Engineer\n\u00a0.NET Developer\nData Science Ai /ML\n\n\ud83d\udce9 Kindly share your requirements.\nLooking forward to working with you.\nEmail: jyothi@tprods.com\n\nPhone:+1 2548297482 / 9963465778\n\nT Prods Solutions INC\n\n1822 E. NC Highway 54, Suite 350 K, Durham, NC 27713\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:12.045613",
+        "extracted_emails": [
+            "jyothi@tprods.com"
+        ]
+    },
+    {
+        "id": 19,
+        "author": "Bhargavi Chowdary",
+        "url": "https://www.linkedin.com/posts/bhargavi-chowdary-441140409_hello-recruiter-hope-you-all-are-doing-great-share-7483510456884772864-p2Ud/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello Recruiter,\nHope you all are doing great.\n\nI'm Bhargavi bench sales recruiter from Tec Leaders , I have good consultants on my bench with a lot of experience. So here I'm sharing Hot list with you.\nIf you have any requirements on these developers, please forward them by email or feel free to contact my number.\n\nNote: This information is only for recruiters, not for bench sales Recuiters.\n\nEmail : bhargavi@tec-leaders.com\nDesk no : \u00a0+14692179217 \u00a0EXT:5951\n\n1.Data engineer\n2. AWS Data Engineer\n3.Azure Data Engineer\u00a0\n4. GCP Data Engineer\u00a0\n5. DevOps engineer\n6. Data Scientist\n7. AI/ML Engineer\u00a0\n8.Gen AI Engineer\n9.Java Developer\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag contract # C2C # C2H # GC\n\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:14.562495",
+        "extracted_emails": [
+            "bhargavi@tec-leaders.com"
+        ]
+    },
+    {
+        "id": 20,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:12561411-7483510069595172864/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Good Morning US IT RECRUITERS / Hiring Managers,\nHope you are doing Well !! ( Don't Send Resumes )\n\nI have excellent candidates on my bench having good experience and available immediately on C2C basis.\n\nPlease find my available consultants list of technologies and send me an email to pragati@flyhigh-staffing.com or contact me on: +1 510-983-4692 | Ext:118 . if you have any C2C positions or C2H Positions.\n\n\u274c \u274c Not for Bench Sales Recruiter \u274c \u274c\n\n\n\n\u2705 Power Platform Developer\n\n\u2705 Network Engineer\n\n\u2705 Business analyst\n\n\u2705 Power BI\n\n\u2705 Salesforce Developer\n\n\u2705 Data Engineer\n\n\u2705 DevOps Engineer\n\n\u2705 .NET developer\n\n\u2705 Site Reliability engineer\n\n\u2705 AI/ML Engineer\n\n\u2705 React/UI Developer\n\nLook forward to hearing from you..!\n\nThanks & regards,\nPragati Gautam\nSr. Bench Sales Recruiter\nFly High Staffing LLC\nEmail : pragati@flyhigh-staffing.com\nContact :+1 510-983-4692 | Ext:118\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:17.045704",
+        "extracted_emails": [
+            "pragati@flyhigh-staffing.com"
+        ]
+    },
+    {
+        "id": 22,
+        "author": "Deepthi k",
+        "url": "https://www.linkedin.com/posts/deepthi-k-46bb97244_hotlist-ugcPost-7483510147378692097-3x8P/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello Recruiter,\nHope you all are doing great.\n\nI'm Deepthi, a bench sales recruiter from Axleit. I have good consultants on my bench with a lot of experience. So here I'm sharing the Hot list with you.\nIf you have any requirements on these developers, please forward them by email or feel free to contact my number.\n\nNote: This information is only for recruiters, not for bench sales.\n\nEmail : deepthi.k@axleit.net\nDesk no : +1 214 613 9457\n\n1. Java full-stack Developer\n2. .NET Full Stack Developer \n3. Data engineer\n4. AWS Data Engineer \n5. Azure Data Engineer \n6.GCP Data Engineer \n7. DevOps engineer\n8. Angular developer\n9. Data Scientist\n10.AI/ML Engineer \n11.Gen AI Engineer\n12.Data Analyst \n\n\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag\n\nhashtag contract # C2C # C2H # H1b# GC\nHotlist\nHot\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:22.474599",
+        "extracted_emails": [
+            "deepthi.k@axleit.net"
+        ]
+    },
+    {
+        "id": 23,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:12561411-7483510195739095041/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 HOTLIST \u2013 Available Consultants\nHello,\nGood Morning..\nPlease let me know if you have any open C2C requirements for the following positions:\nData Engineer\nDevOps Engineer\n\u00a0.NET Developer\nData Science Ai /ML\n\n\ud83d\udce9 Kindly share your requirements.\nLooking forward to working with you.\nEmail: jyothi@tprods.com\n\nPhone:+1 2548297482 /9963465778\n\nT Prods Solutions INC\n\n1822 E. NC Highway 54, Suite 350 K, Durham, NC 27713\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:25.005126",
+        "extracted_emails": [
+            "jyothi@tprods.com"
+        ]
+    },
+    {
+        "id": 24,
+        "author": "Venkatesh S\u2019 profile",
+        "url": "https://www.linkedin.com/posts/venkatesh-s-189953406_c2c-hotlist-benchsales-share-7483510215942852608-K9OC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "C2C HOTLIST | Immediate IT Consultants Available | Open for C2C Requirements \ud83d\ude80\nHello Recruiters, Vendors, and Hiring Managers,\nWe are actively supporting C2C hiring with a strong pool of 40+ experienced IT consultants available for immediate deployment across the United States.\nOur consultants are technically screened, interview-ready, and available for quick onboarding.\n\ud83d\udcbc Available Skill Sets:\n\u2714 Java Full Stack Developers\n \u2714 Java Developers\n \u2714 .NET Developers\n \u2714 Salesforce Developers\n \u2714 Python Developers\n \u2714 AI/ML Engineers\n \u2714 QA Automation Engineers\n \u2714 Business Analysts\n \u2714 Data Analysts\n \u2714 Project Managers\n \u2714 Scrum Masters\n \u2714 UI Developers\n \u2714 Front-End Developers\n \u2714 Middleware Engineers\n\nWhether you're a Prime Vendor, MSP, Direct Client, or Staffing Partner, we'd be happy to support your open positions with quality consultants.\n\ud83d\udce9 Share your C2C requirements anytime!\n\ud83d\udce7venkatesh@sanavtechnologies.com\n\u260e\ufe0f +1 (979) 661-7249 Ext. 472\nLooking forward to building long-term business relationships and successful placements.\n\nhashtag\n\n#C2C hashtag\n#Hotlist hashtag\n#BenchSales hashtag\n#USITRecruitment hashtag\n#Hiring hashtag\n#Java hashtag\n#DotNet hashtag\n#Salesforce hashtag\n#Python hashtag\n#BusinessAnalyst hashtag\n#DataAnalyst hashtag\n#ProjectManager hashtag\n#ScrumMaster hashtag\n#AIML hashtag\n#ImmediateAvailability hashtag\n#Recruitment hashtag\n#Staffing hashtag\n#TechTalent hashtag\n#VendorManagement hashtag\n#OpenToWork\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:27.571870",
+        "extracted_emails": [
+            "venkatesh@sanavtechnologies.com"
+        ]
+    },
+    {
+        "id": 25,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10472901-7483509759719948288/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Immediate Consultants Available | Open to C2C Opportunities\n\nWe currently have highly skilled consultants available immediately for new projects across the following technologies:\n\n\u2705 DevOps Engineers\n\u2705 Site Reliability Engineers (SRE)\n\u2705 Cloud / Platform Engineers (AWS | Azure | GCP)\n\u2705 Java Developers (Frontend & Backend)\n\u2705 Data Engineers\n\u2705 Data Scientists\n\u2705 AI / ML Engineers\n\u2705 .NET Engineer\n\u2705 Java Full Stack Developer\n\nAll consultants have strong project experience, excellent communication skills, and are open to onsite / hybrid / remote opportunities across the U.S.\n\nIf you have any open requirements, I would be happy to share matching profiles promptly.\n\n\ud83d\udce9 Feel free to reach out:\n\nEmail: revathi@digitalmindstec.com\n\nContact: +1 (210) 622 2165\n\nLet\u2019s connect and close your open roles quickly.\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:30.100301",
+        "extracted_emails": [
+            "revathi@digitalmindstec.com"
+        ]
+    },
+    {
+        "id": 26,
+        "author": "Chandra Sekhar Reddy Gopavarapu",
+        "url": "https://www.linkedin.com/posts/chandra-sekhar-reddy-gopavarapu-b966b8194_hello-available-bench-consultants-ready-share-7483509804368289792-bxLB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello.\nAvailable Bench Consultants \u2013 Ready to Deploy!\nWe currently have strong Bench Consultants available for immediate \n\n\u2705 projects:\n\u2705 Java Developer\n\u2705 UI Lead Developer\n\u2705 Ui Developer\n\u2705Devops \n\u2705React Developer\n\u2705 Adobe analyst\n\u2705 React Developer\n\u2705 Service Now\n\u2705 Angular\n\u2705 UI Lead\n\u2705 UI Developer\n\u2705 Ui Full stack\n\u2705 .NET developer\n\u2705 Sr AEP/AJO Developer\n\u2705 AI/ML Engineer\n\u2705 UI Developer\n\u2705 UI Angular lead\n\u2705C++ Developer\n\u2705 Full stack Python developer \n\u2705Embedded Software Engineer\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u2705 React Developer\n\u2705React Native Developer\n\u2705 Java Backend\n\u2705 Sales Force \n\u2705React Developer\n\u2705Python Developer \n\u2705Frontend Developer\n\u2705 Data Eng \n\nOur consultants are open to relocation across the U.S. and can join new assignments at short notice.\nIf you have any suitable opportunities, please share the requirements at\nEmail: chandu.r@advithri.com\nDirect : +1 (214-705-2334) WhatsApp 8465838862\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:32.639917",
+        "extracted_emails": [
+            "chandu.r@advithri.com"
+        ]
+    },
+    {
+        "id": 27,
+        "author": "Prema P",
+        "url": "https://www.linkedin.com/posts/prema-p-4901a417a_we-are-hiring-for-java-full-stack-bangalore-share-7483509812593356800-BvlI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "We are Hiring for Java Full Stack: Bangalore, Noida and Gurgaon\nWork Mode : Hybrid\nExperience : 5 to 8 Years\n\nMandatory Skills  :\nJava full Stack -Java +React Js+Python\n\nKey Responsibilities:\n\uf0b7 Application Development: Design, develop, and maintain enterprise applications using\nJava, Spring Boot, Node.js, and JavaScript-based frameworks (e.g., React, Angular, Vue).\n\uf0b7 Cloud Implementation: Work with cloud services (AWS, GCP or Azure) under the\nguidance of senior team members to deliver scalable and secure solutions.\n\uf0b7 AI/ML Features: Assist in implementing AI/ML capabilities using cloud-based AI services\nand integrating them into enterprise workflows.\n\uf0b7 Copilot & AI Tools: Leverage AI-powered development tools to improve productivity and\ncode quality.\n\uf0b7 Best Practices: Follow established coding standards, cloud architecture patterns, and\nmicroservices/serverless approaches with a focus on quality, performance, and security.\n\uf0b7 Collaboration: Work closely with senior developers, architects, and business\nstakeholders to understand requirements and deliver solutions aligned with project\ngoals.\n\uf0b7 Testing & Deployment: Participate in unit testing, debugging, and deployment activities,\ncontributing to CI/CD pipelines in collaboration with DevOps teams.\n\uf0b7 Continuous Learning: Stay updated on emerging cloud and AI capabilities and actively\nenhance your skills through mentorship and training.\nRequirements\n\uf0b7 Education: Bachelor\u2019s degree in computer science, Engineering, or related field.\nExperience:\n\uf0b7 4\u20136 years in enterprise application development using Java, Spring Boot, Node.js, and\nJavaScript-based frameworks.\n\uf0b7 Practical exposure to cloud services and enterprise solution delivery.\n\uf0b7 Basic to intermediate experience with AI/ML integration in applications.\n\uf0b7 Familiarity with AI-assisted development tools.\nTechnical Skills:\n\uf0b7 Java, Spring Boot, Node.js/Python\n\uf0b7 Any JavaScript-based frameworks preferably React\n\uf0b7 Exposure to integrating Generative AI into applications\n\uf0b7 Cloud services (AWS, Azure, or GCP)\nCertifications (Good to Have):\n\uf0b7 Cloud Fundamentals (AWS, Azure, or GCP)\n\uf0b7 AI-related certifications (e.g., AI-900, Azure AI Engineer Associate)\n\nGood-to-Have Skills\n\uf0b7 Cloud architecture patterns, microservices, serverless computing\n\uf0b7 Docker & Kubernetes\n\uf0b7 Unit testing & mocking frameworks\n\uf0b7 Understanding of MLOps concepts for deploying and managing ML models.\n\uf0b7 Familiarity with GraphQL or modern API design approaches.\n\nInterested candidates please share resume to Premalatha.e@twsol.com\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:35.159482",
+        "extracted_emails": [
+            "Premalatha.e@twsol.com"
+        ]
+    },
+    {
+        "id": 28,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:3732032-7483509835389419520/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "JOB TITLE: Distinguished AI Engineer\n\nLocation: New Jersy (need locals)\nVisa: Need H1-B\nClient: NTT Data\nNote: Candidate should go to F2F Interview in final round\n\n\nKey responsibilities\n\u2022\tDefine target-state architecture for AIRP, LLM platforms, model hubs, AI gateways, RAG services, agent frameworks, orchestration layers, and model-serving infrastructure.\n\u2022\tEstablish enterprise standards for AI SDLC, LLMOps, MLOps, evaluation, release management, operational resilience, and production support.\n\u2022\tCreate AWS implementation patterns that align with a cloud-agnostic blueprint and minimize unnecessary vendor lock-in.\n\u2022\tDefine standards for Terraform modules, reusable IaC templates, environment strategy, pipeline promotion, approvals, observability, secrets, rollback, and operational controls.\n\u2022\tGuide architecture for secure, scalable, and cost-efficient inference across cloud, hybrid, private, and containerized environments.\n\u2022\tDefine guardrail patterns for hallucination mitigation, bias monitoring, harmful-content controls, prompt injection defense, data leakage prevention, and human oversight.\n\u2022\tLead design reviews for critical AI systems and provide technical assurance to architecture, risk, security, and governance forums.\n\u2022\tPartner with cybersecurity, risk, compliance, legal, audit, product, business, and citizen-development enablement teams.\n\u2022\tAssess emerging AI technologies and recommend adoption based on business value, maturity, risk, cost, portability, and regulatory fit.\nMust-have candidate profile\n\u2022\t10+ years in AI/ML systems, distributed systems, enterprise architecture, or platform engineering.\n\u2022\tDeep experience with LLMs, RAG, embeddings, model serving, AI orchestration, evaluation frameworks, and AI infrastructure.\n\u2022\tProven track record defining architecture and technical standards across multiple engineering teams.\n\u2022\tStrong AWS cloud architecture experience or comparable hyperscaler depth, with clear ability to design cloud-agnostic AI platform patterns.\n\u2022\tExperience shaping Terraform/IaC standards, DevOps pipelines, secure deployment patterns, observability, resiliency, and platform operating models.\n\u2022\tAbility to influence senior stakeholders and operate across business, technology, risk, compliance, security, data, and architecture forums.\nPreferred experience\n\u2022\tGlobal bank, fintech, financial-services, or regulated-enterprise platform experience.\n\u2022\tExperience with enterprise AI platforms, private LLM deployments, internal model hubs, AI gateways, multi-cloud AI strategy, or platform blueprint ownership.\n\u2022\tFamiliarity with Responsible AI, model risk management, audit expectations, technology risk controls, and citizen development governance.\n\nCan you please share profiles to anuradha@techinfo.co\n\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:37.660096",
+        "extracted_emails": [
+            "anuradha@techinfo.co"
+        ]
+    },
+    {
+        "id": 29,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7483509872269987840/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 HOTLIST \u2013 Available Consultants\nHello,\nGood Morning..\nPlease let me know if you have any open C2C requirements for the following positions:\nData Engineer\nDevOps Engineer\n\u00a0.NET Developer\nData Science Ai /ML\n\n\ud83d\udce9 Kindly share your requirements.\nLooking forward to working with you.\nEmail: jyothi@tprods.com\n\nPhone:+1 2548297482  / 9963465778\n\nT Prods Solutions INC\n\n1822 E. NC Highway 54, Suite 350 K, Durham, NC 27713\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:40.194426",
+        "extracted_emails": [
+            "jyothi@tprods.com"
+        ]
+    },
+    {
+        "id": 30,
+        "author": "Sai kumar Mogili, open to work",
+        "url": "https://www.linkedin.com/posts/sai-kumarmogili_opentowork-lead-aiengineer-share-7483509963135438848-SzBn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#OpentoWork\n#Lead #AIEngineer\n#Data #Scientist\n\n#AI #ML\n#Generative #AIEngineer\n#MLEngineer\ud83d\udea8\nI bring #12+ years of experience designing, building, and deploying enterprise-grade\n#AIML\n#GenerativeAI solutions across Manufacturing, healthcare, financial services, insurance, and large-scale enterprise environments.\n\ud83d\udd0d What I Specialize In\n\ud83d\udd39 Generative AI & LLMs: RAG architectures, LangChain, LangGraph, multi-agent workflows, Hugging Face\n \ud83d\udd39 ML & DL: TensorFlow, PyTorch, scikit-learn, XGBoost, LightGBM\n \ud83d\udd39 NLP: Document intelligence, classification, NER, summarization\n \ud83d\udd39 Data & Pipelines: PySpark, SQL, Airflow, Kafka, scalable ML pipelines\n \ud83d\udd39 Cloud AI Platforms: AWS SageMaker, Azure AI, ML, GCP Vertex AI\n \ud83d\udd39 MLOps: MLflow, Docker, Kubernetes, CI/CD, model monitoring & retraining\n \ud83d\udd39 Backend & APIs: Python, FastAPI, Vector DBs (FAISS, Pinecone)\nI focus on taking AI solutions from problem definition to production, ensuring models are scalable, explainable, monitored, and business-ready, especially in regulated environments.\n\ud83c\udfaf Roles I\u2019m Exploring\nSenior Data Scientist | AI / ML Engineer | Generative AI Engineer | Applied ML Scientist | NLP / GenAI Specialist\n\ud83e\udd1d Let\u2019s Connect\n\nEmail : mogili9507@gmail.com\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:42.693082",
+        "extracted_emails": [
+            "mogili9507@gmail.com"
+        ]
+    },
+    {
+        "id": 31,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:14160569-7483509886530523136/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello.\nAvailable Bench Consultants \u2013 Ready to Deploy!\nWe currently have strong Bench Consultants available for immediate \n\n\u2705 projects:\n\u2705 Java Developer\n\u2705 UI Lead Developer\n\u2705 Ui Developer\n\u2705Devops \n\u2705React Developer\n\u2705 Adobe analyst\n\u2705 React Developer\n\u2705 Service Now\n\u2705 Angular\n\u2705 UI Lead\n\u2705 UI Developer\n\u2705 Ui Full stack\n\u2705 .NET developer\n\u2705 Sr AEP/AJO Developer\n\u2705 AI/ML Engineer\n\u2705 UI Developer\n\u2705 UI Angular lead\n\u2705C++ Developer\n\u2705 Full stack Python developer \n\u2705Embedded Software Engineer\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u2705 React Developer\n\u2705React Native Developer\n\u2705 Java Backend\n\u2705 Sales Force \n\u2705React Developer\n\u2705Python Developer \n\u2705Frontend Developer\n\u2705 Data Eng \n\nOur consultants are open to relocation across the U.S. and can join new assignments at short notice.\nIf you have any suitable opportunities, please share the requirements at\nEmail: chandu.r@advithri.com\nDirect : +1 (214-705-2334) WhatsApp 8465838862\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:45.194520",
+        "extracted_emails": [
+            "chandu.r@advithri.com"
+        ]
+    },
+    {
+        "id": 32,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7483505504284143616/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 AVAILABLE NOW | Experienced C2C IT Consultants Ready for Immediate Projects Across the USA \ud83c\uddfa\ud83c\uddf8\nGreetings Recruiters, Staffing Partners, Vendor Managers, Hiring Managers, and Delivery Teams!\nIf you're working on contract (C2C) opportunities and need high-quality IT consultants who can interview immediately and join projects quickly, we're ready to help.\nWe currently have experienced consultants available for Remote, Hybrid, and Onsite engagements across the United States.\n\u2601\ufe0f Cloud & Platform Engineering\n\u2022 AWS Engineers\n\u2022 Azure Engineers\n\u2022 DevOps Engineers\n\u2022 DevSecOps Specialists\n\u2022 Site Reliability Engineers (SRE)\n\u2022 Cloud Infrastructure Engineers\n\ud83d\udcbb Application Development\n\u2022 Java Full Stack Developers\n\u2022Java -AI/ML Engineer ( Golang + Python )\n\u2022Java Full Stack / React / Node Js / AI\n\u2022Java Full Stack / AI / LLM Engineering\n\u2022 ReactJS Developers\n\u2022 Angular Developers\n\u2022 .NET Developers\n\ud83d\udcca Data, Analytics & Integration\n\u2022Data Analytics Manager\n\u2022 Data Engineers\n\u2022 Snowflake Consultants\n\u2022 Informatica Developers\n\u2022 ETL Developers\n\u2022 BI Developers & Analysts\n\ud83d\udd10 Security & Networking\n\u2022 Cybersecurity Consultants\n\u2022 Network Engineers\n\ud83e\udd16 AI & Data Science\n\u2022 AI Engineers\n\u2022 Machine Learning Engineers\n\u2022 Data Scientists\n\u2022 Data Analysts\n\ud83c\udfe2 ERP & Enterprise Applications\n\u2022 SAP ABAP Technical Leads\n\u2022 SAP HANA Consultants\n\u2022 SAP CRM Consultants\n\u2022 SAP FICO Consultants\n\u2022 SAP MM Consultants\n\u2022 Workday HCM Consultants\n\u2022 Salesforce Marketing Cloud Consultants\n\u2022Salesforce Developer/ Administartor\n\u2705 QA, Testing & Agile\n\u2022 QA Automation Engineers\n\u2022 Manual QA Testers\n\u2022 Senior SDET Engineers\n\u2022 Quality Engineering Leads\n\u2022 Senior Performance Engineers\n\u2022 Scrum Masters\n\u2022 Release Train Engineers (RTE)\n\u2b50 Spotlight Consultant \u2013 Available Immediately\n\u2714 Senior SAP ABAP Technical Lead\n\u2714 Extensive SAP HANA Development Experience\n\u2714 Strong SAP CRM Technical Expertise\n\u2714 Enterprise Implementation Experience\n\u2714 Excellent Client & Stakeholder Communication\n\u2714 Available for Immediate Interviews\n\u2714 Ready for Quick Project Deployment\nWhy Partner With Us?\n\u2705 Pre-Screened & Experienced Consultants\n\u2705 Fast Profile Submission\n\u2705 Quick Interview Coordination\n\u2705 Flexible Engagement Models\n\u2705 Nationwide Resource Availability\n\ud83d\udccd Supporting Clients Across:\nCalifornia | Texas | New Jersey | Virginia | Massachusetts | Washington | Illinois | Arizona | Georgia | Pennsylvania | Ohio | Michigan | Tennessee | Nationwide\n\ud83d\udce9 Looking for Immediate C2C Resources?\nShare your open contract requirements, and we'll send matching consultant profiles with a fast turnaround.\n\ud83d\udce7 harish@infylogy.com\n\ud83d\udcde +1 (469) 564-0050\nLet's build successful partnerships and deliver exceptional talent.\nhashtag\n#USStaffing #C2C #ITRecruitment #TechnicalRecruiters #Recruiters #HiringNow #VendorManagement #VendorManagers #AccountManagers #DeliveryManagers #TalentAcquisition #ContractJobs #Consulting #MSP #VMS #Cloud #AWS #Azure #DevOps #Java #ReactJS #DataEngineering #Snowflake #SAP #Salesforce #AI #MachineLearning\n#ImmediateAvailable\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:47.690577",
+        "extracted_emails": [
+            "harish@infylogy.com"
+        ]
+    },
+    {
+        "id": 34,
+        "author": "Revathi G",
+        "url": "https://www.linkedin.com/posts/revathi-g-922746392_immediate-consultants-available-open-to-share-7483509537791078400-JLIc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Immediate Consultants Available | Open to C2C Opportunities\n\nWe currently have highly skilled consultants available immediately for new projects across the following technologies:\n\n\u2705 DevOps Engineers\n\u2705 Site Reliability Engineers (SRE)\n\u2705 Cloud / Platform Engineers (AWS | Azure | GCP)\n\u2705 Java Developers (Frontend & Backend)\n\u2705 Data Engineers\n\u2705 Data Scientists\n\u2705 AI / ML Engineers\n\u2705 .NET Engineer\n\u2705 Java Full Stack Developer\n\nAll consultants have strong project experience, excellent communication skills, and are open to onsite / hybrid / remote opportunities across the U.S.\n\nIf you have any open requirements, I would be happy to share matching profiles promptly.\n\n\ud83d\udce9 Feel free to reach out:\n\nEmail: revathi@digitalmindstec.com\n\nContact: +1 (210) 622 2165\n\nLet\u2019s connect and close your open roles quickly.\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:52.744435",
+        "extracted_emails": [
+            "revathi@digitalmindstec.com"
+        ]
+    },
+    {
+        "id": 35,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:4299996-7483509682012241921/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 HOTLIST \u2013 Available Consultants\nHello,\nGood Morning..\nPlease let me know if you have any open C2C requirements for the following positions:\nData Engineer\nDevOps Engineer\n\u00a0.NET Developer\nData Science Ai /ML\n\n\ud83d\udce9 Kindly share your requirements.\nLooking forward to working with you.\nEmail: jyothi@tprods.com\n\nPhone:+1 2548297482\n\nT Prods Solutions INC\n\n1822 E. NC Highway 54, Suite 350 K, Durham, NC 27713\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:55.267235",
+        "extracted_emails": [
+            "jyothi@tprods.com"
+        ]
+    },
+    {
+        "id": 36,
+        "author": "Pragati Gautam",
+        "url": "https://www.linkedin.com/posts/pragati-gautam-871a4b227_good-morning-us-it-recruiters-hiring-managers-share-7483509723950907393-9mwW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Good Morning US IT RECRUITERS / Hiring Managers,\nHope you are doing Well !! ( Don't Send Resumes )\n\nI have excellent candidates on my bench having good experience and available immediately on C2C basis.\n\nPlease find my available consultants list of technologies and send me an email to pragati@flyhigh-staffing.com or contact me on: +1 510-983-4692 | Ext:118 . if you have any C2C positions or C2H Positions.\n\n\u274c \u274c Not for Bench Sales Recruiter \u274c \u274c\n\n\n\n\u2705 Power Platform Developer\n\n\u2705 Network Engineer\n\n\u2705 Business analyst\n\n\u2705 Power BI\n\n\u2705 Salesforce Developer\n\n\u2705 Data Engineer\n\n\u2705 DevOps Engineer\n\n\u2705 .NET developer\n\n\u2705 Site Reliability engineer\n\n\u2705 AI/ML Engineer\n\n\u2705 React/UI Developer\n\nLook forward to hearing from you..!\n\nThanks & regards,\nPragati Gautam\nSr. Bench Sales Recruiter\nFly High Staffing LLC\nEmail : pragati@flyhigh-staffing.com\nContact :+1 510-983-4692 | Ext:118\n\u2026 more",
+        "scraped_at": "2026-07-16T18:59:57.838165",
+        "extracted_emails": [
+            "pragati@flyhigh-staffing.com"
+        ]
+    },
+    {
+        "id": 37,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/resume-careers-jobsearch-share-7483509306164690945-rjlK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Sania Saeed is Hiring | AI/ML Engineer \ud83e\udd16\nAre you passionate about building intelligent AI solutions and working with the latest LLMs? Join our team and contribute to cutting-edge AI projects!\n\nWhat We're Looking For:\n \u2714 2\u20134 years of experience in AI/ML or NLP\n \u2714 Strong Python skills with PyTorch or TensorFlow\n \u2714 Hands-on experience with LLM fine-tuning (LoRA, PEFT, QLoRA)\n \u2714 Experience with RAG pipelines, Vector Databases, ETL pipelines, and FastAPI deployments\n \u2714 Strong problem-solving and communication skills\n\n\ud83d\udccd Position: AI/ML Engineer\n \ud83d\udcbc Experience: 2\u20134 Years\nLocation: Lahore\n\n\ud83d\udce9 Apply Now: sania.saeed@thezestysolutions.com\nKnow someone who's a great fit? Tag them or share this opportunity!\n\n*Build a modern, ATS-friendly #resume/CV in minutes \u2014 download it for free at https://lnkd.in/d3pRqS6N*\n\nJoin \"Pakistan IT Jobs\" WhatsApp channel & groups:\nChannel => https://lnkd.in/dyrbW8JC\nGroups => https://lnkd.in/diAM4g6Q\n\n#careers #jobsearch #hiring #recruitment #jobs #recruiting #pakistan #jobsinpakistan #job #career\n#lahore #lahorejobs #AIEngineer #MachineLearning #LLM #GenerativeAI #Python #PyTorch #FastAPI #RAG #NLP #TechJobs #HiringNow #TheZestySolutions\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:00.427675",
+        "extracted_emails": [
+            "sania.saeed@thezestysolutions.com"
+        ]
+    },
+    {
+        "id": 38,
+        "author": "Anuradha B",
+        "url": "https://www.linkedin.com/posts/anuradha-b-979302273_job-title-distinguished-ai-engineer-location-share-7483509355720597505-Ciwu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "JOB TITLE: Distinguished AI Engineer\n\nLocation: New Jersy (need locals)\nVisa: Need H1-B\nClient: NTT Data\nNote: Candidate should go to F2F Interview in final round\n\n\nKey responsibilities\n\u2022\tDefine target-state architecture for AIRP, LLM platforms, model hubs, AI gateways, RAG services, agent frameworks, orchestration layers, and model-serving infrastructure.\n\u2022\tEstablish enterprise standards for AI SDLC, LLMOps, MLOps, evaluation, release management, operational resilience, and production support.\n\u2022\tCreate AWS implementation patterns that align with a cloud-agnostic blueprint and minimize unnecessary vendor lock-in.\n\u2022\tDefine standards for Terraform modules, reusable IaC templates, environment strategy, pipeline promotion, approvals, observability, secrets, rollback, and operational controls.\n\u2022\tGuide architecture for secure, scalable, and cost-efficient inference across cloud, hybrid, private, and containerized environments.\n\u2022\tDefine guardrail patterns for hallucination mitigation, bias monitoring, harmful-content controls, prompt injection defense, data leakage prevention, and human oversight.\n\u2022\tLead design reviews for critical AI systems and provide technical assurance to architecture, risk, security, and governance forums.\n\u2022\tPartner with cybersecurity, risk, compliance, legal, audit, product, business, and citizen-development enablement teams.\n\u2022\tAssess emerging AI technologies and recommend adoption based on business value, maturity, risk, cost, portability, and regulatory fit.\nMust-have candidate profile\n\u2022\t10+ years in AI/ML systems, distributed systems, enterprise architecture, or platform engineering.\n\u2022\tDeep experience with LLMs, RAG, embeddings, model serving, AI orchestration, evaluation frameworks, and AI infrastructure.\n\u2022\tProven track record defining architecture and technical standards across multiple engineering teams.\n\u2022\tStrong AWS cloud architecture experience or comparable hyperscaler depth, with clear ability to design cloud-agnostic AI platform patterns.\n\u2022\tExperience shaping Terraform/IaC standards, DevOps pipelines, secure deployment patterns, observability, resiliency, and platform operating models.\n\u2022\tAbility to influence senior stakeholders and operate across business, technology, risk, compliance, security, data, and architecture forums.\nPreferred experience\n\u2022\tGlobal bank, fintech, financial-services, or regulated-enterprise platform experience.\n\u2022\tExperience with enterprise AI platforms, private LLM deployments, internal model hubs, AI gateways, multi-cloud AI strategy, or platform blueprint ownership.\n\u2022\tFamiliarity with Responsible AI, model risk management, audit expectations, technology risk controls, and citizen development governance.\n\nCan you please share profiles to anuradha@techinfo.co\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:03.328653",
+        "extracted_emails": [
+            "anuradha@techinfo.co"
+        ]
+    },
+    {
+        "id": 40,
+        "author": "SRAVANI REDDY",
+        "url": "https://www.linkedin.com/posts/sravani-reddy-76152124a_notforbenchsales-latesthotlist-strong-share-7483509410036850688-whg1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#NOTFORBENCHSALES\n#LATESTHOTLIST\n\nHello Connections\nHope you are doing great!\n\nI'm updating my HOTLIST. We do have #strong candidates available immediate on C2C/C2H. Can go face to face interview if needed and let me know if you have any suitable requirements for our candidates.\n\nPlease Add my mail to your daily distribution list.\nEmail : sravani@slovelights.com\nContact : +1 (307) 248-4658  Ext: 4807 \n\nAvailable consultants on the bench:\n\u2705Java full stack developer\n\u2705 Data engineer\n\u2705Gen Ai engineer\n\u2705 AI /ML Engineer\n\u2705Service Now Developer\n\u2705 ETL Developer\n\u2705Software engineer\n\u2705 Agentic AI Engineer\n\u2705 AWS Cloud Engineer\n\nKindly, share your requirements\ud83d\udc47\ud83c\udffb\n\nEmail : sravani@slovelights.com\nContact : +1 (307) 248-4658  Ext: 4807\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:08.733525",
+        "extracted_emails": [
+            "sravani@slovelights.com"
+        ]
+    },
+    {
+        "id": 41,
+        "author": "Supraja Gourishetti",
+        "url": "https://www.linkedin.com/posts/supraja-gourishetti-1309b31aa_hiring-junioraiengineer-aiengineer-share-7483509470657114112-EK_q/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "We are hiring for Junior AI Engineer \nLocation: Madhapur, Hyderabad (Onsite)\nExperience: 0.5 \u20132 Years\nJob Type: Full-Time\nIndustry: Artificial Intelligence, Software Engineering, Machine Learning\n\nAbout the Role:-\nWe are hiring a Junior AI Engineer to join our growing AI and software engineering team. This role is ideal for early-career professionals with experience in Python, Java, and hands-on exposure to AI tools, machine learning, or Generative AI. You\u2019ll work on real-world AI applications while learning from experienced engineers and contributing to production systems.\n\nKey Responsibilities:-\nDevelop and maintain AI-powered applications using Python and Java\nSupport integration of machine learning models and Generative AI (GenAI) solutions\nUse modern AI development tools (LLMs, code assistants, AI APIs) to accelerate development\nAssist with backend services, APIs, and microservices\nParticipate in code reviews, debugging, and testing\nCollaborate with AI engineers, data scientists, and product teams\n\nRequired Skills & Qualifications:-\nBachelor\u2019s degree in Computer Science, Engineering, AI, or related field\nStrong foundation in Python programming and Java programming\nExposure to AI / Machine Learning concepts\nFamiliarity with Git, APIs, and software development best practices\nInterest in Artificial Intelligence, Generative AI, and LLMs\n\nPreferred / Nice to Have:-\nExperience with TensorFlow, PyTorch, or scikit-learn\nExposure to Large Language Models (LLMs) and prompt engineering\nBasic knowledge of cloud platforms (AWS, Azure, GCP)\nInternship/Training, academic projects, or personal projects in AI or ML\n\n\ud83d\udce9 Interested?\nSend your updated resume to supraja.gourishetti@sitacorp.com\n\n#Hiring #JuniorAIEngineer #AIEngineer #MachineLearning #JavaDeveloper #PythonDeveloper #TechHiring #ITJobs\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:11.715302",
+        "extracted_emails": [
+            "supraja.gourishetti@sitacorp.com"
+        ]
+    },
+    {
+        "id": 43,
+        "author": "Sreeja Ganjai",
+        "url": "https://www.linkedin.com/posts/sreeja-ganjai-159456242_hiring-computervision-machinelearning-share-7483509010621468672-7EKd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Infomerica Inc is #Hiring\n\nPosition: Computer Vision Engineer (ML)\nExperience: 6+ years(Lead)\n\nDeep Learning Expertise: Strong experience with PyTorch or TensorFlow.\nDetection & Tracking Stack: Hands-on experience with:\nDetection: YOLO, Faster R-CNN, SSD\nPose Estimation: OpenPose, HRNet, MediaPipe\nTracking: DeepSORT, ByteTrack, OC-SORT\nPipeline & Video Processing: Proficiency in Python alongside OpenCV, GStreamer, or FFmpeg.\nPerformance Tuning: Solid understanding of model optimization (ONNX, TensorRT, quantization) and GPU acceleration.\nReal-World Focus: Experience evaluating models beyond the lab\u2014balancing precision, recall, latency, and cost for actual production deployments.\n\n\ud83d\udcec How to Apply: sreeja.g@infomericainc.com or DM directly\n\n#ComputerVision #MachineLearning #DeepLearning #CVEngineer #AIJobs #Hiring #TechCareers #ObjectDetection #PoseEstimation #PyTorch #TensorRT #PythonJobs\nKaithoju Shiva Kalyan E\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:17.174775",
+        "extracted_emails": [
+            "sreeja.g@infomericainc.com"
+        ]
+    },
+    {
+        "id": 44,
+        "author": "KUNTA VENKATESH",
+        "url": "https://www.linkedin.com/posts/kunta-venkatesh-18a863301_primevendor-msp-vendormanagement-share-7483509143916572672-ra6f/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Partner with Interas Labs \u2013 Your Trusted C2C Talent Partner!\n\nLooking for highly skilled IT consultants with strong communication skills, enterprise project experience, and quick onboarding?\nInteras Labs delivers pre-screened, technically strong consultants ready for immediate interviews and fast placements.\n\n\ud83d\udd25 Our Available Talent Pool Includes:\n\u2714 Java Full Stack Developers\n\u2714 DevOps / Cloud Engineers\n\u2714 SRE Engineers\n\u2714 QA Automation Engineers\n\u2714 ETL Testers\n\u2714 AI / ML Engineers\n\u2714 Product & Platform Business Analysts\n\n\ud83d\udcbc Why Vendors & Prime Vendors Partner With Us:\n\u2705 Immediate Availability\n\u2705 Fast Resume Turnaround\n\u2705 Reliable Communication\n\u2705 Strong Client-Facing Consultants\n\u2705 Flexible Remote / Onsite / Relocation Options\n\u2705 Long-Term Partnership Approach\n\u2705 Quick Interview Scheduling\n\u2705 Transparent Collaboration\n\ud83e\udd1d We\u2019re actively looking to connect with:\n\u2022 Prime Vendors\n\u2022 Direct Clients\n\u2022 Tier-1 Vendors\n\u2022 MSP Partners\n\u2022 Implementation Partners\n\u2022 Staffing Agencies Across USA\n\u26a1 Let\u2019s build long-term successful partnerships and close positions faster together.\n\nShashi Reddy srikanth pabbala B Varun Goud Srikanth Reddy Koti Prasad\nInteras Labs Manasani Naresh\n\n\ud83d\udce9 venkatesh.kunta@interaslabs.com\n\ud83d\udcde +1 614-992-8709\n\n#PrimeVendor #MSP #VendorManagement #C2CJobs #C2CConsultants #BenchSales #ITStaffing #StaffingSolutions #TechRecruitment #USStaffing #Recruitment #HiringNow #OpenRequirements #VendorNetwork #DirectClient #CloudComputing #CyberSecurity #ArtificialIntelligence #GenerativeAI #DataEngineering #Interaslabs\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:21.223355",
+        "extracted_emails": [
+            "venkatesh.kunta@interaslabs.com"
+        ]
+    },
+    {
+        "id": 45,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:13909508-7483509191475662848/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hi Recruiter,\n\nNote:- Not For Bench Sales Recruiter,\n\nI have an excellent bench of highly experienced, immediately available consultants ready for your C2C, C2H, and 1099 requirements.\n\nHere is our current availability:\n\n\u2714 Data Scientist | AI/ML | GenAI | AI\n\u2714 Data Engineer\n\u2714 MLOps |ALOPS Engineer\n\u2714 Senior DevOps Engineer\n\u2714 Azure DevOps Engineer\n\u2714 AWS Cloud DevOps Engineer\n\u2714 .NET Full Stack (Angular)\n\u2714 Lead Java Full Stack Developer\n\u2714 Service Now Business Analyst\n\u2714 Network Engineer \n\nWith Visa Status H1B,GC,H4-EAD,\n\n\ud83d\udce7 Midhan@fusiongridtek.com\n\ud83d\udce7sharath@trulogictek.com\n\ud83d\udcde 571-661-0060\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:24.630618",
+        "extracted_emails": [
+            "sharath@trulogictek.com",
+            "Midhan@fusiongridtek.com"
+        ]
+    },
+    {
+        "id": 46,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10472901-7483509192381648899/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 #OpenToWork | Senior AI/ML & Generative AI Engineer | Immediate Availability\nHello LinkedIn network,\nI'm actively exploring my next opportunity as a Senior AI Engineer, Generative AI Engineer, AI/ML Engineer, Machine Learning Engineer, Data Scientist, or Senior Python Engineer.\nOver the past 10+ years, I've built and deployed enterprise AI solutions across healthcare, finance, and retail, helping organizations transform complex business challenges into scalable, production-ready applications.\nCore Expertise:\n\ud83d\udd39 Generative AI, LLMs, Agentic AI, RAG\n\ud83d\udd39 LangChain, LangGraph, OpenAI, Hugging Face\n\ud83d\udd39 Python, FastAPI, PySpark, SQL\n\ud83d\udd39 Azure OpenAI, AWS Bedrock, Azure, AWS, GCP\n\ud83d\udd39 Vector Databases (Pinecone, FAISS), MLOps, MLflow\n\ud83d\udd39 Data Engineering, Databricks, Docker, Kubernetes\nI'm open to Remote, Hybrid, Onsite, Contract, Contract-to-Hire, and Full-Time opportunities.\nIf your team is hiring or if you know someone looking for an experienced AI/ML professional I would truly appreciate a referral, introduction, or conversation.\nThank you to everyone who has supported me throughout my job search. Your encouragement, referrals, and connections mean a lot.\n\ud83d\udce7 mani9374100@gmail.com\n\ud83d\udcde +1 (913) 703-6334\n\ud83d\udd17 LinkedIn: https://lnkd.in/ggGnpUUW\n#OpenToWork #Hiring #HiringNow #AI #ArtificialIntelligence #GenerativeAI #GenAI #AIEngineer #MachineLearning #MachineLearningEngineer #MLEngineer #DataScientist #DataEngineer #Python #PythonDeveloper #LLM #LargeLanguageModels #AgenticAI #RAG #LangChain #LangGraph #OpenAI #AzureOpenAI #HuggingFace #FastAPI #MLOps #MLflow #PySpark #Databricks #AWS #Azure #GoogleCloud #GCP #CloudComputing #VectorDatabase #Pinecone #FAISS #NLP #PromptEngineering #AIAgents #SoftwareEngineer #TechJobs #RemoteJobs #ContractJobs #FullTimeJobs #CareerOpportunity #NowHiring #Chicago #Networking #TechCareers\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:27.299726",
+        "extracted_emails": [
+            "mani9374100@gmail.com"
+        ]
+    },
+    {
+        "id": 47,
+        "author": "Rasagna Mothe",
+        "url": "https://www.linkedin.com/posts/rasagna-mothe-664856241_not-bench-share-7483509193593741312-tkml/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hi,\n\n#Not for\n#Bench Sales\n\nWe have experienced IT consultants available for C2C and C2H opportunities. They are ready to relocate and can join onsite from Day 1.\nLet\u2019s work together! Please share your requirements, and we will provide the right candidates.\nAvailable consultants:\n\nAI/ML\nDevOps Engineers\nData Engineers\nData Science \nETL Developers\nJava Full Stack Developers\nSalesforce Developer\nBig Data Developers\nCloud Engineers\n\n\nAll are ready for onsite.\nIf you have any requirements, feel free to connect or message me.\n\nName: Rasagna\nMail: rasagna@digitalmindstecinc.com\nCompany Phone : +1 4695469825\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:29.808439",
+        "extracted_emails": [
+            "rasagna@digitalmindstecinc.com"
+        ]
+    },
+    {
+        "id": 49,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:4299996-7483508761102540800/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "HOTLIST \u2013 Immediately Available Senior IT Consultants (C2C / C2H)\n\nWe represent senior-level consultants with strong client experience, excellent communication, and proven delivery across enterprise projects. Available for Remote / Hybrid / Onsite across the USA.\n\n\n\u00a0Java Full Stack Architect \u2014 12+ Years\n\nSkills: Java 17, Spring Boot, Microservices, React, Angular, REST, GraphQL, Kafka, Redis\nCloud/DevOps: AWS, Docker, Kubernetes, Terraform, Jenkins\nExpertise: System Design, API Security (OAuth2/JWT), Performance Tuning, Design Patterns\n\n\n\u00a0AEM Lead Developer \u2014 10+ Years\n\nSkills: AEM 6.5, AEM as a Cloud Service, Sling, OSGi, JCR, HTL\nTools: Dispatcher, Cloud Manager, Workflows, MSM, Content Fragments, Experience Fragments\nExpertise: AEM Forms, Headless AEM, Adobe Analytics/Target integrations\n\n\n\u00a0DevOps / SRE Engineer \u2014 10+ Years\n\nSkills: AWS, Azure, GCP, Kubernetes, Docker, Terraform, Ansible\nCI/CD: Jenkins, GitHub Actions, ArgoCD\nExpertise: Infrastructure as Code, Observability (Prometheus, Grafana), Linux, Security, Cost Optimization\n\n\n\u00a0Gen AI / LLM Engineer \u2014 11+ Years\n\nSkills: Python, LangChain, LlamaIndex, Vector DB (Pinecone/FAISS), RAG\nAI Stack: OpenAI APIs, HuggingFace, NLP, ML, Prompt Engineering\nExpertise: Chatbots, Document AI, Semantic Search, AI Integrations\n\n\n\u00a0Salesforce Senior Developer \u2014 10+ Years\n\nSkills: Apex, LWC, Visualforce, SOQL/SOSL\nCloud: Sales Cloud, Service Cloud, Experience Cloud\nExpertise: Integrations (REST/SOAP), Flows, Triggers, CPQ, Security Model\n\n\n\u00a0.NET Core Solution Developer \u2014 11+ Years\n\nSkills: C#, .NET Core, Web API, MVC, Entity Framework\nCloud: Azure, SQL Server, Microservices\nFrontend: Angular / React\nExpertise: API Design, Authentication, Performance Optimization\n\n\n\u00a0Location: Open across USA\n\n\u00a0Availability: Immediate\n\n\n\u00a0Contact:\nNunna chaitanya kumar\n\nchaitanyakumar@fusionittek.com\n\n\n+1 (469) 298 8582 Ext: 1443\n\n\u00a0WhatsApp: +91 9985774383\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:34.834631",
+        "extracted_emails": [
+            "chaitanyakumar@fusionittek.com"
+        ]
+    },
+    {
+        "id": 51,
+        "author": "Ramesh Sangapuram",
+        "url": "https://www.linkedin.com/posts/ramesh-sangapuram-b3b60450_hiring-machinelearning-operationsresearch-share-7483508847760924672-hYhk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 We're Hiring: Sr. Engineer II \u2013 Machine Learning / Optimization Engineer \ud83d\udea8\n\ud83d\udccd Location: Fort Worth, TX (Onsite/Hybrid)- Only Locals\n\ud83d\udcbc Employment Type: Contract (C2C)\n\nMust include education details in the resume.\nWe are looking for an experienced Sr. Engineer II \u2013 Machine Learning / Optimization Engineer to design and develop enterprise-scale AI and optimization solutions. This role is ideal for professionals with strong expertise in Mixed-Integer Programming (MIP), commercial optimization solvers, and Java & Python development.\n\ud83d\udd39 Required Skills\n\u2705 7\u20139+ years of Software Development experience in production environments\n\u2705 Strong experience with Mixed-Integer Programming (MIP) and Linear Programming\n\u2705 Hands-on experience with optimization solvers such as FICO Xpress (Preferred), Gurobi, CPLEX, OR-Tools, or Hexaly\n\u2705 Strong programming experience in Java and Python\n\u2705 Experience building ML pipelines and dashboards using Python & Streamlit\n\u2705 Knowledge of Machine Learning model deployment, monitoring, explainability, and bias mitigation\n\u2705 Experience with Git, Docker, Maven, and SQL\n\ud83c\udf93 Education\n\u2714 MS or PhD in Operations Research, Industrial Engineering, Applied Mathematics, Computer Science (Optimization), or a related field\n\u2b50 Nice to Have\n\u2714 Java 21 & Spring Boot\n\u2714 Test-Driven Development (JUnit 5)\n\u2714 Scheduling, Routing, or Resource Optimization experience\n\u2714 Azure ADLS, MongoDB, Docker\n\u2714 Aviation or MRO domain experience\n\ud83d\udce9 Interested?\nIf you have the required experience and are available for a Contract (C2C) opportunity in Fort Worth, TX, send your updated resume to ramesh.s@ipolarityllc.com or connect with me on LinkedIn for more details.\n#Hiring #MachineLearning #OperationsResearch #Optimization #MIP #FICOXpress #Gurobi #CPLEX #ORTools #Java #Python #Streamlit #AI #ML #IndustrialEngineering #AppliedMath #SoftwareEngineer #FortWorth #TexasJobs #ContractJobs #C2C\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:39.861572",
+        "extracted_emails": [
+            "ramesh.s@ipolarityllc.com"
+        ]
+    },
+    {
+        "id": 53,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:44194-7483508908934897664/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 NOT A HIRING POST | PLEASE DON\u2019T SHARE RESUMES \ud83d\udea8\n\nHi Prime Vendors & Recruiters \ud83d\udc4b\nI\u2019m currently #OpenToWork and actively exploring new opportunities.\n\n\ud83d\udd39 Senior Generative AI Engineer\n\ud83d\udd39 Senior AI/ML Engineer\n\ud83d\udd39 LLM Engineer\n\ud83d\udd39 Applied AI Engineer\n\ud83d\udd39 MLOps Engineer\n\ud83d\udd39 Data Scientist\n\n\ud83d\udca1 Senior AI/ML Engineer | Generative AI | LLMs | RAG | Agentic AI\n\nWith around 10 years of experience, I\u2019ve worked on building and deploying production-grade AI/ML and Generative AI solutions across Healthcare, Telecom, Finance, and Retail domains.\n\n\u2705 Hands-on experience with:\n\u2714\ufe0f LLMs & Generative AI Applications\n\u2714\ufe0f RAG Architectures & Semantic Search\n\u2714\ufe0f Agentic AI Systems (LangChain, LangGraph, Multi-Agent Workflows)\n\u2714\ufe0f AWS Bedrock, Azure OpenAI, GCP Vertex AI\n\u2714\ufe0f Vector Databases \u2013 FAISS, Pinecone, ChromaDB\n\u2714\ufe0f Kafka, Spark, Databricks, Real-Time Pipelines\n\u2714\ufe0f FastAPI, Microservices, Docker, Kubernetes\n\u2714\ufe0f MLOps / CI-CD / MLflow / GitHub Actions\n\u2714\ufe0f AWS, Azure & GCP Cloud Platforms\n\n\ud83d\ude80 Recently worked on:\n\u2022 AI-powered Telecom Network Optimization Platforms\n\u2022 Financial Document Intelligence & RAG Systems\n\u2022 Healthcare AI Search & Analytics Solutions\n\u2022 Retail Customer Analytics & Predictive Models\n\nI\u2019m passionate about building scalable, reliable, and business-focused AI systems that solve real-world problems in production environments.\n\nHappy to connect with recruiters, hiring managers, vendors, and AI professionals working on exciting AI initiatives.\n\n\ud83d\udce7 karthikreddymaddi93@gmail.com\n\ud83d\udcde +1 314-834-4445\n\n#OpenToWork #C2C #C2H #AI #GenerativeAI #LLM #RAG #AgenticAI #LangChain #LangGraph #MLOps #MachineLearning #DataScience #Python #AWS #Azure #GCP #Databricks #Kafka #Spark #FastAPI #Kubernetes #HealthcareAI #TelecomAI #RetailAI\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:44.889814",
+        "extracted_emails": [
+            "karthikreddymaddi93@gmail.com"
+        ]
+    },
+    {
+        "id": 54,
+        "author": "Gutti Vijay kumar",
+        "url": "https://www.linkedin.com/posts/gutti-vijay-kumar-42806932b_senior-it-h1b-share-7483508479358341120-sCRl/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\u274c Note:- Not For Bench Sales \u274c Not For Hiring\nWe have highly skilled & experienced #Senior #IT #H1B #Consultants available for #C2C roles across the #USA for #Onsite / #Remote Opportunities.\n\n\ud83d\udcde Desk: +1 (346)-361-1233 Ext: 233\n\ud83d\udce7 Email: morganp@koyaconsult.com\n\n\n\u2705 Somnath Banerjee \u2013 Generative AI, Java, Spring Boot, AWS, Snowflake | 24 Yrs | H1B | Irving, TX | Onsite\n\u2705 Senthil Sekar \u2013 Staff Data & AI Platform Engineer | 15+ Yrs | H1B | Texas | Onsite/Remote\n\u2705 Venkata Karthik Pamu \u2013 Full Stack Developer & Data Engineer | 15+ Yrs | H1B | Memphis, TN | Onsite\n\u2705 Harshal Raju Borse \u2013 Senior Software Engineer (Python, AWS, SQL) | 11+ Yrs | H1B | Beaverton, OR | Onsite\n\u2705 Yashwanth Avirineni \u2013 Senior Software Developer | 10+ Yrs | H1B | Texas | Onsite/Remote\n\u2705 USHA MARIMUTHU \u2013 CyberArk PAM Consultant | 14 Yrs | H1B | NJ | Onsite\n\u2705 Chandra Sekhar Ventapalli \u2013 DevOps Engineer / SRE Lead / Production Support | 19+ Yrs | H1B | Charlotte, NC | Onsite\n\u2705 Vijay Kiran Katuri \u2013 SAP Functional Consultant (TM/WM/EWM) | 13 Yrs | H1B | Austin, TX | Remote\n\u2705 Kularnav Ravi Rashmi \u2013 SAP Basis Architect / SAP BTP Architect | 20+ Yrs | H1B | Houston, TX | Onsite\n\u2705 Vamshi Mohan Patil \u2013 Senior SAP SD Consultant | 15 Yrs | H1B | Illinois | Onsite\n\n#Hotlist #HotlistCandidates #ImmediateAvailable #AvailableConsultants #OpenToWork\n#C2C #CorpToCorp #C2CJobs #C2CConsultants #ConsultingJobs\n#USITRecruitment #USStaffing #ITRecruiters #Recruiters #Recruitment\n#PrimeVendor #Tier1Vendor #ImplementationPartner #Hiring #TechHiring #ITJobs\n#H1B #H1BConsultants #Onsite #Remote #USA\n\n#GenerativeAI #GenAI #AI #ArtificialIntelligence #LLM #LargeLanguageModels\n#MachineLearning #ML #NLP #AIAgents\n\n#Java #SpringBoot #Microservices #RESTAPI\n#Python #SQL #SoftwareEngineer #SoftwareDeveloper\n#FullStackDeveloper #BackendDeveloper #CloudDeveloper\n\n#AWS #CloudComputing #CloudEngineering #CloudArchitecture\n#Snowflake #DataEngineering #DataEngineer #DataPlatform\n#BigData #DataAnalytics #DataWarehouse #ETL\n\n#DevOps #SRE #SiteReliabilityEngineering\n#Kubernetes #Docker #Jenkins #Terraform\n#CI_CD #InfrastructureAsCode #ProductionSupport\n\n#CyberSecurity #CyberArk #PAM\n#IdentityAccessManagement #IAM #ZeroTrust\n#PrivilegedAccessManagement\n\n#SAP #SAPConsultant\n#SAPTM #SAPWM #SAPEWM\n#SAPSD #SAPBasis #SAPBTP\n#S4HANA #SAPHANA\n#SupplyChain #Logistics #OrderToCash\n#EnterpriseArchitecture\n\n#TechTalent #ITConsultants #ExperiencedConsultants\n#SeniorConsultants #EnterpriseApplications\n#DigitalTransformation #Innovation #Technology\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:47.476061",
+        "extracted_emails": [
+            "morganp@koyaconsult.com"
+        ]
+    },
+    {
+        "id": 57,
+        "author": "Vishwa Sri Netha",
+        "url": "https://www.linkedin.com/posts/vishwa-sri-netha-574602300_network-data-dot-share-7483508249833689088-sw0J/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello Technical Recruiters and Recruiting Managers..! ---( Not for Bench Sale's Recruiters/ Do not share any resumes..!!! )\n\n\nWe have highly skilled Bench Candidates available for immediate placement on C2C. Our candidates bring extensive experience and are ready to add value to your projects. Let me know if you have any new positions. Looking forward to work with you...!!!\n\n\ud83d\udccd Open to Onsite & Remote Opportunities\n\n\n#Network Engineer\n#Data engineer\n#Dot net full Stack Developer\n#Data Science\n#AI/ML Engineer\n#Java full stack developer\n\nMail: vishwasri@tec-leaders.com\nContact :\u00a0+1 (469) 840 2483 Ext:5933\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:55.028517",
+        "extracted_emails": [
+            "vishwasri@tec-leaders.com"
+        ]
+    },
+    {
+        "id": 58,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:4299996-7483508387595526144/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "We Are Hiring, \ud83d\udce2 \ud83d\udce2\n\nJob Title: Enterprise AI Architect\nLocation: Jersey City, NJ (Locals Only)\nExperience: 13+ Years\nEmployment Type: C2C,\nVisa Type: H1B Workable\n\nJob Summary:\nWe are seeking a Distinguished AI Engineer to lead the architecture, engineering standards, and platform strategy for enterprise AI and Generative AI solutions. The ideal candidate will have deep expertise in Enterprise AI Architecture, LLM Platforms, RAG, AI Infrastructure, AWS Cloud, Terraform, Kubernetes, DevOps, and AI Governance. This role will define scalable, secure, cloud-agnostic AI platform architectures while collaborating with engineering, security, compliance, and business stakeholders.\n\nMust-have candidate profile:\n10+ years in AI/ML systems, distributed systems, enterprise architecture, or platform engineering.\nDeep experience with LLMs, RAG, embeddings, model serving, AI orchestration, evaluation frameworks, and AI infrastructure.\nProven track record defining architecture and technical standards across multiple engineering teams.\nStrong AWS cloud architecture experience or comparable hyperscaler depth, with clear ability to design cloud-agnostic AI platform patterns.\nExperience shaping Terraform/IaC standards, DevOps pipelines, secure deployment patterns, observability, resiliency, and platform operating models.\nAbility to influence senior stakeholders and operate across business, technology, risk, compliance, security, data, and architecture forums.\n\nPreferred experience:\nGlobal bank, fintech, financial-services, or regulated-enterprise platform experience.\nExperience with enterprise AI platforms, private LLM deployments, internal model hubs, AI gateways, multi-cloud AI strategy, or platform blueprint ownership.\nFamiliarity with Responsible AI, model risk management, audit expectations, technology risk controls, and citizen development governance.\n\n\ud83d\udcec Email: rasheed@arkinfotechspectrum.com\n\n#DistinguishedAIEngineer\n#PrincipalAIEngineer\n#ChiefAIArchitect\n#EnterpriseAIArchitect\n#AIPlatformArchitect\n#GenAI\n#GenerativeAI\n#LLM\n#LargeLanguageModels\n#RAG\n#AgenticAI\n#AIArchitecture\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:00:57.500344",
+        "extracted_emails": [
+            "rasheed@arkinfotechspectrum.com"
+        ]
+    },
+    {
+        "id": 61,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/navy-calls-on-tech-experts-and-innovators-share-7483508050893398017-UXoQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\u2693 The Navy is recruiting Silicon Valley into the Reserve.\n\nThe Department of the Navy just launched a national talent search for its new Navy Innovation Unit (NIU) \u2014 a Navy Reserve program built specifically for senior engineers, software architects, and technical leaders from industry.\nThis isn't a typical reserve role. The Navy is targeting people with early-stage startup experience or a track record of shipping high-impact products at scale, across areas like:\n\n\ud83d\udd39 AI/ML and data science\n \ud83d\udd39 Quantum information\n \ud83d\udd39 Robotics and autonomous systems\n \ud83d\udd39 Cloud architecture and DevOps\n \ud83d\udd39 Cybersecurity (offensive and defensive)\n \ud83d\udd39 Advanced communications and networking\n\nSelected candidates get a direct commission as a Navy Reserve officer \u2014 meaning they keep their civilian career while applying their expertise to fleet-level modernization challenges. Evaluation criteria include contributions to open-source projects, technical due diligence experience, patents, and published research.\n\nIt's a notable move: rather than trying to hire tech talent away from industry, the Navy is building a pathway for that talent to serve part-time, on their own terms.\n\nInterested professionals can reach out directly to CDR Caitlin Tye at Caitlin.m.tye.mil@us.navy.mil.\n\nFull release here: https://lnkd.in/eN7uNZzu\n\n#NavyInnovation #GovernmentContracting #DefenseTech #NavalReserve #TechLeadership\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:04.973499",
+        "extracted_emails": [
+            "Caitlin.m.tye.mil@us.navy.mil."
+        ]
+    },
+    {
+        "id": 63,
+        "author": "Satwik K",
+        "url": "Unknown URL",
+        "text": "\ud83d\ude80 C2C Talents Available | Immediate Joiners | Day 1 Onsite & Relocation Ready Across the USA \ud83d\ude80\n\nHello Recruiter's and Hiring Partners,\nWe currently have a highly qualified pool of consultants available for immediate projects across multiple technology domains. These professionals bring extensive industry experience, strong communication skills, and proven success delivering results in enterprise environments.\nFeatured Talent Available:\n\u2601\ufe0f Cloud & Infrastructure\n \u2022 AWS/Azure DevOps & Cloud Engineers \u2013 10+ Years\n \u2022 DevSecOps / SRE Leads \u2013 16+ Years\n \u2022 Network Engineers \u2013 10+ Years\n\ud83d\udcbb Application Development\n \u2022 Java Backend / Full Stack Developers \u2013 8+ Years\n \u2022 Frontend Developers (Angular/UI) \u2013 10+ Years\n \u2022 React Native / MERN Stack Developers \u2013 9+ Years\n\ud83d\udcca Data, Analytics & AI\n \u2022 Data Scientists / AI & ML Engineers \u2013 9+ Years\n \u2022 Data Engineers & Analytics Specialists \u2013 7+ Years\n \u2022 Data Architects / Modelers / Analysts \u2013 12+ Years\n \u2022 Snowflake / DBT Senior Data Engineers \u2013 10+ Years\n \u2022 ETL / Informatica Consultants \u2013 12+ Years\n\ud83c\udfe2 Enterprise Applications\n \u2022 SAP FICO / RTR / BRIM / FSCM Consultants \u2013 20+ Years\n \u2022 SAP ABAP / HANA Technical Leads \u2013 14+ Years\n \u2022 Workday HCM & Payroll Consultants \u2013 7+ Years\n\ud83d\udcc8 Leadership & Delivery\n \u2022 Project Managers / Product Owners / Business Analysts \u2013 8+ Years\n \u2022 Scrum Masters / RTEs / QA Test Managers \u2013 9+ Years\n\ud83d\udd0d Quality Engineering & Security\n \u2022 QA Automation Engineers / Lead SDETs \u2013 10+ Years\n \u2022 Cybersecurity Engineers \u2013 10+ Years\n\ud83c\udfa8 Design & User Experience\n \u2022 UX Designers / UX Leads \u2013 12+ Years\nWhy Partner with Us?\n\u2714 Immediate availability for interviews\n \u2714 Open to Day 1 Onsite, Hybrid, and Relocation opportunities\n \u2714 Strong technical expertise with enterprise project experience\n \u2714 Flexible engagement models (C2C)\n \u2714 Quick turnaround on submissions and interview scheduling\nIf you're actively working on requirements in any of the above skill sets, I'd be glad to share profiles and discuss how we can support your hiring needs.\n\n\ud83d\udce9 DM me or share your requirements directly.\n Let's connect and close positions faster with the right talent.\n\n\ud83d\udce7 Email: satwik@infylogy.com\n\ud83d\udcde Contact: 469-320-0999 Ext :100\n\n#C2C #Hotlist #USStaffing #BenchSales #CorpToCorp #TechRecruiters #ITRecruitment #HiringNow #Java #DevOps #AWS #Azure #DataEngineering #ArtificialIntelligence #MachineLearning #SAP #Workday #Snowflake #CyberSecurity #QAAutomation #ProjectManagement #OpenToWork\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:08.974831",
+        "extracted_emails": [
+            "satwik@infylogy.com"
+        ]
+    },
+    {
+        "id": 64,
+        "author": "Abdul Rasheed",
+        "url": "https://www.linkedin.com/posts/abdul-rasheed-6293b23a2_distinguishedaiengineer-principalaiengineer-share-7483507829119754241-Tz4_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "We Are Hiring, \ud83d\udce2 \ud83d\udce2 \n\nJob Title: Enterprise AI Architect\nLocation: Jersey City, NJ (Locals Only)\nExperience: 13+ Years\nEmployment Type: C2C,\nVisa Type: H1B Workable \n\nJob Summary: \nWe are seeking a Distinguished AI Engineer to lead the architecture, engineering standards, and platform strategy for enterprise AI and Generative AI solutions. The ideal candidate will have deep expertise in Enterprise AI Architecture, LLM Platforms, RAG, AI Infrastructure, AWS Cloud, Terraform, Kubernetes, DevOps, and AI Governance. This role will define scalable, secure, cloud-agnostic AI platform architectures while collaborating with engineering, security, compliance, and business stakeholders.\n\nMust-have candidate profile: \n10+ years in AI/ML systems, distributed systems, enterprise architecture, or platform engineering.\nDeep experience with LLMs, RAG, embeddings, model serving, AI orchestration, evaluation frameworks, and AI infrastructure.\nProven track record defining architecture and technical standards across multiple engineering teams.\nStrong AWS cloud architecture experience or comparable hyperscaler depth, with clear ability to design cloud-agnostic AI platform patterns.\nExperience shaping Terraform/IaC standards, DevOps pipelines, secure deployment patterns, observability, resiliency, and platform operating models.\nAbility to influence senior stakeholders and operate across business, technology, risk, compliance, security, data, and architecture forums.\n\nPreferred experience: \nGlobal bank, fintech, financial-services, or regulated-enterprise platform experience.\nExperience with enterprise AI platforms, private LLM deployments, internal model hubs, AI gateways, multi-cloud AI strategy, or platform blueprint ownership.\nFamiliarity with Responsible AI, model risk management, audit expectations, technology risk controls, and citizen development governance.\n\n\ud83d\udcec Email: rasheed@arkinfotechspectrum.com\n\n#DistinguishedAIEngineer\n#PrincipalAIEngineer\n#ChiefAIArchitect\n#EnterpriseAIArchitect\n#AIPlatformArchitect\n#GenAI\n#GenerativeAI\n#LLM\n#LargeLanguageModels\n#RAG\n#AgenticAI\n#AIArchitecture\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:11.468970",
+        "extracted_emails": [
+            "rasheed@arkinfotechspectrum.com"
+        ]
+    },
+    {
+        "id": 67,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7483507712295723008/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hi Recuiters,\n\nNote:- Not For Bench Sales Recuiters.\n\nI have an excellent bench of highly experienced, immediately available consultants ready for your C2C, C2H, and 1099 requirements.\nHere is our current availability:\n\n\u2714 Data Scientist | AI/ML | GenAI | AI\n\u2714 Data Engineer\n\u2714 MLOps |ALOPS Engineer\n\u2714 Senior DevOps Engineer\n\u2714 Azure DevOps Engineer\n\u2714 AWS Cloud DevOps Engineer\n\u2714 .NET Full Stack (Angular)\n\u2714 Lead Java Full Stack Developer\n\u2714 Service Now Business Analyst\n\u2714 Network Engineer \n\nWith Visa Status H1B,GC,H4-EAD,\n\n\ud83d\udce7 Midhan@fusiongridtek.com\n\ud83d\udce7sharath@trulogictek.com\n\ud83d\udcde 571-661-0060\n\n#C2C #C2CRequirements #USStaffing #ITRecruiters #HiringNow #DataScientist #GenAI #AI #DataEngineer #MLOps #DevOps #AzureDevOps #AWS #JavaDeveloper #DotNetDeveloper #SalesforceBA #FullStackDeveloper #TechJobs #CorpToCorp #OpenToWork\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:18.990707",
+        "extracted_emails": [
+            "sharath@trulogictek.com",
+            "Midhan@fusiongridtek.com"
+        ]
+    },
+    {
+        "id": 68,
+        "author": "RAJKUMAR PITTALA",
+        "url": "https://www.linkedin.com/posts/rajkumar-pittala-612387264_ai-machinelearning-artificialintelligence-share-7483507223051059200-uq1D/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Hiring Now \u2013 AI/ML Engineer | OPT / CPT Candidates Only\n\n\ud83d\ude80 We are actively looking for talented AI/ML Engineers for exciting opportunities across the USA.\n\n\ud83d\udcbc Role: AI/ML Engineer\n\ud83d\udccd Location: United States\n\ud83d\udd52 Experience Required: 0\u20135+ Years\n\ud83d\udccc Work Authorization: OPT / CPT Only\n\n\ud83d\udd39 Required Skills:\n\u2022 Python Programming\n\u2022 Machine Learning & Deep Learning\n\u2022 Data Structures & Algorithms\n\u2022 TensorFlow / PyTorch / Keras\n\u2022 Scikit-learn, Pandas, NumPy\n\u2022 Natural Language Processing (NLP)\n\u2022 Large Language Models (LLMs) & Generative AI\n\u2022 Computer Vision (OpenCV, YOLO) \u2013 Preferred\n\u2022 SQL & Data Analysis\n\u2022 Cloud Platforms (AWS / Azure / GCP)\n\u2022 MLOps (MLflow, Kubeflow, Docker, Kubernetes)\n\u2022 Git & CI/CD Basics\n\u2022 Strong Problem-Solving & Communication Skills\n\n\u2705 Complete Support Provided:\n\u2022 Technical Guidance\n\u2022 Resume Optimization\n\u2022 Interview Preparation\n\u2022 Marketing & Placement Support\n\n\ud83d\udce7 Interested candidates can connect with me directly or share their resumes at:\n\ud83d\udce7 rajkumar@spacetechinc.com\n\n\n#AI #MachineLearning #ArtificialIntelligence #MLEngineer #GenerativeAI #LLM #DeepLearning #Python #TensorFlow #PyTorch #DataScience #MLOps #NLP #ComputerVision #AWS #Azure #GCP #Hiring #OPT #CPT #USJobs #TechCareers #OpenToWork\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:21.490109",
+        "extracted_emails": [
+            "rajkumar@spacetechinc.com"
+        ]
+    },
+    {
+        "id": 70,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:4299996-7483507331172003842/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#Urgent #requirement #Hiring #Dataengineer #AI #ML #Python #AWS #Remote\n\nData Engineer (AI/ML / AWS / Python)\nRemote\n\nWe are looking for a skilled Data Engineer with strong experience in Machine Learning, AWS, and Python for a Southwest project. The ideal candidate will be responsible for building scalable data pipelines, enabling ML use cases, and working with cloud-based data platforms to support advanced analytics.\nRequired Skills:\n\n\u00a0\u00a014+ years of experience in Data Engineering\n\u00a0\u00a0Strong programming skills in Python and SQL\n\u00a0\u00a0Hands-on experience with AWS services (S3, Glue, Redshift, Lambda, EMR)\n\u00a0\u00a0Experience with big data tools like Apache Spark, Hadoop, or Kafka\n\u00a0\u00a0Knowledge of Machine Learning concepts and model lifecycle\n\u00a0\u00a0Experience with ETL/ELT frameworks and data pipeline orchestration\n\u00a0\u00a0Strong understanding of data warehousing and data lakes\n\nPreferred Skills:\n\n\u00a0\u00a0Experience with ML frameworks (TensorFlow, PyTorch, Scikit-learn)\n\u00a0\u00a0Familiarity with Airflow for workflow orchestration\n\u00a0\u00a0Knowledge of Docker and Kubernetes\n\u00a0\u00a0Experience in real-time streaming (Kafka, Kinesis)\n\u00a0\u00a0Exposure to CI/CD and DevOps practices\n\nMail: anju@openclouditsolutions.com\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:26.536078",
+        "extracted_emails": [
+            "anju@openclouditsolutions.com"
+        ]
+    },
+    {
+        "id": 72,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:12447375-7483507455415529472/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 ** Open to Work | Senior AI/ML Engineer | Generative AI Engineer | Agentic AI Engineer | AI Data Engineer | Data Scientist | ML Engineer | Forward Deployed Engineer**\n\nI'm actively seeking **Contract (C2C / C2H / 1099)** opportunities across the United States.\n\nWith **12+ years of experience**, I've helped organizations design, build, and deploy scalable, production-ready AI and data solutions that solve real business problems, automate workflows, and improve decision-making.\n\n### \ud83d\udca1 Core Expertise\n\n\u2705 Generative AI & Large Language Models (LLMs)\n\u2705 Agentic AI & Multi-Agent Systems\n\u2705 Retrieval-Augmented Generation (RAG)\n\u2705 AI Agents & Workflow Automation\n\u2705 Machine Learning & Deep Learning\n\u2705 AI Data Engineering & MLOps\n\u2705 Python Development\n\u2705 Prompt Engineering\n\u2705 End-to-End AI Solution Design & Deployment\n\u2705 Cloud AI Solutions (AWS, Azure & GCP)\n\n### \ud83c\udfe2 Industry Experience\n\n\ud83c\udfe6 Banking & Financial Services\n\ud83c\udfe5 Healthcare\n\ud83d\udce1 Telecommunications\n\u2708\ufe0f Airlines\n\ud83d\udecd\ufe0f Retail\n\ud83d\udcbc Enterprise AI Solutions\n\nI'm passionate about building secure, scalable, and production-ready AI platforms that create measurable business impact\u2014from intelligent assistants and AI agents to enterprise machine learning solutions.\n\nIf your team is hiring\u2014or if you know someone who is\u2014I would sincerely appreciate the opportunity to connect or receive a referral.\n\nLet's connect!\n\nSairam Dama\n\n\ud83d\udce7 sairamdama1311@gmail.com\n\ud83d\udcf1 +1 820-336-5347\n\nThank you for your support! \ud83d\ude4f\n\n#OpenToWork #Hiring #HiringNow #AI #AIEngineer #SeniorAIEngineer #MachineLearning #MLEngineer #DataScientist #AIDataEngineer #ForwardDeployedEngineer #GenerativeAI #GenAI #AgenticAI #AIAgents #LLM #LargeLanguageModels #RAG #PromptEngineering #Python #MLOps #DeepLearning #DataEngineering #CloudComputing #AWS #Azure #GoogleCloud #HealthcareAI #FinTech #Telecommunications #Airlines #Retail #RetailAI #TechJobs #AIJobs #ContractJobs #C2C #C2H #1099 #FullTime #USJobs #TechRecruiters #OpenForWork #NowHiring\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:31.520236",
+        "extracted_emails": [
+            "sairamdama1311@gmail.com"
+        ]
+    },
+    {
+        "id": 73,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:99563-7483507092805513216/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Note: \ud83d\udeab Don't send me resumes \ud83d\udeab\n\n\ud83d\ude45\u200d\u2642\ufe0f \u274c Not for Bench sales \u274c\n\n\nHello,\nI hope you're doing well.\nGreetings from Sonus Software Solutions Inc\n\nWe currently have experienced consultants available on our bench for the following technologies. Please share your requirements at\n\nnagaswamy476@gmail.com || Nick@sonussoftwareinc.com\n\nPhone ||+1-801-770-3133 *201 \n\n\ud83d\udcbc Available Candidates:\n\n\u2022 Sr. SQL Database Administrator\n\u2022 Sr. Azure Database Administrator\n\u2022 DevOps Engineer\n\u2022 AWS Cloud Engineer\n\u2022 Cloud Infrastructure Engineer\n\u2022 DevSecOps Engineer\n\u2022 AI/ML Engineer\n\u2022 AI Security Engineer\n\u2022 AI Data Governance Manager\u00a0\n\u2022 SAP S/H4 HANA Functional Consultant\n\u2022 SAP Transport Management Consultant\n\u2022 SAP GTS Functional Consultant\u00a0\n\u2022 Technical\u00a0 Project Manager\n\u2022 Product Owner\n\u2022 Senior / Lead Business Analyst\n\u2022 Scrum Master\n\u2022 Data Reporting Analyst\n\u2022 Business System Analyst\n\u2022 Lead Data Analyst\n\u2022 ETL Data Engineer\n\u2022 ETL Data Analyst\n\u2022 ETL Developer\n\u2022 QA Manual Tester\n\u2022 SDET (Automation Testing)\n\u2022 Java Developer\n\u2022 Java Backend Developer\n\u2022 Full Stack .NET Developer\n\u2022 SQL Developer\n\u2022 Power BI Developer\n\n\n\n\n#Hotlist\n#UpdatedHotlist\n#C2C\n#C2H\n#USITRecruiter\n#USRecruitment\n#ITRecruitment\n#Vendors\n#OpenToWork\n#Hiring\n#ImmediateJoiners\n#Consultants\n#TechJobs\n#RemoteJobs\n#HybridJobs\n#OnsiteJobs\n#USAJobs\n#USJobs\n#JobSeekers\n#H1B\n#H4EAD\n#GC\n#USC\n#OPT\n#STEMOPT\n#BenchSales\n#Recruiting\n#Staffing \n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:34.020414",
+        "extracted_emails": [
+            "nagaswamy476@gmail.com",
+            "Nick@sonussoftwareinc.com"
+        ]
+    },
+    {
+        "id": 74,
+        "author": "sriya Kotha",
+        "url": "https://www.linkedin.com/posts/sriya-kotha-609023326_hiring-aimlengineer-aijobs-share-7483507117220335617-ff54/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Hiring: AI/ML Engineer | Hyderabad | 1\u20133 Years Experience\n\nOne of our esteemed clients is looking for a talented AI/ML Engineer to join their growing team in Hyderabad. If you have hands-on experience in Artificial Intelligence, Machine Learning, and Generative AI, we'd love to hear from you.\n\n\ud83d\udccd Location: Hyderabad\n\ud83d\udcbc Experience: 1\u20133 Years\n\ud83c\udfe2 Work Mode: Work from Office\n\nKey Skills Required\nPython\nMachine Learning & Deep Learning\nGenerative AI & Large Language Models (LLMs)\nLangChain & LlamaIndex\nRetrieval-Augmented Generation (RAG)\nPrompt Engineering\nOpenAI APIs\nFastAPI / Flask\nVector Databases (Pinecone, ChromaDB, FAISS, Milvus, Weaviate)\nTensorFlow, PyTorch & Hugging Face\nSQL (PostgreSQL/MySQL)\nGit & Docker\nMLOps, CI/CD & Kubernetes\nAWS, Azure & Google Cloud Platform (GCP)\nREST API Development\n\n\ud83c\udf93 Qualification: Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, Information Technology, or a related discipline.\n\n\ud83d\udce9 If your profile matches the above requirements, please share your updated resume at:\n\ud83d\udce7 hr@dsuglobalit.com\n\n\u23f0 Kindly send your resume on or before 12:00 PM for priority consideration.\n\nOur recruitment team will review your profile and connect with shortlisted candidates.\n\nIf you know someone who would be a great fit, tag them or share this opportunity within your network.\n\n#Hiring #AIMLEngineer #AIJobs #MachineLearning #ArtificialIntelligence #GenerativeAI #LLM #Python #LangChain #LlamaIndex #RAG #FastAPI #OpenAI #TensorFlow #PyTorch #HuggingFace #MLOps #Docker #Kubernetes #AWS #Azure #GCP #HyderabadJobs #TechJobs #HiringNow #CareerOpportunity #DSUGlobalIT\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:36.491442",
+        "extracted_emails": [
+            "hr@dsuglobalit.com"
+        ]
+    },
+    {
+        "id": 75,
+        "author": "Jetangi Ganesh",
+        "url": "https://www.linkedin.com/posts/jetangi-ganesh-ab79a3379_notforbenchsales-latesthotlist-strong-share-7483507179375902720-VQHH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#NOTFORBENCHSALES\n#LATESTHOTLIST\n\nHello Connections\nHope you are doing great!\n\nI'm updating my HOTLIST. We do have #strong candidates available immediate on C2C/C2H. Can go face to face interview if needed and let me know if you have any suitable requirements for our candidates.\n\nPlease Add my mail to your daily distribution list.\nEmail : ganesh@slovelights.com\nContact : +1 307-296-9248\u00a0\u00a0Ext: 4803 \n\nAvailable consultants on the bench:\n\u2705Java full stack developer\n\u2705 Data engineer\n\u2705Gen ai engineer\n\u2705 AI /ML Engineer\n\u2705Service Now Developer\n\u2705 ETL Developer\n\u2705Software engineer\n\u2705 Agentic AI Engineer\n\u2705 AWS Cloud Engineer\n\nKindly, share your requirements\ud83d\udc47\ud83c\udffb\n\nEmail : ganesh@slovelights.com\nContact : +1 307-296-9248\u00a0\u00a0Ext: 4803\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:38.990787",
+        "extracted_emails": [
+            "ganesh@slovelights.com"
+        ]
+    },
+    {
+        "id": 76,
+        "author": "Joe Noon",
+        "url": "https://www.linkedin.com/posts/joe-noon_lead-ml-ops-engineer-12-months-hybrid-share-7483507181108215808-ASMV/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Lead ML Ops Engineer - 12 months - Hybrid (London) \n\nCurrently partnering with a heritage UK brand, looking for an experienced  Lead ML Ops Engineer (contractor) to help scale and optimise their machine learning platform capabilities, as part of a major multi-year tech transformation programme. \n\nInside IR35 \n12 months\nLondon (Hybrid) \n2 stages of interview, ASAP start \n\nA few reasons to apply...\nLead the evolution of an enterprise MLOps capability \nDrive real change within one of the UK's most recognised heritage brands.\nWork on large-scale AI initiatives with direct business impact.\nStrong long-term transformation roadmap and future-state vision.\n\nplease reach out if you're interested and keen to arrange a call joe.noon@lafosse.com\n\nhttps://lnkd.in/e_akKnxd - link to apply! \n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:41.536208",
+        "extracted_emails": [
+            "joe.noon@lafosse.com"
+        ]
+    },
+    {
+        "id": 78,
+        "author": "Manjunath M",
+        "url": "https://www.linkedin.com/posts/manjunath-m-32702a291_immediate-opportunity-for-senior-data-scientist-share-7483506749409247233-dGqB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Immediate opportunity for Senior Data Scientist\u00a0- 7+ years of experience building production ML / AI systems, with recent experience in LLMs or AI agents in data science .Strong Python engineer with a bias toward clean, scalable, and maintainable code. Proven experience working with unstructured data and images at scale. Hands-on experience with agent patterns (tool use, function calling, planning, memory).Good proficiency and hands-on experience with LLM's and advanced AI models. Experience deploying AI systems on AWS, GCP, or Azure in microservices architectures. Thrives in fast-moving startup environments with high ownership and ambiguity. Strong Python skills with focus in data engineering and data analysis. Proficiency with data mining algorithms such as Scikit-Learn, NumPy, SciPy and Pandas. Strong understanding of machine learning models, model training, and hyper parameter tuning .Working knowledge of deep learning models, loss functions, and accuracy measures. Hands-on proficiency with PyTorch / TensorFlow / Keras.Experience in NLP solutions preferred .Experience in parsing pdf and text documents preferred. Experience with statistical regression, neural nets, deep learning, decision trees, SVM, ensembles is expected .Multi-Cloud experience and proficiency with providers AWS, GCP or Azure. Comfortable working in a micro services environment .Self-motivated, enthusiasm to build next generation AI systems. \u00a0...... Job Location: Bangalore (Work From Office only).. Please mail : nagesh@global-tech.co.in or call 9980021291..\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:46.564430",
+        "extracted_emails": [
+            "nagesh@global-tech.co.in"
+        ]
+    },
+    {
+        "id": 79,
+        "author": "manoj kumar, open to work",
+        "url": "https://www.linkedin.com/posts/manoj-kumar-a84357255_hotlist-immediate-available-candidates-share-7483506789712580608-Ex7x/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hotlist \u2013 Immediate Available Candidates | Open for C2C Roles\nStrictly not for Bench Sales\nDO NOT SHARE RESUMES\nHi Connections,\n\nI have a strong pipeline of immediately available candidates with excellent experience across various technologies:\n\n \ud83d\udd39AI/ML Engineer - 11+years\n \ud83d\udd39 DevOps Engineers (AWS / Azure / Kubernetes) - 10+years\n \ud83d\udd39 Data Scientist - 12+years\n \ud83d\udd39 Sr Service Now Developer - 12+years\n \ud83d\udd39 Data Engineers / Analysts - 11+years\n \ud83d\udd39 Java Full Stack Developer - 12+years\n  \ud83d\udd39 Senior Java Developer - 11+years\n\n\n\u2714\ufe0f Open for C2C opportunities\n \u2714\ufe0f Strong communication & technical skills\n \u2714\ufe0f Ready for immediate interviews\n\u2714\ufe0f Ready for relocation\n\nLet me know if you have any active requirements\nDesk: +1 3072930843 Ext:4808 \nmail: manoj@slovelights.com\nLet\u2019s connect and collaborate!\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:49.103600",
+        "extracted_emails": [
+            "manoj@slovelights.com"
+        ]
+    },
+    {
+        "id": 80,
+        "author": "Patan Taskin banu",
+        "url": "https://www.linkedin.com/posts/patan-taskin-banu-86a5a034b_hotlist-consultants-available-for-new-share-7483506924525703168-S7sv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udd25 *HOTLIST \u2013 Consultants Available for New Projects (C2C)* \ud83d\udd25\n\nWe have top-notch consultants available immediately for *new contract opportunities*. Please share your requirements at banu@cybergatez.com\nW *Current Availability:*\n\n* Senior .Net Developer\n* Sr. Devops Engineer\n* Senior Java Developer\n* Senior Azure Data Engineer\n* Senior AWS Data Engineer\n* Sr. Data Engineer\n* Sr. ETL Developer\n* Sr. Snowflake Developer\n* Ab Initio Developer\n* Sr. GCP Data Engineer\n* Java Full-Stack Developer\n* Java Backend Developer\n* Sr. Data Scientist\n* Sr. AI/ML Engineer\n* Sr. Gen AI Engineer\n* SAP Consultant\n* Cybersecurity Engineer\n* Network Engineer\n* Business Analyst\n\ud83d\udce7 *Send Requirements To:*\n\u00a0Banu\n\ud83d\udce9 banu@cybergatez.com\n\n\ud83d\udcde +\ud83d\udd25 *HOTLIST \u2013 Consultants Available for New Projects (C2C)* \ud83d\udd25\n\nWe have top-notch consultants available immediately for *new contract opportunities*. Please share your requirements at banu@cybergatez.com\nW *Current Availability:*\n\n* Senior .Net Developer\n* Sr. Devops Engineer\n* Senior Java Developer\n* Senior Azure Data Engineer\n* Senior AWS Data Engineer\n* Sr. Data Engineer\n* Sr. ETL Developer\n* Sr. Snowflake Developer\n* Ab Initio Developer\n* Sr. GCP Data Engineer\n* Java Full-Stack Developer\n* Java Backend Developer\n* Sr. Data Scientist\n* Sr. AI/ML Engineer\n* Sr. Gen AI Engineer\n* SAP Consultant\n* Cybersecurity Engineer\n* Network Engineer\n* Business Analyst\n\ud83d\udce7 *Send Requirements To:*\n\u00a0Banu\n\ud83d\udce9 banu@cybergatez.com\n\n\ud83d\udcde +14698405475\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:51.583882",
+        "extracted_emails": [
+            "banu@cybergatez.com"
+        ]
+    },
+    {
+        "id": 81,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:4299996-7483506941663596544/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#C2C\nHello Recruiters,\nPlease find available IT Resources with all visa types on technologies below, I would appreciate it if you could add me to your distribution list for further business on contract roles such as C2C with your clients. Please let me know\nand add my mail to your distribution List\nMail: andy@koyaconsult.com\nDial: 346-770-1318 EXT-215\n\n#hotlist#email#consultants#share#java#javadeveloper#recruiter#jobs#support#data#java#developer#etl#teradata#analyst#sapfiori#sap#trending#dailypost#updates#jobupdates#jobalert#engineer#qa#devops#salesforce#datascientist#interview#android#IOS#AI#ML#genai#MLOps#SRE#marketing#technology#team#business#bigdata#project#training#automation#automation#scrum#android#hadoop#python#machinelearning#sql#work#consultants#email#help#recruiters#hiring#jobs#resume#email#vendorlists#vendors#distributions#corp2corp#recruiting#hotlist#benchsales\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:54.063686",
+        "extracted_emails": [
+            "andy@koyaconsult.com"
+        ]
+    },
+    {
+        "id": 82,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7483506951134347264/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Hiring Now \u2013 AI/ML Engineer | OPT / CPT Candidates Only\n\n\ud83d\ude80 We are actively looking for talented AI/ML Engineers for exciting opportunities across the USA.\n\n\ud83d\udcbc Role: AI/ML Engineer\n\ud83d\udccd Location: United States\n\ud83d\udd52 Experience Required: 0\u20135+ Years\n\ud83d\udccc Work Authorization: OPT / CPT Only\n\n\ud83d\udd39 Required Skills:\n\u2022 Python Programming\n\u2022 Machine Learning & Deep Learning\n\u2022 Data Structures & Algorithms\n\u2022 TensorFlow / PyTorch / Keras\n\u2022 Scikit-learn, Pandas, NumPy\n\u2022 Natural Language Processing (NLP)\n\u2022 Large Language Models (LLMs) & Generative AI\n\u2022 Computer Vision (OpenCV, YOLO) \u2013 Preferred\n\u2022 SQL & Data Analysis\n\u2022 Cloud Platforms (AWS / Azure / GCP)\n\u2022 MLOps (MLflow, Kubeflow, Docker, Kubernetes)\n\u2022 Git & CI/CD Basics\n\u2022 Strong Problem-Solving & Communication Skills\n\n\u2705 Complete Support Provided:\n\u2022 Technical Guidance\n\u2022 Resume Optimization\n\u2022 Interview Preparation\n\u2022 Marketing & Placement Support\n\n\ud83d\udce7 Interested candidates can connect with me directly or share their resumes at:\n\ud83d\udce7 rajkumar@spacetechinc.com\n\n\n#AI #MachineLearning #ArtificialIntelligence #MLEngineer #GenerativeAI #LLM #DeepLearning #Python #TensorFlow #PyTorch #DataScience #MLOps #NLP #ComputerVision #AWS #Azure #GCP #Hiring #OPT #CPT #USJobs #TechCareers #OpenToWork\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:01:56.526579",
+        "extracted_emails": [
+            "rajkumar@spacetechinc.com"
+        ]
+    },
+    {
+        "id": 84,
+        "author": "Nikhil Lakavath",
+        "url": "https://www.linkedin.com/posts/nikhil-lakavath-65b80a240_java-data-dot-share-7483506536963813376-u43G/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "THIS IS NOT FOR BENCH SALES RECRUITER :)\n\nDon't Share resume's \u274c \n\nHello Recruiters...! \n\n\nGreetings of the day.....! \n\n\nI just wanted to touch base with you and check if you have any C2C requirements, We have strong bench candidates with different cutting edge technologies who are available immediately for new projects.\n\n\nLet me know if you come across any suitable requirements for my consultants who are\n\n\n#Java Developer\n\n#Data Engineer\n\n#Dot Net Developer\n\n#Python Developer\n\n#Devops Engineer\n\n#Data Scientist\n\n#AI/ML Engineer\n\n#Data Analyst\n\n#UI Developer\n\n#C++ Developer\n\n#Salesforce Developer\n\n#Network Engineering\n\n#Mainframe Developer\n\nPlease add my email address to your daily requirements distribution list and keep me posting your daily requirements.\n\nThank you in advance for your response and I hope to hear from you soon..!! \n\n     Nikhil\n\ud83d\udce9EMail: nikhil@dreamfilltech.com\n\ud83d\udcdeDesk: 4699630183 ext:6015\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:01.510118",
+        "extracted_emails": [
+            "nikhil@dreamfilltech.com"
+        ]
+    },
+    {
+        "id": 85,
+        "author": "SAIKRISHNA GAJULA",
+        "url": "https://www.linkedin.com/posts/saikrishna-gajula-684743246_hi-team-this-post-isnot-for-benchsales-share-7483506543494361088-3bnb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hi\nTeam,\u00a0\nThis post is\u00a0not for benchsales recruiters.\nplease dont share resumes\nWe have experienced IT consultants available for C2C and C2H opportunities. They are ready to relocate and can join onsite from Day 1.\nLet\u2019s work together! Please share your requirements, and we will provide the right candidates.\nAvailable consultants:\n\nAI/ML\nDevOps Engineers\nData Engineers\nData Science\u00a0\nETL Developers\nJava Full Stack Developers\nSalesforce Developer\nBig Data Developers\nCloud Engineers\n\n\nAll are ready for onsite.\nIf you have any requirements, feel free to connect or message me.\n\nName: Gajula saikrishna\n\u00a0Mail: saikrishna@digitalmindstecinc.com\nCompany Phone : Phone : +1 4696634705\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:04.007998",
+        "extracted_emails": [
+            "saikrishna@digitalmindstecinc.com"
+        ]
+    },
+    {
+        "id": 86,
+        "author": "Raju Manelli",
+        "url": "https://www.linkedin.com/posts/raju-manelli-454744325_details-shares-vendors-share-7483506627900235776-qh5y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Good Morning LinkedIn,\n Happy Thursday!\n \n Note : I am looking for below mentioned Roles. This post is not for bench sales recruiters.\n \n I have very qualified consultants available for C2C roles searching for new projects all across the USA.\n If you or anyone in your network can benefit from any of these consultants, please let me know and will share the resumes and contact info. \n \n \n Senior Java Full Stack Developer\n Senior Data Engineer\n Lead UI Developer\n Project Manager\n Lead Java Full Stack Developer\n Angular Developer\nAi/ml architect\nData Scientist\nSalesforce developer\nRelease engineer\n Node JS Developer\n . Net Developer\n \n Please don't hesitate to reach out to me directly at rajk@select-jarvis.com or feel free to call me at 501-203 5079\n\n#details #shares #vendors #suppliers #opt #c2c #updating #corps #corp2corp #c2crequirements #availableconsultants #h1bvisa #jobs #candidatessearching #availableconsultants #requirements #vendorempanelment #jobsearch #opt #subcontractors #benchsales #daily #matching #jobs #directclients #clients #Us #It #Sales #BenchSales #usitrecruiters #contractjobs #softwareengineer #usitstaffing #fullstackjavadeveloper #hiring #jobs #vendors #distributions #sharelist #benchsales #benchsale #benchsalesrecruiters #jobopening #distributions #corp2corp #recruiting #recruiterjobs #jobopening #requirements, #recruiting #recruiting #corp2corp #recruitmentjobs #comment #nowhiring #activelylookingforjob #jobseeker #jobopportunity #usajob #uscitizens #salesforce #benchsalesrecruiters #benchsales #sales #work #consulting #details #Requirements\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:06.632503",
+        "extracted_emails": [
+            "rajk@select-jarvis.com"
+        ]
+    },
+    {
+        "id": 87,
+        "author": "S Meghana",
+        "url": "https://www.linkedin.com/posts/s-meghana-79a614239_hello-recruiters-hope-you-are-doing-well-share-7483506629133406209-OBMs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello Recruiters,\nHope you are doing well.!!\n\nThis is Meghana \n\nAvailable consultants on Bench and looking for projects, please share C2C requirements to meghana@imrsoft.com\nLet me know if you have any requirements please share (C2C). Kindly Add my mail-id to your distribution list..\n\nTechnology\u00a0\u00a0: Lead Data Engineer\nExperience\u00a0\u00a0: 12+ Years\n\nTechnology\u00a0\u00a0: Sr SharePoint and Power Platform Administrator / Developer\nExperience\u00a0\u00a0: 15+ Years\n\nTechnology\u00a0\u00a0: Sr Devops Engineer\nExperience\u00a0\u00a0: 12+ Years\n\nTechnology\u00a0\u00a0: Sr. AI/ML Engineer\nExperience\u00a0\u00a0: 8+ Years\n\nTechnology\u00a0\u00a0:Java Developer\nExperience\u00a0\u00a0: 8+\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:09.142819",
+        "extracted_emails": [
+            "meghana@imrsoft.com"
+        ]
+    },
+    {
+        "id": 88,
+        "author": "Srikanth t",
+        "url": "https://www.linkedin.com/posts/srikanth-t-794278319_hiring-appliedai-airesearcher-share-7483506629351763968-Llzv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Now Hiring: AI Platform Research Engineer (GenAI / NLP / Agentic AI)\n\ud83d\udccd Client: MUFG Union Bank\n\ud83d\udccd Location: Jersey City, NJ (Local Candidates Only)\n\ud83c\udfe2 Work Mode: Onsite (Face-to-Face Interview Mandatory)\nWe are looking for an Applied AI Researcher with strong expertise in Generative AI, NLP, LLMs, RAG, Agentic AI, and Applied Machine Learning to drive enterprise AI innovation for the banking domain.\nRequired Skills:\n\u2705 Applied AI Research, LLMs & Generative AI\n\u2705 NLP, Transformers, Embeddings & Information Retrieval\n\u2705 Retrieval-Augmented Generation (RAG)\n\u2705 Model Evaluation, Experiment Design & Benchmarking\n\u2705 Agentic AI & Multimodal AI\n\u2705 Python, PyTorch, Hugging Face, TensorFlow, scikit-learn\n\u2705 Prompt Engineering, Fine-tuning & Synthetic Data\n\u2705 AWS (Bedrock, SageMaker), Vector Databases, MLflow, Databricks (Preferred)\n\u2705 Responsible AI, Model Validation & Enterprise AI Deployment\nPreferred Experience:\n\u2714 Banking / Financial Services / Compliance / Risk / AML / KYC\n\u2714 Research-to-Production AI implementations\n\u2714 Experience building enterprise AI solutions\n\ud83c\udf93 Education: MS/PhD preferred in AI, ML, Computer Science, Statistics, Computational Linguistics, Mathematics, or related fields.\n\ud83d\udccc Interview: Face-to-Face (Mandatory)\n\ud83d\udccc Location: Jersey City, NJ (Local candidates only)\n\ud83d\udce9 If you're interested or know someone who is a great fit, please share your updated resume.\n\ud83d\udce7 srikanth@arkinfotechspectrum.com\n#Hiring #AppliedAI #AIResearcher #GenAI #LLM #NLP #AgenticAI #MachineLearning #RAG #PyTorch #HuggingFace #AWS #SageMaker #AIJobs #JerseyCity #NewJersey #BankingAI #MUFG #ArtificialIntelligence #OpenToWork\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:11.637260",
+        "extracted_emails": [
+            "srikanth@arkinfotechspectrum.com"
+        ]
+    },
+    {
+        "id": 89,
+        "author": "Jyothi Shilam",
+        "url": "https://www.linkedin.com/posts/jyothi-shilam-74665034b_hello-connections-we-currently-have-highly-share-7483506688285630464-Ib0W/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello Connections,\n\nWe currently have highly skilled IT consultants with 12+ years of experience available immediately for C2C and 1099 opportunities.\n\nOur bench consultants specialize in:\n\u2714 Java Development\n\u2714 .NET Development\n\u2714 DevOps Engineering\n\u2714 Data Engineering\n\u2714 Python Development\n\u2714 AI&ML Engineer\n\u2714Networking Engineer\n\nKey Highlights:\n\u2714 12+ years of proven industry experience\n\u2714 Open to relocation anywhere in the USA\n\u2714 Available for immediate deployment\n\u2714 Flexible for remote, hybrid, or onsite engagements\n\nIf you have current or upcoming roles, let\u2019s connect!\n\ud83d\udce9 DM me or email at jyothi@vectratek.com or  PN No: (940)229-5293 for detailed profiles and rates.\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:14.163755",
+        "extracted_emails": [
+            "jyothi@vectratek.com"
+        ]
+    },
+    {
+        "id": 90,
+        "author": "Raju Manelli",
+        "url": "https://www.linkedin.com/posts/raju-manelli-454744325_details-shares-vendors-share-7483506708418314241-Mh-5/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "My updated hotlist make me your prime supplier i assure ill give you good resources\n \n Mail : rajk@select-jarvis.com\nDirect : +1 501 203 5079\n \n \n \n Sri Lakshmi - Full Stack Java Developer - 8+ - Open - H1B\n\nSai V - Sr. Network security Engineer - 7+ - Open - H1B\n\nSrikar - Sr.Java Full Stack Developer - 10+ - Open - H1B\n\nSaikanth - Sr. Data engineer - 9+ - Open - H1B\n\nLekhya - Data analyst - 10+ - Open \u2013 H1B\n\nAKRITI - SR UI/UX Designer - 14+ - Open - H4EAD\n\nSunil Kumar - SR Full Stack Developer - 15+ - Open - H1T\n\nChaithanya P - Data Scientist/ ML Engineer - 7+ - Open - Opt EAD\n\nKrishna P - Salesforce Admin & Developer - 7+ - Open - Opt EAD\n\nWilliams - Data Scientist / Agentic AI Architect - 15+ - Remote \u2013 USC\n\nAdams - Ui Path RPA Lead Architect - 25+ - Remote \u2013 USC\n\nAnup - Senior Lead .Net Developer/.Net Architect - 20+ - Remote \u2013 GC\n\nGeetha - Lead Java Full stack Developer - 12+ - Open \u2013 GC\n\nHema - Lead Java Full stack Developer - 12+ - Open \u2013 GC\n\nBhavana - Java Full Stack Developer - 10+ - Open \u2013 GC\n\nBharath - Java Full Stack Developer - 11+ - Open \u2013 GC\n\nSaranya - Java Full Stack Developer - 10+ - Open \u2013 GC\n\nKeerthana - Java Full Stack Developer - Open \u2013 GC\n\nKeerthi Reddy - Sr. Java/React Developer - 10+ - Open \u2013 GC\n\nNaga Lakshmi N - Java Full Stack Developer - 10+ - Open \u2013 GC\n\nPranathi - Java Full Stack Developer - 10+ - Open \u2013 GC\n\nB Santosh - Java Full Stack Developer - 10+ - Open \u2013 GC\n\nMallikarjun \u2013 Lead Java Backend Developer \u2013 11+ - Open \u2013 GC\n\n\n\n\n\n#details #shares #vendors #suppliers #opt #c2c #updating #corps #corp2corp #c2crequirements #availableconsultants #h1bvisa #jobs #candidatessearching #availableconsultants #requirements #vendorempanelment #jobsearch #opt #subcontractors #benchsales #daily #matching #jobs #directclients #clients #Us #It #Sales #BenchSales #usitrecruiters #contractjobs #softwareengineer #usitstaffing #fullstackjavadeveloper #hiring #jobs #vendors #distributions #sharelist #benchsales #benchsale #benchsalesrecruiters #jobopening #distributions #corp2corp #recruiting #recruiterjobs #jobopening #requirements, #recruiting #recruiting #corp2corp #recruitmentjobs #comment #nowhiring #activelylookingforjob #jobseeker #jobopportunity #usajob #uscitizens #salesforce #benchsalesrecruiters #benchsales #sales #work #consulting #details #Requirements\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:18.066608",
+        "extracted_emails": [
+            "rajk@select-jarvis.com"
+        ]
+    },
+    {
+        "id": 91,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10472901-7483506378163130368/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Open to Contract Opportunities \u2013 Data Scientist | AI/ML Engineer | Generative AI Engineer\n\ud83d\udce2 I\u2019m currently open to contract opportunities (C2C / C2H / 1099) in Data Science, AI/ML, and Generative AI.\nWith 11+ years of experience delivering enterprise data and AI solutions, I focus on building scalable, production-ready systems that support real business needs.\nRecently, I\u2019ve been working on projects involving LLM-powered applications, RAG pipelines, agentic AI workflows, and machine learning platforms using Python and cloud environments.\n\ud83d\udd39 Core Areas\n* \ud83d\udcca Data Science & Machine Learning\n* \ud83e\udd16 Generative AI, LLMs, RAG\n* \ud83e\udde0 Agentic AI & Intelligent Systems\n* \ud83d\udc0d Python Development\n* \u2601\ufe0f Cloud-based AI Solutions\n* \ud83c\udfe6 Enterprise AI across Banking, Fintech, and Healthcare\n\nIf you\u2019re hiring for contract-based AI/ML roles, feel free to connect or reach out.\nYashwanth Chikkabasavaiah\n\ud83d\udcde 919-526-0515\n\ud83d\udce7 yashwanthcv92@gmail.com\n\n#OpenToWork #AI #AI/ML #AgenticAI #Agentic #MachineLearning #DataScientist #AIEngineer #MLEngineer #PythonDeveloper #GenerativeAI #LLM #RAG #PromptEngineering #MLOps #AIJobs #TechHiring #TechRecruiters #ContractJobs #C2C #C2H #1099Jobs #USJobs #DataScienceJobs\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:20.541145",
+        "extracted_emails": [
+            "yashwanthcv92@gmail.com"
+        ]
+    },
+    {
+        "id": 92,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10529815-7483506387545755648/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udeab NOT FOR BENCH SALES RECRUITERS \ud83d\udeab\n\ud83d\ude80 Immediate Available Consultants | C2C / Contract Hotlist\nHello Connections \ud83d\udc4b\n\ud83d\udcbc Available Consultants\n\ud83d\udd39 Narmada Chinna Veerareddygari \u2013 Lead Full-Stack Java Developer \u2013 14 Years \u2013 H1B \u2013 Atlanta, GA \u2013 Onsite\n#NarmadaChinna #JavaDeveloper #FullStackDeveloper #SpringBoot #Microservices\n\ud83d\udd39 Ramesh V. \u2013 SAP CPI / BTP / CI-DS / PI-PO \u2013 16+ Years \u2013 H1B \u2013 North Carolina \u2013 Onsite\n#RameshV #SAPCPI #SAPBTP #SAPIntegration\n\ud83d\udd39 Sivamala P. \u2013 Power BI / Tableau / SAP BOBJ \u2013 14 Years \u2013 H1B \u2013 Seattle, WA \u2013 Onsite\n#SivamalaP #PowerBI #Tableau #SAPBOBJ\n\ud83d\udd39 Sai K. \u2013 SAP EWM / WM / MM \u2013 12 Years \u2013 GC \u2013 Houston, TX \u2013 Onsite\n#SaiK #SAPEWM #SAPWM #SAPMM\n\ud83d\udd39 Vipul M. \u2013 SAP SD / TM \u2013 17+ Years \u2013 GC \u2013 Remote\n#VipulM #SAPSD #SAPTM\n\ud83d\udd39 Moiz M. \u2013 Business Systems Analyst \u2013 15+ Years \u2013 USC \u2013 Remote\n#MoizM #BusinessAnalyst #SystemAnalyst\n\ud83d\udd39 Chiranjivi I. \u2013 MS Fabric / Azure Data Engineer / Power BI \u2013 13+ Years \u2013 H1B \u2013 VA \u2013 Onsite\n#ChiranjiviI #MicrosoftFabric #AzureDataEngineer #PowerBI\n\ud83d\udd39 Praveen Chilagani \u2013 SAP BW HANA / Power BI / GCP / Data Science \u2013 15+ Years \u2013 USC \u2013 Sacramento, CA \u2013 Remote\n#PraveenChilagani #SAPBWHANA #PowerBI #GCP #DataScience\n\ud83d\udd39 Mohil Manojkumar Amin \u2013 Senior Business Analyst \u2013 Data, Risk Controls & Applied AI | Senior Data Scientist / AI-ML Platform Engineer \u2013 10+ Years \u2013 USC \u2013 Edison, NJ \u2013 Onsite\n#MohilAmin #BusinessAnalyst #DataScientist #AIEngineer #MachineLearning\n\ud83d\udd39 Tajuddin Mohammed \u2013 SAC / HANA / Datasphere / ABAP / BW / AI/ML Architect \u2013 20+ Years \u2013 H1B \u2013 Wylie, TX \u2013 Onsite\n#TajuddinMohammed #SAC #SAPHANA #Datasphere #ABAP #SAPBW #AIMLArchitect\n\ud83d\udd39 Srinivasa Rama V. P. G. \u2013 Lead DevOps Cloud Engineer \u2013 18+ Years \u2013 H1B \u2013 FL \u2013 Onsite\n#SrinivasaRama #DevOps #CloudEngineer #AWS #Azure\n\ud83d\udd39 Amit Kulkarni \u2013 SAP Program Manager | SAP PP/QM Sr. Solution Architect | SAP S/4HANA \u2013 20+ Years \u2013 GC \u2013 Chicago, IL \u2013 Remote\n#AmitKulkarni #SAPProgramManager #SAPPP #SAPQM #S4HANA #SAPSolutionArchitect\n\ud83d\udd39 Vineet Nadkarni \u2013 Business Analyst with Guidewire \u2013 15+ Years \u2013 H1B \u2013 Ashburn, VA \u2013 Remote\n#VineetNadkarni #BusinessAnalyst #Guidewire #Insurance\n\ud83d\udd39 Bhaskar Rangaiya \u2013 SAP FICO / Solution Architect \u2013 18+ Years \u2013 H1B \u2013 Houston, TX \u2013 Onsite\n#BhaskarRangaiya #SAPFICO #SAPSolutionArchitect #SAPHANA\n\ud83d\udce9 For Resumes & Quick Submissions:\n \ud83d\udce7 sandeep.g@koyaconsult.com\n\ud83d\udcde 346-770-1347 Ext: 217\n\ud83d\udc49 Please share your Direct Client Requirements, C2C Opportunities, and Implementation Partner Requirements for immediate submission.\n\ud83d\udd16 #Hotlist #USITHotlist #ImmediateJoiners #HiringNow #OpenToWork #PrimeVendors #DirectClients #ImplementationPartners #C2C #ContractJobs #JavaDeveloper #SAPConsultant #PowerBI #AzureDataEngineer #MicrosoftFabric #DevOps #CloudEngineer #DataScience #ArtificialIntelligence #MachineLearning #Guidewire #SAPFICO #S4HANA #TechJobs #USITRecruitment #ConsultantsAvailable #C2CHiring\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:23.010241",
+        "extracted_emails": [
+            "sandeep.g@koyaconsult.com"
+        ]
+    },
+    {
+        "id": 93,
+        "author": "Lakhan Jadhav",
+        "url": "https://www.linkedin.com/posts/lakhan-jadhav04041996_opentowork-generativeai-llmops-share-7483497654904262656-bnNd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 OPEN TO WORK | Senior AI/ML Engineer | Generative AI | Agentic AI | MLOps\n\nI'm actively exploring opportunities as a Senior AI/ML Engineer, Generative AI Engineer, or Staff Machine Learning Engineer.\n\nWith 9+ years of experience, I've architected and deployed enterprise AI solutions across Banking, Healthcare, Insurance, and Capital Markets. My expertise spans Generative AI, LLMs, Agentic AI, GraphRAG, LangChain, LangGraph, Machine Learning, Python, PyTorch, TensorFlow, Kubernetes, AWS, Azure, GCP, and enterprise MLOps.\n\nOne production challenge that fundamentally changed how I evaluate AI systems was this:\n\nEvery model update looked better during testing, but we couldn't consistently prove it was better in production.\nThe prompts had improved.\nThe retrieval pipeline had been refined.\nA newer model version was available.\nOffline examples looked impressive.\nThe challenge wasn't building better AI.\nIt was measuring improvement objectively.\n\nI worked on designing an evaluation framework that combined curated benchmark datasets, automated regression testing, LLM-as-a-judge evaluations, business-specific acceptance criteria, and human review for high-impact scenarios before every production release.\n\nThe objective wasn't simply:\n\"Did the model generate a good response?\"\nThe better question was:\n\"Can we demonstrate, with measurable evidence, that this release is better than the previous one?\"\n\nThat experience reinforced an important lesson:\n\nEnterprise AI cannot rely on intuition alone. Every production release needs a repeatable evaluation strategy.\n\nAs AI platforms evolve, success depends on disciplined testing, measurable quality, and continuous validation not isolated demos or anecdotal results.\nThese are the engineering challenges I enjoy solving, and I'm excited to bring this experience to my next opportunity.\n\nIf your organization is hiring for AI, Machine Learning, Generative AI, Agentic AI, or MLOps roles, I'd welcome the opportunity to connect.\n\nLakhan Jadhav\nSenior AI/ML Engineer | Generative AI Engineer\nAWS Certified Machine Learning Engineer\n\ud83d\udce7 Lakhanjjadhav0404@gmail.com\n\ud83d\udcf1 +1 (313) 757-0748\n\n#OpenToWork #GenerativeAI #LLMOps #AgenticAI #MachineLearning #MLOps #AWS #AWSCertified #EnterpriseAI #LLMEvaluation #AIEngineering #MLEngineer #Hiring\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:25.595479",
+        "extracted_emails": [
+            "Lakhanjjadhav0404@gmail.com"
+        ]
+    },
+    {
+        "id": 94,
+        "author": "Aarthi J, open to work",
+        "url": "https://www.linkedin.com/posts/aarthi-j-b79b931a2_im-actively-seeking-new-opportunities-as-share-7483506100294668288-VT85/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "I\u2019m actively seeking new opportunities as a GenAI Engineer, AI/ML Engineer, AI Platform Engineer, or Machine Learning Engineer.\nWith 5+ years of experience in AI/ML and recent experience building production-grade GenAI applications, I have worked on:\n \u2705 Large Language Models (LLMs), RAG Pipelines & AI Agents\n \u2705 LangChain, LangGraph, CrewAI & LlamaIndex\n \u2705 Fine-tuning (LoRA, QLoRA), Model Evaluation & AI Observability\n \u2705 FastAPI, Python, Docker, Kubernetes & MLOps\n \u2705 Azure OpenAI, AWS SageMaker, Azure AKS & Vertex AI\n \u2705 Vector Databases (FAISS, Pinecone, Weaviate)\n \u2705 AI Platform Engineering, Document Intelligence & Workflow Automation\nI'm excited to contribute to organizations building innovative AI products and scalable machine learning platforms.\nIf your team is hiring or you know of any suitable opportunities, I'd greatly appreciate your support, referrals, or connections.\n Email: aarthijujjavarapu31@gmail.com\nPhone: +1 (214) 727-6946\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:28.107836",
+        "extracted_emails": [
+            "aarthijujjavarapu31@gmail.com"
+        ]
+    },
+    {
+        "id": 95,
+        "author": "Tejesh Karri, open to work",
+        "url": "https://www.linkedin.com/posts/tejesh-karri-397029293_im-actively-seeking-new-opportunities-as-share-7483506115801153536-ePf2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "I'm actively seeking new opportunities as a Senior AI/ML Engineer, Agentic AI Engineer, Generative AI Engineer, or Machine Learning Engineer.\nWith 6+ years of experience, I've designed and deployed production-grade AI solutions across AWS, Azure, and GCP, specializing in:\n\u2705 Agentic AI & Multi-Agent Systems (LangGraph, LangChain, MCP)\n\u2705 Generative AI & LLMs (GPT-4, Claude, Llama, Bedrock, Azure OpenAI)\n\u2705 Retrieval-Augmented Generation (RAG), Pinecone, FAISS, Chroma\n\u2705 MLOps (MLflow, Docker, Kubernetes, GitHub Actions, CI/CD)\n\u2705 FastAPI, Python, PyTorch, TensorFlow, Scikit-learn\n\u2705 AWS, Azure, GCP, Vertex AI, SageMaker, AKS\nThroughout my career, I've built enterprise-scale AI systems that automate business workflows, improve model accuracy, reduce inference costs, and deliver measurable business impact.\nI'm open to Full-time, Contract, and C2C opportunities across the United States, with remote, hybrid, or onsite roles.\nIf your team is hiring or you know of any relevant opportunities, I would greatly appreciate your support.\n Email: teja0597k@gmail.com\nPhone: +1 (945) 367-3033\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:30.594088",
+        "extracted_emails": [
+            "teja0597k@gmail.com"
+        ]
+    },
+    {
+        "id": 96,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/hiring-aimlengineer-aijobs-share-7483506118808432640-u-VU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Hiring: AI/ML Engineer | Hyderabad | 1\u20133 Years Experience\n\nOne of our esteemed clients is looking for a talented AI/ML Engineer to join their growing team in Hyderabad. If you have hands-on experience in Artificial Intelligence, Machine Learning, and Generative AI, we'd love to hear from you.\n\n\ud83d\udccd Location: Hyderabad\n\ud83d\udcbc Experience: 1\u20133 Years\n\ud83c\udfe2 Work Mode: Work from Office\n\nKey Skills Required\nPython\nMachine Learning & Deep Learning\nGenerative AI & Large Language Models (LLMs)\nLangChain & LlamaIndex\nRetrieval-Augmented Generation (RAG)\nPrompt Engineering\nOpenAI APIs\nFastAPI / Flask\nVector Databases (Pinecone, ChromaDB, FAISS, Milvus, Weaviate)\nTensorFlow, PyTorch & Hugging Face\nSQL (PostgreSQL/MySQL)\nGit & Docker\nMLOps, CI/CD & Kubernetes\nAWS, Azure & Google Cloud Platform (GCP)\nREST API Development\n\n\ud83c\udf93 Qualification: Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, Information Technology, or a related discipline.\n\n\ud83d\udce9 If your profile matches the above requirements, please share your updated resume at:\n\ud83d\udce7 hr@dsuglobalit.com\n\u23f0 Kindly send your resume on or before 12:00 PM for priority consideration.\n\nOur recruitment team will review your profile and connect with shortlisted candidates.\n\nIf you know someone who would be a great fit, tag them or share this opportunity within your network.\n\n#Hiring #AIMLEngineer #AIJobs #MachineLearning #ArtificialIntelligence #GenerativeAI #LLM #Python #LangChain #LlamaIndex #RAG #FastAPI #OpenAI #TensorFlow #PyTorch #HuggingFace #MLOps #Docker #Kubernetes #AWS #Azure #GCP #HyderabadJobs #TechJobs #HiringNow #CareerOpportunity #DSUGlobalIT\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:33.077696",
+        "extracted_emails": [
+            "hr@dsuglobalit.com"
+        ]
+    },
+    {
+        "id": 98,
+        "author": "Shirisha Padigala, open to work",
+        "url": "https://www.linkedin.com/posts/shirisha-p123_im-excited-to-share-that-im-actively-looking-share-7483506133438115840-QbRs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "I\u2019m excited to share that I\u2019m actively looking for new opportunities as an AI Engineer, Generative AI Engineer, Machine Learning Engineer, or Data Scientist.\nWith 5+ years of experience building and deploying AI/ML solutions across healthcare and enterprise domains, I have hands-on expertise in:\n\u2705 Generative AI & LLMs (OpenAI, Azure OpenAI, LangChain, LangGraph, RAG)\n\u2705 Agentic AI & AI Automation\n\u2705 Python, FastAPI, REST APIs\n\u2705 Azure, AWS, Databricks, MLflow\n\u2705 Vector Databases (FAISS, Pinecone)\n\u2705 MLOps, Docker, Kubernetes, GitHub Actions\n\u2705 Machine Learning, NLP, Deep Learning\nI enjoy building scalable AI solutions that solve real-world business problems and am eager to contribute to innovative teams working on cutting-edge AI technologies.\nIf your organization is hiring or you know of any relevant opportunities, I would greatly appreciate your support, referrals, or connections.\n Email: padigalashirisha910@gmail.com\nPhone: +1 4803827239\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:38.084644",
+        "extracted_emails": [
+            "padigalashirisha910@gmail.com"
+        ]
+    },
+    {
+        "id": 99,
+        "author": "Dhanush Bolisetty, open to work",
+        "url": "https://www.linkedin.com/posts/dhanush-bolisetty-ai_i-am-actively-seeking-new-opportunities-as-share-7483506148973879297-tYiE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "I am actively seeking new opportunities as a Senior AI/ML Engineer, Generative AI Engineer, LLM Engineer, or Agentic AI Engineer.\nWith 5+ years of experience designing and deploying production-grade AI solutions, I have worked extensively on:\n\u2705 Generative AI and LLM Applications\n\u2705 Agentic AI and Multi-Agent Systems\n\u2705 Retrieval-Augmented Generation (RAG)\n\u2705 LangChain, LangGraph, and OpenAI Agents SDK\n\u2705 Azure OpenAI, Azure AI Foundry, and AWS Bedrock\n\u2705 Vector Databases including Pinecone, FAISS, and Azure AI Search\n\u2705 MLOps, LLMOps, Kubernetes, Docker, and CI/CD pipelines\nMost recently, I have been building enterprise-scale AI platforms focused on intelligent automation, knowledge retrieval, and AI-powered decision support systems.\nI am open to Full-Time, Contract, Hybrid, and Remote opportunities across the United States.\nIf your team is hiring or if you know of relevant opportunities, I would greatly appreciate your support and referrals.\n Email: Bolisettydhanush0904@gmail.com\nPhone: 518-362-8959\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:40.555270",
+        "extracted_emails": [
+            "Bolisettydhanush0904@gmail.com"
+        ]
+    },
+    {
+        "id": 100,
+        "author": "Sandeep Gokavarapu, open to work",
+        "url": "https://www.linkedin.com/posts/gokavarapu-sandeep-15a916249_narmadachinna-javadeveloper-fullstackdeveloper-share-7483506191118221312-PNc-/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udeab NOT FOR BENCH SALES RECRUITERS \ud83d\udeab\n\ud83d\ude80 Immediate Available Consultants | C2C / Contract Hotlist\nHello Connections \ud83d\udc4b\n\ud83d\udcbc Available Consultants\n\ud83d\udd39 Narmada Chinna Veerareddygari \u2013 Lead Full-Stack Java Developer \u2013 14 Years \u2013 H1B \u2013 Atlanta, GA \u2013 Onsite\n#NarmadaChinna #JavaDeveloper #FullStackDeveloper #SpringBoot #Microservices\n\ud83d\udd39 Ramesh V. \u2013 SAP CPI / BTP / CI-DS / PI-PO \u2013 16+ Years \u2013 H1B \u2013 North Carolina \u2013 Onsite\n#RameshV #SAPCPI #SAPBTP #SAPIntegration\n\ud83d\udd39 Sivamala P. \u2013 Power BI / Tableau / SAP BOBJ \u2013 14 Years \u2013 H1B \u2013 Seattle, WA \u2013 Onsite\n#SivamalaP #PowerBI #Tableau #SAPBOBJ\n\ud83d\udd39 Sai K. \u2013 SAP EWM / WM / MM \u2013 12 Years \u2013 GC \u2013 Houston, TX \u2013 Onsite\n#SaiK #SAPEWM #SAPWM #SAPMM\n\ud83d\udd39 Vipul M. \u2013 SAP SD / TM \u2013 17+ Years \u2013 GC \u2013 Remote\n#VipulM #SAPSD #SAPTM\n\ud83d\udd39 Moiz M. \u2013 Business Systems Analyst \u2013 15+ Years \u2013 USC \u2013 Remote\n#MoizM #BusinessAnalyst #SystemAnalyst\n\ud83d\udd39 Chiranjivi I. \u2013 MS Fabric / Azure Data Engineer / Power BI \u2013 13+ Years \u2013 H1B \u2013 VA \u2013 Onsite\n#ChiranjiviI #MicrosoftFabric #AzureDataEngineer #PowerBI\n\ud83d\udd39 Praveen Chilagani \u2013 SAP BW HANA / Power BI / GCP / Data Science \u2013 15+ Years \u2013 USC \u2013 Sacramento, CA \u2013 Remote\n#PraveenChilagani #SAPBWHANA #PowerBI #GCP #DataScience\n\ud83d\udd39 Mohil Manojkumar Amin \u2013 Senior Business Analyst \u2013 Data, Risk Controls & Applied AI | Senior Data Scientist / AI-ML Platform Engineer \u2013 10+ Years \u2013 USC \u2013 Edison, NJ \u2013 Onsite\n#MohilAmin #BusinessAnalyst #DataScientist #AIEngineer #MachineLearning\n\ud83d\udd39 Tajuddin Mohammed \u2013 SAC / HANA / Datasphere / ABAP / BW / AI/ML Architect \u2013 20+ Years \u2013 H1B \u2013 Wylie, TX \u2013 Onsite\n#TajuddinMohammed #SAC #SAPHANA #Datasphere #ABAP #SAPBW #AIMLArchitect\n\ud83d\udd39 Srinivasa Rama V. P. G. \u2013 Lead DevOps Cloud Engineer \u2013 18+ Years \u2013 H1B \u2013 FL \u2013 Onsite\n#SrinivasaRama #DevOps #CloudEngineer #AWS #Azure\n\ud83d\udd39 Amit Kulkarni \u2013 SAP Program Manager | SAP PP/QM Sr. Solution Architect | SAP S/4HANA \u2013 20+ Years \u2013 GC \u2013 Chicago, IL \u2013 Remote\n#AmitKulkarni #SAPProgramManager #SAPPP #SAPQM #S4HANA #SAPSolutionArchitect\n\ud83d\udd39 Vineet Nadkarni \u2013 Business Analyst with Guidewire \u2013 15+ Years \u2013 H1B \u2013 Ashburn, VA \u2013 Remote\n#VineetNadkarni #BusinessAnalyst #Guidewire #Insurance\n\ud83d\udd39 Bhaskar Rangaiya \u2013 SAP FICO / Solution Architect \u2013 18+ Years \u2013 H1B \u2013 Houston, TX \u2013 Onsite\n#BhaskarRangaiya #SAPFICO #SAPSolutionArchitect #SAPHANA\n\ud83d\udce9 For Resumes & Quick Submissions:\n \ud83d\udce7 sandeep.g@koyaconsult.com\n\ud83d\udcde 346-770-1347 Ext: 217\n\ud83d\udc49 Please share your Direct Client Requirements, C2C Opportunities, and Implementation Partner Requirements for immediate submission.\n\ud83d\udd16 #Hotlist #USITHotlist #ImmediateJoiners #HiringNow #OpenToWork #PrimeVendors #DirectClients #ImplementationPartners #C2C #ContractJobs #JavaDeveloper #SAPConsultant #PowerBI #AzureDataEngineer #MicrosoftFabric #DevOps #CloudEngineer #DataScience #ArtificialIntelligence #MachineLearning #Guidewire #SAPFICO #S4HANA #TechJobs #USITRecruitment #ConsultantsAvailable #C2CHiring\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:43.032382",
+        "extracted_emails": [
+            "sandeep.g@koyaconsult.com"
+        ]
+    },
+    {
+        "id": 101,
+        "author": "Vamsi A",
+        "url": "https://www.linkedin.com/posts/vamsia9324_this-is-not-for-benchsales-this-is-not-share-7483506197560459264-hYpr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "This is not for benchsales\u00a0\ud83d\udeab\nThis is Not a Hiring Post \nAs a Senior AI/ML Engineer, I focus on designing and deploying scalable AI applications that leverage:\n\n\u2705 Generative AI \n\u2705 Large Language Models (LLMs) \n\u2705 Retrieval-Augmented Generation (RAG) \n\u2705 Natural Language Processing (NLP) \n\u2705 Deep Learning \n\u2705 TensorFlow & PyTorch \n\u2705 AWS & Azure Cloud \n\u2705 MLOps & Model Deployment \n\nI take pride in developing production-ready machine learning pipelines and building enterprise-grade GenAI applications, transforming complex problems into impactful AI-driven solutions. \n\nI am open to connecting with AI professionals, engineering leaders, and innovators who are working on cutting-edge technologies. \n\nReach me at: a.vamsi672@gmail.com\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:45.593215",
+        "extracted_emails": [
+            "a.vamsi672@gmail.com"
+        ]
+    },
+    {
+        "id": 102,
+        "author": "KUMAR MAK, open to work",
+        "url": "https://www.linkedin.com/posts/kumar-mak-5a7132b_hotlist-marketing-list-hi-friends-share-7483505703832432640-zULs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "HOTLIST/ MARKETING LIST: \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\nHi Friends \nGood Morning\u2026.\n\u00a0\nBelow is our MARKETING LIST\u2026.all are 100% genuine, experienced H1B/ GC/ GC EAD consultants\u2026\n\u00a0\nWe have consultants on\u2026..INFORMATICA DEV (NJ, H1B, 14+)/ JAVA ARCH_MANAGER (14+, NJ, H1B)/ DOT NET ARCH AI ENG (TX, H1B, 15+)/ JAVA ANGULAR (H1B, TX)/ DATA SOLUTION ARCH (CERTIFIED SNOWFLAKES, MS FABRIC, H1B, IL)/ BA (HEALTHCARE, GC, NJ)/TECH PMP_PSM1_PM (TN, GC)/ DATA ANALYST (VA, H4 EAD)/ EMBEDDED SYS ENG (TX, H1B)/ BSA (TX, H1B, 14+)/ DOT NET (11+, GC, TX)/ AZURE DATAENG (15+,TX, H1B)/ MAINFRAME QA/ WINDOWS SYS ADMIN/ INFRA PM/ MAINFRAME HOGAN DEV/ TOSCA TESTER/ AI QA MANAGER(MA, USC)/ TIBCO ARCH (TX, H1B)/ QA (15+, USC, TX)/ SCRUM (21+, H4 EAD, NC)/ ETL DATA ARCH (GC, TX), ADAS LEAD, SCRUM MASTER (USC), / SNOWFLAKES GEN AI ARCH (GC)/ SQL BI DEV/ Data Scientist (AI/ ML)\u00b7 Data Analyst \u00b7 Machine Learning Engineer/ PERFORMANCE QA/\u00a0PMP PROJ MANAGER/ MAINFRAME LEAD (GC)/ SAP SECURITY GRC (USC)/ SERVICEDELIVERY MANAGER INFRASTRUCTURE (USC)/ DATA LOSS PREVENTION CONS (USC)/ DATASCIENTIST (TX, H1B)/ DATA ANALYST_ETL QA LEAD_PYTHON AUTOMATION TESTER/ CERTIFIED POWER BI SOLUTION ARCH/ SAP MM_SD_PP_WM/ SAP HCM PAYROL/ DOT NET LEAD/ SIEBEL CRM_OBIEE/ DOT NET ARCHITECT/ SDET/ AWS_AZURE DATA ENG/ ORACLE DBA (GC)/ APEX DEV/ IBM OPTIM (GC)/ SAP FICO ARIBA FIELDGLASS TESTER (GC) / TECH PM (GC)/ INFORMATICA IICS DATA ENG / DATASTAGE/ SAS (GC)/ SNOWFLAKES LEAD_ ARCH/ POWER BI/ TABLEAU BI/ CYBER SECURITY/ SALESFORCE DEV/ JAVA FULLSTACK ARCH/ JAVA BACKEND_APPS ARCH/ DEVSECOPS ENG/ \u2026.etc\u2026please let us know if you have any open positions\u2026\u2026\u2026\n\u00a0\nWe do H1B transfers as well\u2026\n\u00a0\nThanks\n\u00a0\nEmployer : kumar@atgcorp.com; (609) 778-4215 ext 1000; resume.dyna@gmail.com; (Bench Sales)\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:48.103383",
+        "extracted_emails": [
+            "kumar@atgcorp.com",
+            "resume.dyna@gmail.com"
+        ]
+    },
+    {
+        "id": 103,
+        "author": "Lokesh Reddy Konreddy",
+        "url": "https://www.linkedin.com/posts/lokeshkonreddy04_opentowork-aiengineer-generativeai-share-7483493179942649856-jwp9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\ude80 Open to Work | Senior AI/ML & Generative AI Engineer\nI am actively exploring opportunities as a Senior AI/ML Engineer, Generative AI Engineer, LLM Engineer, or Agentic AI Engineer.\nI bring 9+ years of experience designing and deploying production AI solutions across Capital Markets, Pharma, Healthcare, Insurance, and Banking.\nIn my current project, I am building an enterprise research copilot using:\n    LangGraph multi-agent orchestration\n    Model Context Protocol (MCP) servers and clients\n    Hybrid RAG with BM25 and vector search\n    Claude, Llama, Mistral, and fine-tuned models\n    AWS Bedrock, SageMaker, EKS, OpenSearch, and FastAPI\n    Ragas, DeepEval, guardrails, auditability, and LLM observability\nI also have strong experience with Azure OpenAI, Azure ML, Databricks, traditional machine learning, NLP, MLOps, and cloud-native deployments.\nI am open to contract opportunities across the United States and can relocate as required.\n\ud83d\udce7 lokesh.konreddy95@gmail.com\n\ud83d\udcde (269) 359-7929\n#OpenToWork #AIEngineer #GenerativeAI #MachineLearning #AgenticAI #LLM #RAG #LangGraph #MCP #AWS\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:50.594558",
+        "extracted_emails": [
+            "lokesh.konreddy95@gmail.com"
+        ]
+    },
+    {
+        "id": 106,
+        "author": "Raju Ps\u2019 profile",
+        "url": "https://www.linkedin.com/posts/raju-ps-176686340_candidatessearching-recruiters-hotlist-share-7483505781653557248-cb0S/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello Connections,\n\nWe have highly skilled consultants available on our bench and immediately open for C2C opportunities in the following technologies:\n\n\ud83d\udd39 Cloud Technologies: AWS | Azure | GCP\n\ud83d\udd39 Data Engineering: Snowflake | Spark | Hadoop | ETL\n\ud83d\udd39 Development: Python | Java Full Stack | React | Angular\n\ud83d\udd39 DevOps & SRE: Kubernetes | Terraform | DevOps | Site Reliability Engineering\n\ud83d\udd39 Microsoft Technologies: .NET Core | MVC | Full Stack Developers\n\ud83d\udd39 AI/ML Technologies: AI/ML | Gen-AI | ML Engineer\n\ud83d\udd39 Networking & Security: Network Engineer | AI Automation | Cloud Network | Security Engineer\n\ud83d\udd39 ServiceNow: Administrator (ITSM) | Process Consultant | Integration Engineer (AI/DevOps)\n\n\ud83d\udce9 Please share your client requirements at: satya@fusiongridtek.com\n\ud83d\udcde Desk: 302-660-0847 Ext: 221\n\nLooking forward to building long-term business relationships and successful collaborations.\n\nThanks & Regards,\nRaju Ps\nBench Sales Recruiter\nFusion Grid Technologies Inc\n\n#candidatessearching #recruiters #hotlist #c2crequirements #availableconsultants #vendorlist\n#requirements #vendorempanelment #h1bvisa #jobsearch #opt #gc #subcontractors #benchsales #daily #matching #hiring #systemintegrators #marketing #jobseeking #benchmarking #vendor #recruiterjobs #LinkedIn #Resumesearch #Passivesearch #Recruitment #global #Unitedstates #usa #notes #search #resumes #requirement #vms #database #hotlist #bdm #usstaffing #benchsales #itstaffing #vendors #itrecruiter #usrecruitment #c2c #freshers #contact #resources #talentacquisition #email #recruitment #details #shares #vendors #cpt #c2c #staff #itbenchmarking #vendormanagement #updating #candidate #recruiting #itrecruiters #itstaffing #corp2corp #conractual #java #developer #fullstack #automation #hiring #backend #react #node #selenium #ux #desingthinking #mobile #hiring #staffingsolutions #staffingagency #linkedin #linkedinfamily #linkedinconnections #linkedinrecruiter #linkedinrecruitment #linkedinrecruiters #c2c #c2crequirements #c2cvendors #c2cjobs #c2cvendor #c2cvendors #c2cusajobs #c2chiring #c2cpositions #c2cavailable #c2croles #c2cvendorlist #c2crequirement #recruiters #leadrecruiter #talentacquisition #accountmanager #client #clientmanager #seniorrecruiter #stateclients #primevendors #primevendor #whitevendors #whitevendor #desivendors #implementation #java #projectmanager #projectmanagerjobs #projectmangerremote #sql #dotnet #scrummaster #productowner #productowneriot #productownerjobs #agile #agilecoach #remotejobs #remoteopportunity #onsite #hybrid #hybridjob #uxdesigner #uiuxdesigner #jobs #talent #like #freelancers #dataengineer #azuredataengineer #awsdataengineer #cloud\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:02:59.519270",
+        "extracted_emails": [
+            "satya@fusiongridtek.com"
+        ]
+    },
+    {
+        "id": 111,
+        "author": "SRILAKSHMI BUTTI, open to work",
+        "url": "https://www.linkedin.com/posts/srilakshmi-butti-1b245335b_qa-profiles-hotlistdocx-ugcPost-7483505943024914432-Vz7I/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#C2C\nHello Recruiters,\nPlease find available IT Resources with all visa types on technologies below, I would appreciate it if you could add me to your distribution list for further business on contract roles such as C2C with your clients. Please let me know\nand add my mail to your distribution List\nMail: andy@koyaconsult.com\nDial: 346-770-1318 EXT-215\n\n#hotlist#email#consultants#share#java#javadeveloper#recruiter#jobs#support#data#java#developer#etl#teradata#analyst#sapfiori#sap#trending#dailypost#updates#jobupdates#jobalert#engineer#qa#devops#salesforce#datascientist#interview#android#IOS#AI#ML#genai#MLOps#SRE#marketing#technology#team#business#bigdata#project#training#automation#automation#scrum#android#hadoop#python#machinelearning#sql#work#consultants#email#help#recruiters#hiring#jobs#resume#email#vendorlists#vendors#distributions#corp2corp#recruiting#hotlist#benchsales\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:12.871565",
+        "extracted_emails": [
+            "andy@koyaconsult.com"
+        ]
+    },
+    {
+        "id": 112,
+        "author": "Jaya Venkatesh, open to work",
+        "url": "https://www.linkedin.com/posts/jaya-venkatesh-mathukumilli_notahiringpost-corptocorp-w2jobs-share-7482265418565554177-CucO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 #NotAHiringPost\nGood Morning LinkedIn! \u2600\ufe0f\nAs enterprise adoption of Generative AI accelerates, organizations are increasingly prioritizing governance, security, observability, reliability, and compliance alongside model performance. Building trustworthy AI systems is becoming a strategic engineering priority.\n\ud83d\ude80 Open to Opportunities | Senior Generative AI Engineer | AI/ML Engineer | Data Scientist\nI bring 10+ years of experience delivering production AI solutions across Healthcare, Financial Services, Government, and Telecom domains.\nMy expertise includes:\n\ud83d\udd39 Generative AI & Enterprise AI Platforms\n\ud83d\udd39 AI Governance & Responsible AI\n\ud83d\udd39 RAG & Agentic AI\n\ud83d\udd39 MLOps & LLMOps\n\ud83d\udd39 Monitoring, Evaluation & Observability\n\ud83d\udd39 Azure OpenAI & AWS Bedrock\n\ud83d\udd39 Python, Databricks & Data Engineering\n\ud83d\udd39 Secure AI Deployment & Compliance\nI enjoy helping organizations deploy AI responsibly while maintaining scalability, security, and business value.\nCurrently open to opportunities across the United States.\n\ud83d\udce9 mathukumilli.jv@gmail.com\n\ud83d\udcde 561-330-5662\n#CorpToCorp #W2Jobs #ContractToHire #TechnicalContractor #StaffAugmentation #C2C #W2 #1099 #C2H #ContractRoles #IndependentContractor #Hiring #OpenToWork #JobSearch #AIJobs #TechNetworking #GenerativeAICommunity #MLOps #LLMOps #Python #PyTorch #Kubernetes #AzureAI #Terraform #SRE #BigData #RAG #LangChain #LangGraph #AgenticAI #NLP #VectorDatabases #PromptEngineering #ComputerScience #GenerativeAI #MachineLearningEngineer #GenAIEngineer #DataScientist #AIMLEngineer #DataScience #ArtificialIntelligence #FinTech #InsurTech\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:15.391046",
+        "extracted_emails": [
+            "mathukumilli.jv@gmail.com"
+        ]
+    },
+    {
+        "id": 114,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:44194-7483505402370789376/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udd25 HOTLIST - Available IT Consultants\ud83d\udd25 \n\n\ud83d\ude80 Looking for skilled IT professionals? Check out our latest hotlist!\n\n\u2705 Data Engineer\n\u2705 Dot Net Developer\u00a0\n\u2705 Java Developer\u00a0\n\u2705 Software Developer\n\u2705 DevOps Engineer\n\u2705 Python Developer\u00a0\n\u2705Java Full Stack Developer\n\u2705 DevOps Engineer\n\u2705DevSecops Engineer\n\u2705SRE\n\u2705NET Developer\n\u2705Data Engineer\n\u2705Python Full Stack Developer\n\u2705AI & ML Engineer\n\u2705Data Scientist\n\u2705 Sr Java Developer\n\n\n\u00a0Kumar\n\ud83d\udce9 Interested? Let's connect!\n\ud83d\udcde Call: 856-785-4937\n\ud83d\udce7 Email: Kumar@dataforgetek.com\n\n\nPlease feel free to reach out to me\n\nNote: Please don't respond to Bench Sales recruiter's.\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:20.385729",
+        "extracted_emails": [
+            "Kumar@dataforgetek.com"
+        ]
+    },
+    {
+        "id": 115,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10322734-7483505412038643712/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 Who is Hiring This Week? \ud83d\udc40\nHappy Wednesday, LinkedIn Network!\nI'm curious...\nWhat IT positions are you actively hiring for this week?\nDrop your open roles in the comments\ud83d\udc47\n\ud83d\udccc Java Developers\n \ud83d\udccc Java Full Stack Developers\n \ud83d\udccc Data Engineers\n \ud83d\udccc AI/ML Engineers\n \ud83d\udccc DevOps / SRE Engineers\n \ud83d\udccc Project Managers\n \ud83d\udccc Business Analysts\n \ud83d\udccc Scrum Masters\n \ud83d\udccc Cloud Engineers\n \ud83d\udccc QA Automation Engineers\nI currently work with experienced C2C consultants who are available immediately for Hybrid & Onsite opportunities across the U.S. If I have someone who matches your requirement, I'll be happy to connect and share profiles.\n\ud83e\udd1d Whether you're a Recruiter, Prime Vendor, MSP, Direct Client, or Hiring Manager, let's help each other fill positions faster.\n\ud83d\udcac Comment below with:\nRole\nLocation\nWork Model (Remote/Hybrid/Onsite)\nContract Duration\nLet's make this thread a resource for everyone in the hiring community.\n\ud83d\udce7 hsuryavanshi@ancileinc.com\n\ud83d\udcde +1 (713) 568-2863\nIf you know someone who's hiring, tag them in the comments or repost this post so we can reach more recruiters and vendor partners.\n#WhoIsHiring #HiringNow #C2C #PrimeVendor #MSP #Recruitment #Staffing #BenchSales #JavaDeveloper #DataEngineer #AIJobs #DevOps #TechRecruitment #HiringCommunity #VendorManagement #USJobs #LinkedInNetworking #OpenRoles\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:22.869685",
+        "extracted_emails": [
+            "hsuryavanshi@ancileinc.com"
+        ]
+    },
+    {
+        "id": 116,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:13724836-7483505432100261888/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello,\nI hope you\u2019re doing well.\nMy name is Deva, and I am a Senior Bench Sales Recruiter at Dataforge Technologies Inc. We currently have a strong pool of experienced consultants on our bench who are immediately available for C2C and C2H opportunities in the following technologies:\n\u2022 .NET Developer\n\u2022 Data Engineer\n\u2022 Python Developer\n\u2022 Java Full Stack Developer\n\u2022 DevOps Engineer\n\u2022 AI/ML Engineer\n\u2022 SAP Consultant\n\u2022 ServiceNow Developer / Administrator\nEach consultant brings solid project experience and technical expertise and is ready to contribute to new assignments right away.\nIf you have any suitable openings, please feel free to share the requirements with me. I would be happy to provide the most relevant profiles.\n\ud83d\udce7 deva@dataforgetek.com\n\ud83d\udcde 267-829-0131\nThank you for your time and consideration. I look forward to working with you.\nBest Regards,\nDeva\nSenior Bench Sales Recruiter\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:25.341029",
+        "extracted_emails": [
+            "deva@dataforgetek.com"
+        ]
+    },
+    {
+        "id": 120,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:2064830-7483504623451041793/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#Databricks #Enterprise #Architect\n#Remote\n#Contract\n\nA life sciences enterprise is investing in a modern Databricks Lakehouse as the foundation\nof its data strategy across research, clinical, and commercial domains. We are seeking a\nstrategy, and lead the platform from design through adoption.\nThis is a senior, strategic role for an architect who can operate at two levels at once:\ndefining the enterprise data vision for executive stakeholders, and making the concrete\nplatform, governance, and pipeline decisions that make that vision real. You will be the\ntechnical authority on the Databricks platform and the person who translates business\nobjectives into a scalable, governed, compliant data architecture.\n\nWhat You Will Own:\n\nDefine and own the enterprise Databricks Lakehouse architecture, including the\nmedallion (bronze, silver, gold) model, workspace topology, and reference patterns used\nacross teams.\n\nEnable Databricks Genie (AI/BI) for self-service, natural-language analytics, and\nestablish the data modeling and metric standards that make Genie trustworthy for\nbusiness users.\nDesign and oversee ingestion and transformation pipelines using #DeltaLake, Delta Live\nTables / #Lakeflow, and Structured Streaming, integrating source systems across the data\nlandscape.Establish data governance, quality, and integrity standards appropriate to a regulated\nlife sciences environment, including data integrity principles (ALCOA+) and controls for\nGxP, 21 CFR Part 11, and HIPAA where applicable.\nDefine the performance, cost governance, and FinOps model for the platform, including\ncluster policies, workload optimization, and consumption controls.\nPartner with data engineering, analytics, and business stakeholders to drive adoption,\nand mentor engineers on Lakehouse and Spark best practices.\nSet the direction for the ML platform (#MLflow, feature engineering, model governance)\nwhere research and advanced analytics use cases require it.\nRequired Qualifications:\n10+ years in data architecture, data engineering, or enterprise data platform roles, with\n3+ years hands-on Databricks at enterprise scale.\nDeep, demonstrable expertise across the Databricks platform: Unity Catalog, Delta\nLake, Spark, medallion architecture, and pipeline orchestration.\nDirect experience enabling Databricks #Genie (AI/BI) or comparable self-service and\nconversational analytics capabilities, including the semantic and data modeling work\nthat supports it.\nand data quality at scale.\nPreferred Qualifications:\nLife sciences or other regulated-industry experience (#pharma, #biotech, #medical device,\nhealthcare).\nWorking knowledge of GxP-validated environments, 21 #CFR Part 11, #HIPAA, and data\nintegrity (ALCOA+) requirements.Familiarity with life sciences data domains such as clinical (EDC, CTMS), laboratory\n(#LIMS), manufacturing, real-world data, or genomics.\nharish@optimussinc.com\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:35.375562",
+        "extracted_emails": [
+            "harish@optimussinc.com"
+        ]
+    },
+    {
+        "id": 121,
+        "author": "Surya Dev .",
+        "url": "https://www.linkedin.com/posts/surya-dev-090719172_hello-i-hope-youre-doing-well-my-name-share-7483505197843992576-cqe1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hello,\nI hope you\u2019re doing well.\nMy name is Deva, and I am a Senior Bench Sales Recruiter at Dataforge Technologies Inc. We currently have a strong pool of experienced consultants on our bench who are immediately available for C2C and C2H opportunities in the following technologies:\n\u2022 .NET Developer\n\u2022 Data Engineer\n\u2022 Python Developer\n\u2022 Java Full Stack Developer\n\u2022 DevOps Engineer\n\u2022 AI/ML Engineer\n\u2022 SAP Consultant\n\u2022 ServiceNow Developer / Administrator\nEach consultant brings solid project experience and technical expertise and is ready to contribute to new assignments right away.\nIf you have any suitable openings, please feel free to share the requirements with me. I would be happy to provide the most relevant profiles.\n\ud83d\udce7 deva@dataforgetek.com\n\ud83d\udcde 267-829-0131\nThank you for your time and consideration. I look forward to working with you.\nBest Regards,\nDeva\nSenior Bench Sales Recruiter\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:37.894106",
+        "extracted_emails": [
+            "deva@dataforgetek.com"
+        ]
+    },
+    {
+        "id": 122,
+        "author": "KUMAR NAIDU",
+        "url": "https://www.linkedin.com/posts/kumar-naidu-59529a278_hotlist-available-it-consultants-share-7483504222827712513-TNpr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udd25 HOTLIST - Available IT Consultants\ud83d\udd25 \n\n\ud83d\ude80 Looking for skilled IT professionals? Check out our latest hotlist!\n\n\u2705 Data Engineer\n\u2705 Dot Net Developer\u00a0\n\u2705 Java Developer\u00a0\n\u2705 Software Developer\n\u2705 DevOps Engineer\n\u2705 Python Developer\u00a0\n\u2705Java Full Stack Developer\n\u2705 DevOps Engineer\n\u2705DevSecops Engineer\n\u2705SRE\n\u2705NET Developer\n\u2705Data Engineer\n\u2705Python Full Stack Developer\n\u2705AI & ML Engineer\n\u2705Data Scientist\n\u2705 Sr Java Developer\n\n\n\u00a0Kumar\n\ud83d\udce9 Interested? Let's connect!\n\ud83d\udcde Call: 856-785-4937\n\ud83d\udce7 Email: Kumar@dataforgetek.com\n\n\nPlease feel free to reach out to me\n\nNote: Please don't respond to Bench Sales recruiter's.\n\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:40.384687",
+        "extracted_emails": [
+            "Kumar@dataforgetek.com"
+        ]
+    },
+    {
+        "id": 123,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:10472901-7483504239802118144/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\u274c Note: Not intended for Bench Sales Recruiters\u274c\n\nI\u2019m reaching out to share a group of highly skilled consultants who are immediately available for C2C and C2H opportunities. If your team is currently hiring, I\u2019d welcome the chance to support your staffing needs.\n\n\ud83d\udd39 Available Consultants:\n\u2705 Sr. Java developer \n\n\u2705 Sr. Frontend developer \n\n\u2705 Sr. Backend developer \n\n\u2705 Sr. Snowflake developer \n\n\u2705 Sr. AI/ML Engineer \n\n\u2705 Sr. ETL developer \n\n\u2705 Sr. Data Engineer \n\n\u2705 Sr. Databricks Engineer \n\n\u2705 Sr. DevOps Engineer \n\n\u2705 Sr. Cloud Engineer \n\n\u2705 Sr. DevsecOps Engineer\n\n\u2705 Sr. Site Reliability Engineer \n\n\u2705 Sr. Python developer \n\n\u2705 Sr .Net developer \n\n\u2705 Sr. Data Scientist\n\nEach candidate brings a solid technical foundation and is ready to make an immediate impact.\nIf there\u2019s a potential fit, please don\u2019t hesitate to get in touch:\n\ud83d\udce7 developertech831@gmail.com\nEmail:nathan@fusiongridtek.com\n\ud83d\udcde 469-466-4932\nLooking forward to the opportunity to collaborate.\nBest regards,\nBhanu\nBench Sales Recruiter\n\n\n#JavaDeveloper | #C2C\n#JavaProgramming | #C2CJobs\n#JavaTech | #ContractToHire\n#JavaEngineer | #C2COpportunities\n#JavaDevelopment | #JavaConsulting\n#C2COpportunities | #JavaContractor\n#JavaJobs | #BackendDevelopment\n#TechHiring | #JavaJobs\n#RemoteJavaJobs | #ITStaffing\n#DataEngineer | #C2C\n#DataScience | #C2CJobs\n#BigData | #ContractToHire\n#DataAnalysis | #DataContractor\n#DataEngineerJobs | #DataScienceJobs\n#DataJobs | #DataDeveloper\n#C2COpportunities | #DataSolutions\n#DataContractor | #AnalyticsJobs\n#DataScienceJobs | #DataConsulting\n#BigDataDeveloper | #BigDataConsulting\n#PythonDeveloper | #C2C\n#PythonProgramming | #C2CJobs\n#PythonJobs | #ContractToHire\n#DataScienceWithPython | #PythonContractor\n#MachineLearning | #C2COpportunities\n#AI | #TechConsulting\n#PythonContractor | #PythonConsulting\n#C2COpportunities | #AIJobs\n#PythonTech | #MachineLearningJobs\n#PythonConsulting | #PythonTech\n#DotNetDeveloper | #C2C\n#DotNetFramework | #C2CJobs\n#CSharpDeveloper | #ContractToHire\n#ASPNetCore | #DotNetConsulting\n#DotNetJobs | #TechContractor\n#C2C | #ASPNetDeveloper\n#C2CJobs | #DotNetConsultant\n#C2COpportunities | #FullStackDeveloper\n#ContractToHire | #RemoteDotNetJobs\n#DotNetConsulting | #DotNetDeveloper\n#DataScientist | #C2C\n#MachineLearning | #C2CJobs\n#ArtificialIntelligence | #ContractToHire\n#DataScienceJobs | #DataScienceConsulting\n#AIJobs | #DataScienceOpportunities\n#DataScienceConsulting | #DataJobs\n#DataScienceOpportunities | #C2C\n#DataJobs | #C2CJobs\n#C2COpportunities | #DataScienceContractor\n#DevOps | #C2C\n#DevOpsEngineer | #C2CJobs\n#DevOpsJobs | #ContractToHire\n#C2COpportunities | #DevOpsConsulting\n#DevOpsConsulting | #DevOpsContractor\n#DevOpsContractor | #TechContracting\n#CloudComputing | #CI/CD\n#CI/CD | #AutomationEngineer\n#DevOpsSolutions | #DevOpsSolutions\n#Kubernetes | #Kubernetes\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:43.408056",
+        "extracted_emails": [
+            "developertech831@gmail.com",
+            "nathan@fusiongridtek.com"
+        ]
+    },
+    {
+        "id": 124,
+        "author": "Harson H.",
+        "url": "https://www.linkedin.com/posts/harson-h-900815244_whoishiring-hiringnow-c2c-share-7483504332663857152-fCKg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "\ud83d\udea8 Who is Hiring This Week? \ud83d\udc40\nHappy Wednesday, LinkedIn Network!\nI'm curious...\nWhat IT positions are you actively hiring for this week?\nDrop your open roles in the comments\ud83d\udc47\n\ud83d\udccc Java Developers\n \ud83d\udccc Java Full Stack Developers\n \ud83d\udccc Data Engineers\n \ud83d\udccc AI/ML Engineers\n \ud83d\udccc DevOps / SRE Engineers\n \ud83d\udccc Project Managers\n \ud83d\udccc Business Analysts\n \ud83d\udccc Scrum Masters\n \ud83d\udccc Cloud Engineers\n \ud83d\udccc QA Automation Engineers\nI currently work with experienced C2C consultants who are available immediately for Hybrid & Onsite opportunities across the U.S. If I have someone who matches your requirement, I'll be happy to connect and share profiles.\n\ud83e\udd1d Whether you're a Recruiter, Prime Vendor, MSP, Direct Client, or Hiring Manager, let's help each other fill positions faster.\n\ud83d\udcac Comment below with:\nRole\nLocation\nWork Model (Remote/Hybrid/Onsite)\nContract Duration\nLet's make this thread a resource for everyone in the hiring community.\n\ud83d\udce7 hsuryavanshi@ancileinc.com\n\ud83d\udcde +1 (713) 568-2863\nIf you know someone who's hiring, tag them in the comments or repost this post so we can reach more recruiters and vendor partners.\n\n#WhoIsHiring #HiringNow #C2C #PrimeVendor #MSP #Recruitment #Staffing #BenchSales #JavaDeveloper #DataEngineer #AIJobs #DevOps #TechRecruitment #HiringCommunity #VendorManagement #USJobs #LinkedInNetworking #OpenRoles\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:45.903632",
+        "extracted_emails": [
+            "hsuryavanshi@ancileinc.com"
+        ]
+    },
+    {
+        "id": 126,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/ai-ml-engineer-mumbai-optimumvalue-solutions-share-7483504383188586496-QeRi/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Hiring: AI / ML Engineer (0-1 Years Exp) | Onsite Mumbai\n\nWe are looking for a builder who wants to move past tutorials and deploy real systems. If you are passionate about creating actual impact and eager to implement autonomous AI agents and custom models across industries, this role is for you.\nWe welcome freshers with strong, hands-on project portfolios, and junior engineers with a bit of experience looking to scale up fast.\n\nThe Scope:\nBuild and deploy autonomous AI agents and multi-agent workflows.\nCreate, train, and fine-tune custom machine learning models.\nTurn complex problem statements into functional, scalable AI solutions.\n\nThe Stack & Skills:\nPython, LLMs, LangChain/CrewAI, RAG, and core ML frameworks.\nA proactive mindset with a strong portfolio of academic, personal, or internship projects.\nThis is a full-time, onsite role in Mumbai. If you are ready to build things that think, let's talk.\n\nApply here :- http://nauk.in/cZBqdWt\nOr Send your resume and a link to your GitHub or project portfolio to info@optimumvalue.co or reach out via DM.\n#AIML #AIAgents #MachineLearning #ArtificialIntelligence #Hiring #MumbaiJobs #JobOpening #DataScience #Python #DeepLearning #LLM #GenerativeAI #LangChain #TechHiring #FreshersHiring #MumbaiTech #Engineers #AIJobs #SoftwareEngineering #DataScientist #Recruitment #NowHiring #CareerOpportunity #TechJobs #GraduateJobs #MumbaiCareers #ModelCreation\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:50.982516",
+        "extracted_emails": [
+            "info@optimumvalue.co"
+        ]
+    },
+    {
+        "id": 127,
+        "author": "Harish Seelam",
+        "url": "https://www.linkedin.com/posts/harish-seelam-51318b21_databricks-enterprise-architect-share-7483504416193593345-WE9x/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "#Databricks #Enterprise #Architect\n#Remote\n#Contract\n\nA life sciences enterprise is investing in a modern Databricks Lakehouse as the foundation\nof its data strategy across research, clinical, and commercial domains. We are seeking a\nstrategy, and lead the platform from design through adoption.\nThis is a senior, strategic role for an architect who can operate at two levels at once:\ndefining the enterprise data vision for executive stakeholders, and making the concrete\nplatform, governance, and pipeline decisions that make that vision real. You will be the\ntechnical authority on the Databricks platform and the person who translates business\nobjectives into a scalable, governed, compliant data architecture.\n\nWhat You Will Own:\n\nDefine and own the enterprise Databricks Lakehouse architecture, including the\nmedallion (bronze, silver, gold) model, workspace topology, and reference patterns used\nacross teams.\n\nEnable Databricks Genie (AI/BI) for self-service, natural-language analytics, and\nestablish the data modeling and metric standards that make Genie trustworthy for\nbusiness users.\nDesign and oversee ingestion and transformation pipelines using #DeltaLake, Delta Live\nTables / #Lakeflow, and Structured Streaming, integrating source systems across the data\nlandscape.Establish data governance, quality, and integrity standards appropriate to a regulated\nlife sciences environment, including data integrity principles (ALCOA+) and controls for\nGxP, 21 CFR Part 11, and HIPAA where applicable.\nDefine the performance, cost governance, and FinOps model for the platform, including\ncluster policies, workload optimization, and consumption controls.\nPartner with data engineering, analytics, and business stakeholders to drive adoption,\nand mentor engineers on Lakehouse and Spark best practices.\nSet the direction for the ML platform (#MLflow, feature engineering, model governance)\nwhere research and advanced analytics use cases require it.\nRequired Qualifications:\n10+ years in data architecture, data engineering, or enterprise data platform roles, with\n3+ years hands-on Databricks at enterprise scale.\nDeep, demonstrable expertise across the Databricks platform: Unity Catalog, Delta\nLake, Spark, medallion architecture, and pipeline orchestration.\nDirect experience enabling Databricks #Genie (AI/BI) or comparable self-service and\nconversational analytics capabilities, including the semantic and data modeling work\nthat supports it.\nand data quality at scale.\nPreferred Qualifications:\nLife sciences or other regulated-industry experience (#pharma, #biotech, #medical device,\nhealthcare).\nWorking knowledge of GxP-validated environments, 21 #CFR Part 11, #HIPAA, and data\nintegrity (ALCOA+) requirements.Familiarity with life sciences data domains such as clinical (EDC, CTMS), laboratory\n(#LIMS), manufacturing, real-world data, or genomics.\nharish@optimussinc.com\n\u2026 more",
+        "scraped_at": "2026-07-16T19:03:53.479810",
+        "extracted_emails": [
+            "harish@optimussinc.com"
+        ]
+    }
+]

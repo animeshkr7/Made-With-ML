@@ -1,0 +1,49 @@
+{
+  "company_name": "Colgate-Palmolive",
+  "company_url": "https://www.linkedin.com/company/colgate-palmolive/",
+  "execution_date": "2026-07-22T15:05:45.579957",
+  "1st_degree_count": 1,
+  "1st_degree_referral_drafts": [
+    {
+      "first_name": "Vaibhav",
+      "profile_url": "https://www.linkedin.com/in/vaibhav-channe-8a2a2197",
+      "is_1st_degree": true,
+      "draft_message": "Hi Vaibhav,\n\nI noticed Colgate-Palmolive is hiring for a [Role] and my background matches the requirements. If you are open to it, could you please guide me or refer me for this position? Job ID: N/A\n\nAttached my resume for reference.\n\nBest regards"
+    }
+  ],
+  "new_connection_requests_target": 4,
+  "new_connection_requests_sent": [
+    {
+      "first_name": "Mugdesh",
+      "profile_url": "https://www.linkedin.com/in/mugdesh-hole",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:30:45.974971",
+      "draft_message": "Hi Mugdesh,\n\nThanks for connecting! I noticed Colgate-Palmolive is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Nishant",
+      "profile_url": "https://www.linkedin.com/in/nishant-koradia",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:30:54.371692",
+      "draft_message": "Hi Nishant,\n\nThanks for connecting! I noticed Colgate-Palmolive is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Unmesh",
+      "profile_url": "https://www.linkedin.com/in/unmesh-sawant",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:31:04.099302",
+      "draft_message": "Hi Unmesh,\n\nThanks for connecting! I noticed Colgate-Palmolive is hiring for Role and my background aligns with the requirements. If you are open to it, could you please guide me or refer me for this position? I've attached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Rajiv",
+      "profile_url": "https://www.linkedin.com/in/rajiv-golait",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:31:12.513411",
+      "draft_message": "Hi Rajiv,\n\nThanks for connecting! I noticed Colgate-Palmolive is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nBest regards, [Your Name]"
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+<div class="f625fdf1 _7262e2b3 cfbebd61 _7133aecd _3b919616 a108b332 _58ba5517 _85965a0a _0ac9d863 _5cd6b1ec _0e3bbf35 _9f6fe628 b2440e71 _29a1b1f9 _923efd46 f8df03de _782e790e de47de85 e44ea3a9 bc27b2d3 _372b5ece _662f01e9" componentkey="expandedJAbgn5czecJEVaTj5N-b-5YaqGWeG33OlsCG-UAkjncFeedType_FLAGSHIP_SEARCH" role="listitem">
+ <div class="_428b2f81 _662f01e9" data-display-contents="true">
+  <div class="f625fdf1 _5cd6b1ec _0e3bbf35 _9f6fe628 b2440e71 _29a1b1f9 _923efd46 _662f01e9" componentkey="JAbgn5czecJEVaTj5N-b-5YaqGWeG33OlsCG-UAkjnc">
+   <h2 class="_206505cb _03d0271d _250280be _7971c787 d7e1b2d4 fce709f8 c75f0c38 a516de55 _535d44b1 e3c7b86f">
+    <span class="_0c66bee7 _662f01e9">
+     Feed post
+    </span>
+    <span aria-hidden="true">
+    </span>
+   </h2>
+   <div class="b3a7e3e7 _5cd6b1ec _854ff3e6 _9f6fe628 _22f23dca _29a1b1f9 _923efd46 _662f01e9">
+    <a class="_4f583e35 c0b6650e _740eb2c1 _111a8481 _280278ad _2a846335 _75cf10f5 _518a4c94 _165958aa d94b7346 _724d4bcb fc50f657 fa281b20 b00e5586 _5cd6b1ec" componentkey="e0d4e431-aff8-4f5d-9cb4-bd618df1ce63" href="https://www.linkedin.com/in/arun-nemani/" tabindex="0">
+     <figure class="_726a46d4 de4c15b5 _96b7d468 _796cfa61 _11f03e4a _372b5ece _04a11a7d _4c134db2 _662f01e9" componentkey="e0d4e431-aff8-4f5d-9cb4-bd618df1ce63">
+      <svg aria-hidden="false" aria-label="View Arun Nemani, Ph.D’s profile" class="ec49acff _122bed79 _4c134db2 _04a11a7d _31c2a209" data-token-id="356" fetchpriority="low" id="person-accent-4" preserveaspectratio="xMidYMid slice" role="img" viewbox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+       <g display="var(--svgDisplayLight)">
+        <path d="M0 0h128v128H0z" fill="#e7e2dc">
+        </path>
+        <path d="M88.41 84.67a32 32 0 1 0-48.82 0 66.13 66.13 0 0 1 48.82 0" fill="#788fa5">
+        </path>
+        <path d="M88.41 84.67a32 32 0 0 1-48.82 0A66.79 66.79 0 0 0 0 128h128a66.79 66.79 0 0 0-39.59-43.33" fill="#9db3c8">
+        </path>
+        <path d="M64 96a31.93 31.93 0 0 0 24.41-11.33 66.13 66.13 0 0 0-48.82 0A31.93 31.93 0 0 0 64 96" fill="#56687a">
+        </path>
+       </g>
+       <g display="var(--svgDisplayDark)">
+        <path d="M0 0h128v128H0z" fill="#38434f">
+        </path>
+        <path d="M88.41 84.67a32 32 0 1 0-48.82 0 66.13 66.13 0 0 1 48.82 0" fill="#788fa5">
+        </path>
+        <path d="M88.41 84.67a32 32 0 0 1-48.82 0A66.79 66.79 0 0 0 0 128h128a66.79 66.79 0 0 0-39.59-43.33" fill="#9db3c8">
+        </path>
+        <path d="M64 96a31.93 31.93 0 0 0 24.41-11.33 66.13 66.13 0 0 0-48.82 0A31.93 31.93 0 0 0 64 96" fill="#56687a">
+        </path>
+       </g>
+      </svg>
+      <img alt="View Arun Nemani, Ph.D’s profile" class="ec49acff _122bed79 _4c134db2 _04a11a7d _203cb6e2" data-loaded="true" fetchpriority="low" src="https://media.licdn.com/dms/image/v2/D4E03AQGF2DqYm1b9AQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730815411407?e=1785974400&amp;v=beta&amp;t=B5tAbGOZ4fOCpeXF-l2SXXh-YnV3nJM2_oIFNz47WbY"/>
+     </figure>
+    </a>
+    <div class="_11f03e4a _4f583e35 c0b6650e _039001b4 bf23c8a4 f5089735 e8127091 a8c69f75 b1c4d005 _662f01e9">
+     <div class="f625fdf1 _5cd6b1ec _0e3bbf35 _9f6fe628 b2440e71 _29a1b1f9 _923efd46 _5304cb40 _42ddf9a0 _662f01e9">
+      <div class="f5089735 e8127091 a8c69f75 _9aaa96ad _662f01e9">
+       <div class="e8127091 a8c69f75 b1c4d005 _7d63d365 _5304cb40 _42ddf9a0 _662f01e9">
+        <a class="a8c69f75 b1c4d005 _5304cb40 _42ddf9a0 _2a846335 _75cf10f5 _518a4c94 _165958aa d94b7346 _724d4bcb fc50f657 fa281b20 b00e5586 _5cd6b1ec" componentkey="1eef504b-0543-4012-b1f1-841acbd5bf6f" href="https://www.linkedin.com/in/arun-nemani/" tabindex="0">
+         <div class="_11f03e4a e8127091 _662f01e9" componentkey="1eef504b-0543-4012-b1f1-841acbd5bf6f">
+          <div aria-label="Arun Nemani, Ph.D Premium Profile 3rd+" class="_5cd6b1ec _854ff3e6 _9f6fe628 _2047e9b5 _29a1b1f9 _923efd46 b1c4d005 _5304cb40 _42ddf9a0 _662f01e9">
+           <div class="_11f03e4a e8127091 a8c69f75 b1c4d005 _662f01e9">
+            <div class="_250280be _7971c787 d3489b62 cdb37f94 c75f0c38 _5304cb40 _42ddf9a0 a516de55 _535d44b1">
+             <p class="_206505cb _3e7ac687 _77918edb ae97d4fa fe83ab1e _372b5ece _5f70c4b5 a8c69f75 e3c7b86f _8aae51bd" style="--_83704f81: var(--_42dfbf4a); --_6802e92a: var(--_9b6dd30f); --_4f8c7eaf: var(--_9b6dd30f);">
+              <span>
+               Arun Nemani, Ph.D
+              </span>
+             </p>
+            </div>
+           </div>
+           <div class="_250280be _7971c787 d7e1b2d4 cdb37f94 c75f0c38 aafc18e8 _535d44b1">
+            <p class="_206505cb _7eeec116 _77918edb ae97d4fa fe83ab1e _372b5ece _5f70c4b5 a8c69f75 _77240ce7">
+             <span>
+              <span class="a3ae62d2 _662f01e9">
+              </span>
+              <span aria-hidden="true" class="f13d899f f2899cf5 _662f01e9">
+               <svg aria-hidden="true" class="d347fc07 f2899cf5 _323b4d92" data-supported-dps="16x16" data-token-id="459" fill="currentColor" height="16" id="linkedin-bug-small" style="width: 16px; min-width: 16px; height: 16px; min-height: 16px;" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+                <path d="M15 2v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1M5 6H3v7h2zm.25-2A1.25 1.25 0 1 0 4 5.25 1.25 1.25 0 0 0 5.25 4M13 9.29c0-2.2-.73-3.49-2.86-3.49A2.71 2.71 0 0 0 7.89 7V6H6v7h2V9.73a1.73 1.73 0 0 1 1.54-1.92h.12C10.82 7.8 11 8.94 11 9.73V13h2z">
+                </path>
+               </svg>
+              </span>
+              <span class="a3ae62d2 _662f01e9">
+              </span>
+              • 3rd+
+             </span>
+            </p>
+           </div>
+          </div>
+         </div>
+        </a>
+       </div>
+      </div>
+      <div class="_250280be _7971c787 d7e1b2d4 cdb37f94 c75f0c38 aafc18e8 _535d44b1">
+       <p class="_206505cb _7eeec116 _77918edb ae97d4fa fe83ab1e _372b5ece _5f70c4b5 a8c69f75 _77240ce7">
+        <span>
+         Senior Director of AI Engineering
+        </span>
+       </p>
+      </div>
+      <div class="f5089735 e8127091 a8c69f75 b1c4d005 b869117f _662f01e9">
+       <div class="e8127091 a8c69f75 b1c4d005 _7d63d365 _5304cb40 _42ddf9a0 _662f01e9">
+       </div>
+      </div>
+      <div class="_250280be _7971c787 d7e1b2d4 cdb37f94 c75f0c38 aafc18e8 _535d44b1">
+       <p class="_206505cb _7eeec116 bfe97f27 ae97d4fa fe83ab1e _372b5ece _5f70c4b5 a8c69f75 _77240ce7" componentkey="c97cd108-0988-4548-8ddd-d84457074e07">
+        <span>
+         1m • Edited •
+         <span class="a3ae62d2 _662f01e9">
+         </span>
+         <svg aria-hidden="false" aria-label="Visibility: Global" class="_8ef64d0e f2899cf5 _9aea395c" data-supported-dps="16x16" data-token-id="182" fill="currentColor" height="16" id="globe-americas-small" role="img" style="width: 16px; min-width: 16px; height: 16px; min-height: 16px;" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+          <path d="M8 1a7 7 0 1 0 7 7 7 7 0 0 0-7-7M3 8a5 5 0 0 1 1-3l.55.55A1.5 1.5 0 0 1 5 6.62v1.07a.75.75 0 0 0 .22.53l.56.56a.75.75 0 0 0 .53.22H7v.69a.75.75 0 0 0 .22.53l.56.56a.75.75 0 0 1 .22.53V13a5 5 0 0 1-5-5m6.24 4.83 2-2.46a.75.75 0 0 0 .09-.8l-.58-1.16A.76.76 0 0 0 10 8H7v-.19a.51.51 0 0 1 .28-.45l.38-.19a.74.74 0 0 1 .68 0L9 7.5l.38-.7a1 1 0 0 0 .12-.48v-.85a.78.78 0 0 1 .21-.53l1.07-1.09a5 5 0 0 1-1.54 9z">
+          </path>
+         </svg>
+        </span>
+       </p>
+      </div>
+      <a class="a8c69f75 _9aaa96ad _2a846335 _75cf10f5 _518a4c94 _165958aa d94b7346 _724d4bcb fc50f657 fa281b20 b00e5586 _5cd6b1ec" componentkey="eb80e89f-41e9-4b38-b719-c1dafaf48e87" href="https://www.linkedin.com/in/arun-nemani/" tabindex="0">
+       <div class="_11f03e4a e8127091 _65b25bc6 _662f01e9" componentkey="eb80e89f-41e9-4b38-b719-c1dafaf48e87">
+       </div>
+      </a>
+     </div>
+    </div>
+    <div class="_428b2f81 _662f01e9" data-display-contents="true">
+     <div class="e8127091 a8c69f75 b1c4d005 _662f01e9" componentkey="bf902a07-115c-46aa-81ea-ea8ded11fae6">
+      <div class="_428b2f81 _662f01e9" data-display-contents="true">
+       <button aria-label="Follow Arun Nemani, Ph.D" class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d ab8dd90b _9a0be13d _38a69e4f _41f967a5 _2047e9b5 f5089735" componentkey="FollowButtonurn:li:fsd_followingState:urn:li:member:47330754_follow" type="button">
+        <span class="a78edf32 fd0e1f92 _11f03e4a _2047e9b5 fc50f657 e65fcdee _41f967a5 _00654d7a _7fa58437 cdb37f94 fb447a0d b7bca0ca _6013dc43 da308438 _7774b02b e6b1e513 _610afb1c cd3f9ad2 _3740675b">
+         <svg aria-hidden="true" class="d34a851d _44926d75 ad0c2d42 f5ddbe4f c5dfaad7 _71c72188" data-supported-dps="16x16" data-token-id="86" fill="currentColor" height="16" id="add-small" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+          <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z">
+          </path>
+         </svg>
+         <div class="d3489b62 fa281b20 _535d44b1">
+          <span class="_206505cb _74635581 e3e21442 _206b6967 b6542a4e _12bdbdcd _147ad06f _03d0271d fe1dfcee _2f1f0c21 fac0ba2c _77918edb ae97d4fa fe83ab1e _372b5ece _5f70c4b5 a8c69f75 _26b16aea">
+           <span>
+            Follow
+           </span>
+          </span>
+         </div>
+        </span>
+       </button>
+      </div>
+     </div>
+    </div>
+    <button aria-expanded="false" aria-label="Open control menu for post by Arun Nemani, Ph.D" class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d d706618a _9a0be13d _38a69e4f _41f967a5 _2047e9b5 f5089735 ba1d7848 _039001b4 bf23c8a4 b8c688ec bb26a06f _280278ad" componentkey="151cb7c5-605f-456c-ae76-4ae53b1c0405" type="button">
+     <span class="a78edf32 fd0e1f92 _11f03e4a _2047e9b5 fc50f657 e65fcdee _41f967a5 _00654d7a _7fa58437 cdb37f94 fb447a0d b7bca0ca _6013dc43 da308438 _1fd04313 _7f8ee7ef e6b1e513 _610afb1c cd3f9ad2 f8f7fe73 b7d9e77c">
+      <svg aria-hidden="true" class="d34a851d _44926d75 ad0c2d42 f5ddbe4f c5dfaad7 _71c72188" data-supported-dps="16x16" data-token-id="383" fill="currentColor" height="16" id="overflow-web-ios-small" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M3 9.5A1.5 1.5 0 1 1 4.5 8 1.5 1.5 0 0 1 3 9.5M11.5 8A1.5 1.5 0 1 0 13 6.5 1.5 1.5 0 0 0 11.5 8m-5 0A1.5 1.5 0 1 0 8 6.5 1.5 1.5 0 0 0 6.5 8">
+       </path>
+      </svg>
+     </span>
+    </button>
+   </div>
+   <p class="_206505cb _03d0271d _775aed09 _2b19f98b b3a7e3e7 dcc98d83 _250280be _7971c787 d7e1b2d4 cdb37f94 c75f0c38 a516de55 _535d44b1 _77240ce7" componentkey="2ecf9dd0-99d0-455f-a14b-58f8983b41ff">
+    <span class="_0930cb58 ae97d4fa fe83ab1e _372b5ece _5f70c4b5 a8c69f75 _44926d75 f5089735 _662f01e9" data-testid="expandable-text-box" tabindex="-1">
+     We're building the compute layer that AI and ML workflows run on, and we're hiring!
+     <br/>
+     <br/>
+     <br/>
+     At Danaher, my team is standing up the ML and agentic infrastructure that powers real ML breakthroughs: molecular design, diagnostics and imaging, supply chain, and other business AI applications that help move a $30B+ life sciences company.
+     <br/>
+     <br/>
+     I'm hiring two Staff-level engineers to own the foundation:
+     <br/>
+     Staff MLOps Engineer — you'll build the self-serve ML and agentic workflows scientists and developers actually want to use: model deployment, GPU orchestration, evaluation, and observability across a growing set of AI domains.
+     <br/>
+     <a class="fa281b20 _1070cc76" href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FedTs7z4e&amp;urlhash=mYO8&amp;mt=mkuHozNRUA2j-ITyr9Iu6gRBiQ5A311EDJC0LShqV3LHqE7UtMGBJZWltOT4GiCXGNF-I6LG2Ei7fyLQQFx_YJXr50PXeNgmAZbvasvaeNXNwUstH4WxVOLu-Q&amp;isSdui=true" tabindex="-1" target="_blank">
+      <span class="_28660c6c _662f01e9">
+       <strong>
+        https://lnkd.in/edTs7z4e
+       </strong>
+      </span>
+     </a>
+     <br/>
+     <br/>
+     Staff Cloud Platform Engineer — you'll own the cloud and data platform underneath it all: IaC, CI/CD, security, and the reliability that lets teams move fast without breaking things that matter.
+     <br/>
+     If you've built platforms that other engineers and scientists depend on, let's talk.
+     <br/>
+     <a class="fa281b20 _1070cc76" href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FeFT6PHrN&amp;urlhash=JZrs&amp;mt=hz_A7GjXa1z0etT-ud_dYM39bcFrTgAClli4N2tKp_RXvOEM8VrNW15jzsQmr2-KL0aO5YtnuAi4QVit-qoBsLvVBHiGJ0qYHZtPIASMbqwijP5zjgeQhnlOWA&amp;isSdui=true" tabindex="-1" target="_blank">
+      <span class="_28660c6c _662f01e9">
+       <strong>
+        https://lnkd.in/eFT6PHrN
+       </strong>
+      </span>
+     </a>
+     <br/>
+     <br/>
+     <a class="fa281b20 _1070cc76" href="https://www.linkedin.com/search/results/all/?keywords=%23mlops&amp;origin=HASH_TAG_FROM_FEED" tabindex="-1">
+      <span class="_28660c6c _662f01e9">
+       <strong>
+        #MLOps
+       </strong>
+      </span>
+     </a>
+     <span class="a3ae62d2 _662f01e9">
+     </span>
+     <a class="fa281b20 _1070cc76" href="https://www.linkedin.com/search/results/all/?keywords=%23platformengineering&amp;origin=HASH_TAG_FROM_FEED" tabindex="-1">
+      <span class="_28660c6c _662f01e9">
+       <strong>
+        #PlatformEngineering
+       </strong>
+      </span>
+     </a>
+     <span class="a3ae62d2 _662f01e9">
+     </span>
+     <a class="fa281b20 _1070cc76" href="https://www.linkedin.com/search/results/all/?keywords=%23hiring&amp;origin=HASH_TAG_FROM_FEED" tabindex="-1">
+      <span class="_28660c6c _662f01e9">
+       <strong>
+        #Hiring
+       </strong>
+      </span>
+     </a>
+     <span class="a3ae62d2 _662f01e9">
+     </span>
+     <a class="fa281b20 _1070cc76" href="https://www.linkedin.com/search/results/all/?keywords=%23aiinfrastructure&amp;origin=HASH_TAG_FROM_FEED" tabindex="-1">
+      <span class="_28660c6c _662f01e9">
+       <strong>
+        #AIInfrastructure
+       </strong>
+      </span>
+     </a>
+     <span class="a3ae62d2 _662f01e9">
+     </span>
+     <a class="fa281b20 _1070cc76" href="https://www.linkedin.com/search/results/all/?keywords=%23drugdiscovery&amp;origin=HASH_TAG_FROM_FEED" tabindex="-1">
+      <span class="_28660c6c _662f01e9">
+       <strong>
+        #DrugDiscovery
+       </strong>
+      </span>
+     </a>
+     <br/>
+     <a class="fa281b20 _1070cc76" href="https://www.linkedin.com/search/results/all/?keywords=%23danaher&amp;origin=HASH_TAG_FROM_FEED" tabindex="-1">
+      <span class="_28660c6c _662f01e9">
+       <strong>
+        #danaher
+       </strong>
+      </span>
+     </a>
+     <button aria-hidden="true" class="_19d4939a _882569bc _2f77c4c0 a4a024c0 _6df80276 a8a4e5aa _49d1b439 c65a1d59 f7998e26 _782e790e fc50f657 aafc18e8 _66952d32 f1b1d4e8 f9ec6738" data-testid="expandable-text-button" style="--_92492bc2: var(--_00ac348e); inset-inline-start: 0px; pointer-events: none;" type="button">
+      <span style="pointer-events: auto;">
+       <span>
+        <span class="a516de55">
+         …
+        </span>
+        <span>
+         more
+        </span>
+       </span>
+      </span>
+     </button>
+    </span>
+   </p>
+   <a class="_08ce16be _60379d67 _2a846335 _75cf10f5 _518a4c94 _165958aa d94b7346 _724d4bcb fc50f657 fa281b20 b00e5586 _5cd6b1ec" componentkey="eeb8d860-886a-4c43-aa99-26ed8ee0a57c" href="https://www.linkedin.com/jobs/view/4438432100/?trackingId=dKQ3sGfYSAio%2F8tLcpnmmQ%3D%3D&amp;isJobSearch=false" tabindex="0">
+    <div class="f625fdf1 _7262e2b3 cfbebd61 _7133aecd _3b919616 a108b332 _58ba5517 _85965a0a _0ac9d863 _11f03e4a e24eaa29 dbc956b0 b3a7e3e7 dcc98d83 _5cd6b1ec _0e3bbf35 _9f6fe628 b2440e71 _29a1b1f9 f1adebba de47de85 e44ea3a9 bc27b2d3 _372b5ece _662f01e9" componentkey="eeb8d860-886a-4c43-aa99-26ed8ee0a57c">
+     <div class="_5cd6b1ec _854ff3e6 _9f6fe628 _22f23dca a9a01548 _93f226f4 _662f01e9">
+      <figure aria-hidden="true" class="_726a46d4 ec66d2fd bc69ac4a _45f78dc4 _372b5ece _111a8481 _740eb2c1 _280278ad _662f01e9">
+       <svg aria-hidden="true" class="ec49acff _122bed79 _4c134db2 _04a11a7d _31c2a209" data-token-id="358" fetchpriority="low" id="company-accent-4" preserveaspectratio="xMidYMid slice" viewbox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+        <g display="var(--svgDisplayLight)">
+         <path d="M0 0h128v128H0z" fill="#e7e2dc">
+         </path>
+         <path d="M48 16h64v112H48z" fill="#9db3c8">
+         </path>
+         <path d="M16 80h32v48H16z" fill="#788fa5">
+         </path>
+         <path d="M48 80h32v48H48z" fill="#56687a">
+         </path>
+        </g>
+        <g display="var(--svgDisplayDark)">
+         <path d="M0 0h128v128H0z" fill="#38434f">
+         </path>
+         <path d="M48 16h64v112H48z" fill="#9db3c8">
+         </path>
+         <path d="M16 80h32v48H16z" fill="#788fa5">
+         </path>
+         <path d="M48 80h32v48H48z" fill="#56687a">
+         </path>
+        </g>
+       </svg>
+       <img alt="" class="ec49acff _122bed79 _4c134db2 _04a11a7d _203cb6e2" data-loaded="true" fetchpriority="low" src="https://media.licdn.com/dms/image/v2/D4E0BAQG6GsNNREVi4w/company-logo_100_100/company-logo_100_100/0/1697022088582/danaher_logo?e=1785974400&amp;v=beta&amp;t=QgP92MGtlrYXqEWtCHPQrbF5mJkWM0eMnaICDmgHtDY"/>
+      </figure>
+      <div class="f625fdf1 _11f03e4a _5cd6b1ec _0e3bbf35 _9f6fe628 b2440e71 _29a1b1f9 _923efd46 _662f01e9">
+       <div class="_5cd6b1ec _854ff3e6 _9f6fe628 _22f23dca _29a1b1f9 _93f226f4 _662f01e9">
+        <div class="f625fdf1 _11f03e4a _5cd6b1ec _0e3bbf35 _9f6fe628 b2440e71 _29a1b1f9 _923efd46 _662f01e9">
+         <div class="f625fdf1 _5cd6b1ec _0e3bbf35 _9f6fe628 b2440e71 _29a1b1f9 _923efd46 _662f01e9">
+          <div class="_428b2f81 _662f01e9" data-display-contents="true">
+           <p class="_206505cb _3e7ac687 _250280be _7971c787 d3489b62 cdb37f94 c75f0c38 a516de55 _535d44b1 e3c7b86f _8aae51bd" style="--_83704f81: var(--_9b6dd30f); --_6802e92a: var(--ca4a22b3); --_4f8c7eaf: var(--_1307399a);">
+            <span class="_0c66bee7 _662f01e9">
+             Staff Engineer - ML Operations - USA Remote (Verified job)
+            </span>
+            <span aria-hidden="true">
+             Staff Engineer - ML Operations - USA Remote
+             <span class="a3ae62d2 _662f01e9">
+             </span>
+             <span aria-hidden="true" class="f13d899f f2899cf5 _662f01e9">
+              <svg aria-hidden="true" class="_8ef64d0e f2899cf5 _323b4d92" data-supported-dps="16x16" data-token-id="304" fill="currentColor" height="16" id="verified-small" style="width: 16px; min-width: 16px; height: 16px; min-height: 16px;" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+               <path d="m8 15-.86-.29C3.24 13.41 1 10.62 1 7V2.49L8 0l7 2.49V7c0 3.62-2.23 6.41-6.13 7.71zM3 3.9V7c0 3.53 2.6 5.09 4.78 5.82l.23.08.23-.08C10.01 12.23 13 10.71 13 7V3.9L8 2.11zM9.43 5 7.01 8.02l-1.1-1.1L4.5 8.34l2.67 2.67 4.83-6H9.43z">
+               </path>
+              </svg>
+             </span>
+            </span>
+           </p>
+          </div>
+          <div class="ff2ecb52 _5cd6b1ec _854ff3e6 _9f6fe628 b2440e71 a9a01548 _923efd46 _662f01e9">
+           <p class="_206505cb _03d0271d _250280be _7971c787 d7e1b2d4 cdb37f94 c75f0c38 a516de55 _535d44b1 _77240ce7">
+            Danaher
+           </p>
+          </div>
+          <p class="_206505cb _03d0271d ff2ecb52 _250280be _7971c787 d7e1b2d4 cdb37f94 c75f0c38 aafc18e8 _535d44b1 _77240ce7">
+           New York, NY (Remote)
+          </p>
+         </div>
+        </div>
+        <div class="_5cd6b1ec _854ff3e6 _9f6fe628 _2047e9b5 _29a1b1f9 f1adebba _662f01e9">
+         <a aria-disabled="false" class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d d706618a _9a0be13d _38a69e4f _41f967a5 _2047e9b5 f5089735" componentkey="47dc34e5-c221-4079-a8c7-ad1594c95ec1" href="https://www.linkedin.com/jobs/view/4438432100/?trackingId=dKQ3sGfYSAio%2F8tLcpnmmQ%3D%3D&amp;isJobSearch=false">
+          <span class="a78edf32 fd0e1f92 _11f03e4a _2047e9b5 fc50f657 e65fcdee _41f967a5 _00654d7a _7fa58437 cdb37f94 fb447a0d b7bca0ca _6013dc43 _7a825936 _7774b02b e6b1e513 _610afb1c cd3f9ad2 _6fc2b62c">
+           <span class="_206505cb _74635581 e3e21442 _206b6967 b6542a4e _12bdbdcd _147ad06f _03d0271d fe1dfcee _2f1f0c21 fac0ba2c d3489b62 fa281b20 _535d44b1 _26b16aea">
+            View job
+           </span>
+          </span>
+         </a>
+        </div>
+       </div>
+       <div class="f625fdf1 _775aed09 _5cd6b1ec _0e3bbf35 _9f6fe628 b2440e71 _29a1b1f9 _00654d7a f8df03de _662f01e9">
+        <div class="_5cd6b1ec _854ff3e6 _9f6fe628 b2440e71 a9a01548 _923efd46 _662f01e9">
+         <div class="_250280be _7971c787 d7e1b2d4 cdb37f94 c75f0c38 aafc18e8 _535d44b1">
+          <p class="_206505cb _7eeec116 bfe97f27 ae97d4fa fe83ab1e _372b5ece _5f70c4b5 a8c69f75 _77240ce7">
+           <span>
+            Vision, 401(k)
+           </span>
+          </p>
+         </div>
+        </div>
+        <div class="ff2ecb52 a7fd3473 _5cd6b1ec _854ff3e6 _9f6fe628 _2047e9b5 _29a1b1f9 _00654d7a _662f01e9">
+         <ul class="_5cd6b1ec _854ff3e6 _45cd4bdf _662f01e9" role="presentation">
+          <li class="ebfbaaf7 _5ca70702 _796cfa61 f5089735 _372b5ece d94b7346 _662f01e9">
+           <figure aria-hidden="true" class="_726a46d4 de4c15b5 _96b7d468 _796cfa61 _372b5ece a961a7fa _45cd4bdf _662f01e9">
+            <svg aria-hidden="true" class="ec49acff _122bed79 _4c134db2 _04a11a7d _31c2a209" data-token-id="356" fetchpriority="low" id="person-accent-4" preserveaspectratio="xMidYMid slice" viewbox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+             <g display="var(--svgDisplayLight)">
+              <path d="M0 0h128v128H0z" fill="#e7e2dc">
+              </path>
+              <path d="M88.41 84.67a32 32 0 1 0-48.82 0 66.13 66.13 0 0 1 48.82 0" fill="#788fa5">
+              </path>
+              <path d="M88.41 84.67a32 32 0 0 1-48.82 0A66.79 66.79 0 0 0 0 128h128a66.79 66.79 0 0 0-39.59-43.33" fill="#9db3c8">
+              </path>
+              <path d="M64 96a31.93 31.93 0 0 0 24.41-11.33 66.13 66.13 0 0 0-48.82 0A31.93 31.93 0 0 0 64 96" fill="#56687a">
+              </path>
+             </g>
+             <g display="var(--svgDisplayDark)">
+              <path d="M0 0h128v128H0z" fill="#38434f">
+              </path>
+              <path d="M88.41 84.67a32 32 0 1 0-48.82 0 66.13 66.13 0 0 1 48.82 0" fill="#788fa5">
+              </path>
+              <path d="M88.41 84.67a32 32 0 0 1-48.82 0A66.79 66.79 0 0 0 0 128h128a66.79 66.79 0 0 0-39.59-43.33" fill="#9db3c8">
+              </path>
+              <path d="M64 96a31.93 31.93 0 0 0 24.41-11.33 66.13 66.13 0 0 0-48.82 0A31.93 31.93 0 0 0 64 96" fill="#56687a">
+              </path>
+             </g>
+            </svg>
+            <img alt="" class="ec49acff _122bed79 _4c134db2 _04a11a7d _203cb6e2" data-loaded="true" fetchpriority="low" src="https://media.licdn.com/dms/image/v2/D5603AQECPlt1awn14Q/profile-displayphoto-scale_100_100/B56Z3ggHwQJ4Ac-/0/1777588011598?e=1785974400&amp;v=beta&amp;t=Cms8I3PbMf-uyI5nBrgqwX-w1a2bQdjfjLRRIAk1Ark"/>
+           </figure>
+          </li>
+          <li class="ebfbaaf7 _5ca70702 _796cfa61 f5089735 _372b5ece _2507fa78 _662f01e9">
+           <figure aria-hidden="true" class="_726a46d4 de4c15b5 _96b7d468 _796cfa61 _372b5ece a961a7fa _45cd4bdf _662f01e9">
+            <svg aria-hidden="true" class="ec49acff _122bed79 _4c134db2 _04a11a7d _31c2a209" data-token-id="356" fetchpriority="low" id="person-accent-4" preserveaspectratio="xMidYMid slice" viewbox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+             <g display="var(--svgDisplayLight)">
+              <path d="M0 0h128v128H0z" fill="#e7e2dc">
+              </path>
+              <path d="M88.41 84.67a32 32 0 1 0-48.82 0 66.13 66.13 0 0 1 48.82 0" fill="#788fa5">
+              </path>
+              <path d="M88.41 84.67a32 32 0 0 1-48.82 0A66.79 66.79 0 0 0 0 128h128a66.79 66.79 0 0 0-39.59-43.33" fill="#9db3c8">
+              </path>
+              <path d="M64 96a31.93 31.93 0 0 0 24.41-11.33 66.13 66.13 0 0 0-48.82 0A31.93 31.93 0 0 0 64 96" fill="#56687a">
+              </path>
+             </g>
+             <g display="var(--svgDisplayDark)">
+              <path d="M0 0h128v128H0z" fill="#38434f">
+              </path>
+              <path d="M88.41 84.67a32 32 0 1 0-48.82 0 66.13 66.13 0 0 1 48.82 0" fill="#788fa5">
+              </path>
+              <path d="M88.41 84.67a32 32 0 0 1-48.82 0A66.79 66.79 0 0 0 0 128h128a66.79 66.79 0 0 0-39.59-43.33" fill="#9db3c8">
+              </path>
+              <path d="M64 96a31.93 31.93 0 0 0 24.41-11.33 66.13 66.13 0 0 0-48.82 0A31.93 31.93 0 0 0 64 96" fill="#56687a">
+              </path>
+             </g>
+            </svg>
+            <img alt="" class="ec49acff _122bed79 _4c134db2 _04a11a7d _203cb6e2" data-loaded="true" fetchpriority="low" src="https://media.licdn.com/dms/image/v2/D5603AQH6j1Rwiv6CkQ/profile-displayphoto-scale_100_100/B56Z79OAuSGcAY-/0/1782364770659?e=1785974400&amp;v=beta&amp;t=sr9_YxbbhPpt_BoY0AB15hBoVtyUqI2nunU4yBkMkc4"/>
+           </figure>
+          </li>
+          <li class="ebfbaaf7 _5ca70702 _796cfa61 f5089735 _372b5ece _2507fa78 _662f01e9">
+           <figure aria-hidden="true" class="_726a46d4 de4c15b5 _96b7d468 _796cfa61 _372b5ece a961a7fa _45cd4bdf _662f01e9">
+            <svg aria-hidden="true" class="ec49acff _122bed79 _4c134db2 _04a11a7d _31c2a209" data-token-id="356" fetchpriority="low" id="person-accent-4" preserveaspectratio="xMidYMid slice" viewbox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+             <g display="var(--svgDisplayLight)">
+              <path d="M0 0h128v128H0z" fill="#e7e2dc">
+              </path>
+              <path d="M88.41 84.67a32 32 0 1 0-48.82 0 66.13 66.13 0 0 1 48.82 0" fill="#788fa5">
+              </path>
+              <path d="M88.41 84.67a32 32 0 0 1-48.82 0A66.79 66.79 0 0 0 0 128h128a66.79 66.79 0 0 0-39.59-43.33" fill="#9db3c8">
+              </path>
+              <path d="M64 96a31.93 31.93 0 0 0 24.41-11.33 66.13 66.13 0 0 0-48.82 0A31.93 31.93 0 0 0 64 96" fill="#56687a">
+              </path>
+             </g>
+             <g display="var(--svgDisplayDark)">
+              <path d="M0 0h128v128H0z" fill="#38434f">
+              </path>
+              <path d="M88.41 84.67a32 32 0 1 0-48.82 0 66.13 66.13 0 0 1 48.82 0" fill="#788fa5">
+              </path>
+              <path d="M88.41 84.67a32 32 0 0 1-48.82 0A66.79 66.79 0 0 0 0 128h128a66.79 66.79 0 0 0-39.59-43.33" fill="#9db3c8">
+              </path>
+              <path d="M64 96a31.93 31.93 0 0 0 24.41-11.33 66.13 66.13 0 0 0-48.82 0A31.93 31.93 0 0 0 64 96" fill="#56687a">
+              </path>
+             </g>
+            </svg>
+            <img alt="" class="ec49acff _122bed79 _4c134db2 _04a11a7d _203cb6e2" data-loaded="true" fetchpriority="low" src="https://media.licdn.com/dms/image/v2/D5603AQHBaA-PEvQDkg/profile-displayphoto-shrink_100_100/B56ZQ1me0MGsAc-/0/1736066069176?e=1785974400&amp;v=beta&amp;t=aT1Mhpd3JZI-uncUQqRb3MVPPaebRhURYmXGgPJYcVg"/>
+           </figure>
+          </li>
+         </ul>
+         <div class="_11f03e4a _250280be _7971c787 d7e1b2d4 cdb37f94 c75f0c38 aafc18e8 _535d44b1">
+          <p class="_206505cb _7eeec116 bfe97f27 ae97d4fa fe83ab1e _372b5ece _5f70c4b5 a8c69f75 _77240ce7">
+           <span>
+            3 connections work here
+           </span>
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </a>
+   <div class="b3a7e3e7 dcc98d83 _5cd6b1ec _854ff3e6 _9f6fe628 _2047e9b5 _29a1b1f9 c12cd726 f8df03de _662f01e9" style="min-height: 4.2rem;">
+    <div class="a3b3fbf2 _914ade78 b1c4d005 _41f967a5">
+     <div category="unstyled" class="_41c550c2 _20c80a7e _11f03e4a b2440e71 _5cd6b1ec" triggers="">
+      <div class="c5feacc0 fe8ef0b8 _5cd6b1ec">
+       <button aria-label="Reaction button state: no reaction" class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d d706618a _9a0be13d _38a69e4f _41f967a5 _2047e9b5 f5089735" componentkey="5b8b1452-8cd5-42f6-950e-09e71429130b" type="button">
+        <span class="a78edf32 fd0e1f92 _11f03e4a _2047e9b5 fc50f657 e65fcdee _41f967a5 _00654d7a _7fa58437 cdb37f94 fb447a0d b7bca0ca _6013dc43 da308438 _1fd04313 e6b1e513 _610afb1c cd3f9ad2 f8f7fe73">
+         <svg aria-hidden="true" class="d34a851d _44926d75 ad0c2d42 f5ddbe4f c5dfaad7 _71c72188" data-supported-dps="16x16" data-token-id="289" fill="currentColor" height="16" id="thumbs-up-outline-small" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+          <path d="m12.91 7-2.25-2.57a8.2 8.2 0 0 1-1.5-2.55L9 1.37A2.08 2.08 0 0 0 7 0a2.08 2.08 0 0 0-2.06 2.08v1.17a5.8 5.8 0 0 0 .31 1.89l.28.86H2.38A1.47 1.47 0 0 0 1 7.47a1.45 1.45 0 0 0 .64 1.21 1.48 1.48 0 0 0-.37 2.06 1.54 1.54 0 0 0 .62.51h.05a1.6 1.6 0 0 0-.19.71A1.47 1.47 0 0 0 3 13.42v.1A1.46 1.46 0 0 0 4.4 15h4.83a5.6 5.6 0 0 0 2.48-.58l1-.42H14V7zM12 12.11l-1.19.52a3.6 3.6 0 0 1-1.58.37H5.1a.55.55 0 0 1-.53-.4l-.14-.48-.49-.21a.56.56 0 0 1-.34-.6l.09-.56-.42-.42a.56.56 0 0 1-.09-.68L3.55 9l-.4-.61A.28.28 0 0 1 3.3 8h5L7.14 4.51a4.2 4.2 0 0 1-.2-1.26V2.08A.09.09 0 0 1 7 2a.1.1 0 0 1 .08 0l.18.51a10 10 0 0 0 1.9 3.24l2.84 3z">
+          </path>
+         </svg>
+         <span class="_206505cb _74635581 e3e21442 _206b6967 b6542a4e _12bdbdcd _147ad06f _03d0271d fe1dfcee _2f1f0c21 fac0ba2c d3489b62 fa281b20 _535d44b1 _26b16aea">
+          ​
+         </span>
+        </span>
+       </button>
+      </div>
+     </div>
+     <button aria-expanded="false" aria-label="Open reactions menu" class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d _7967e68d _9cae1192 a8a4e5aa _49d1b439 c65a1d59 f7998e26 _0f74a6b2 _1c077621 _41ee9d19" type="button">
+      <span class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d">
+       <svg aria-hidden="true" class="" data-supported-dps="16x16" data-token-id="380" fill="currentColor" height="16" id="chevron-up-small" style="width: 16px; min-width: 16px; height: 16px; min-height: 16px;" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+        <path d="M15 11 8 6.39 1 11V8.61L8 4l7 4.61z">
+        </path>
+       </svg>
+      </span>
+     </button>
+    </div>
+    <button aria-label="Comment" class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d d706618a _9a0be13d _38a69e4f _41f967a5 _2047e9b5 f5089735" componentkey="17770cd1-2d3e-47a2-97fa-fb663ca3a009" type="button">
+     <span class="a78edf32 fd0e1f92 _11f03e4a _2047e9b5 fc50f657 e65fcdee _41f967a5 _00654d7a _7fa58437 cdb37f94 fb447a0d b7bca0ca _6013dc43 da308438 _1fd04313 e6b1e513 _610afb1c cd3f9ad2 f8f7fe73">
+      <svg aria-hidden="true" class="d34a851d _44926d75 ad0c2d42 f5ddbe4f c5dfaad7 _71c72188" data-supported-dps="16x16" data-token-id="202" fill="currentColor" height="16" id="comment-small" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M5 8h5v1H5zm11-.5v.08a6 6 0 0 1-2.75 5L8 16v-3H5.5A5.51 5.51 0 0 1 0 7.5 5.62 5.62 0 0 1 5.74 2h4.76A5.5 5.5 0 0 1 16 7.5m-2 0A3.5 3.5 0 0 0 10.5 4H5.74A3.62 3.62 0 0 0 2 7.5 3.53 3.53 0 0 0 5.5 11H10v1.33l2.17-1.39A4 4 0 0 0 14 7.58zM5 7h6V6H5z">
+       </path>
+      </svg>
+      <span class="_206505cb _74635581 e3e21442 _206b6967 b6542a4e _12bdbdcd _147ad06f _03d0271d fe1dfcee _2f1f0c21 fac0ba2c d3489b62 fa281b20 _535d44b1 _26b16aea">
+       ​
+      </span>
+     </span>
+    </button>
+    <button aria-expanded="false" aria-label="Repost" class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d d706618a _9a0be13d _38a69e4f _41f967a5 _2047e9b5 f5089735" componentkey="f134776c-0f76-4fab-8d29-a05d8673f3be" type="button">
+     <span class="a78edf32 fd0e1f92 _11f03e4a _2047e9b5 fc50f657 e65fcdee _41f967a5 _00654d7a _7fa58437 cdb37f94 fb447a0d b7bca0ca _6013dc43 da308438 _1fd04313 e6b1e513 _610afb1c cd3f9ad2 f8f7fe73">
+      <svg aria-hidden="true" class="d34a851d _44926d75 ad0c2d42 f5ddbe4f c5dfaad7 _71c72188" data-supported-dps="16x16" data-token-id="255" fill="currentColor" height="16" id="repost-small" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M4 10H2V5c0-1.66 1.34-3 3-3h3.85L7.42 0h2.44L12 3 9.86 6H7.42l1.43-2H5c-.55 0-1 .45-1 1zm8-4v5c0 .55-.45 1-1 1H7.15l1.43-2H6.14L4 13l2.14 3h2.44l-1.43-2H11c1.66 0 3-1.34 3-3V6z">
+       </path>
+      </svg>
+      <span class="_206505cb _74635581 e3e21442 _206b6967 b6542a4e _12bdbdcd _147ad06f _03d0271d fe1dfcee _2f1f0c21 fac0ba2c d3489b62 fa281b20 _535d44b1 _26b16aea">
+       ​
+      </span>
+     </span>
+    </button>
+    <a aria-disabled="false" aria-label="Send" class="be08cf86 _7eb5685c fc50f657 e65fcdee fa281b20 cdb37f94 fb447a0d d706618a _9a0be13d _38a69e4f _41f967a5 _2047e9b5 f5089735" componentkey="51b6ebd4-e384-40fe-ab1a-2ddc5ee21024" href="https://www.linkedin.com/search/results/content/?keywords=ML%20Engineer&amp;sortBy=%22date_posted%22">
+     <span class="a78edf32 fd0e1f92 _11f03e4a _2047e9b5 fc50f657 e65fcdee _41f967a5 _00654d7a _7fa58437 cdb37f94 fb447a0d b7bca0ca _6013dc43 da308438 _1fd04313 e6b1e513 _610afb1c cd3f9ad2 f8f7fe73">
+      <svg aria-hidden="true" class="d34a851d _44926d75 ad0c2d42 f5ddbe4f c5dfaad7 _71c72188" data-rtl="true" data-supported-dps="16x16" data-token-id="232" fill="currentColor" height="16" id="send-privately-small" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+       <path d="M14 2 0 6.67l5 2.64 5.67-3.98L6.7 11l2.63 5z">
+       </path>
+      </svg>
+      <span class="_206505cb _74635581 e3e21442 _206b6967 b6542a4e _12bdbdcd _147ad06f _03d0271d fe1dfcee _2f1f0c21 fac0ba2c d3489b62 fa281b20 _535d44b1 _26b16aea">
+      </span>
+     </span>
+    </a>
+    <div class="_11f03e4a e8127091 a8c69f75 b1c4d005 _662f01e9">
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="_87ed9fa4 _08ce16be _60379d67 _05d76f20 _662f01e9" componentkey="CgsIgMDO3KeYjdrPAQ-replaceableCommentToolsJAbgn5czecJEVaTj5N-b-5YaqGWeG33OlsCG-UAkjncFeedType_FLAGSHIP_SEARCH" id="CgsIgMDO3KeYjdrPAQ-replaceableCommentToolsJAbgn5czecJEVaTj5N-b-5YaqGWeG33OlsCG-UAkjncFeedType_FLAGSHIP_SEARCH">
+ </div>
+</div>

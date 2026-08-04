@@ -1,0 +1,11 @@
+﻿{
+    "message": "Found 1 records",
+    "data": [
+        {
+            "id": 4,
+            "email": "Deesha.A@eagledrift.com",
+            "type": "D",
+            "date": "14-07-26"
+        }
+    ]
+}

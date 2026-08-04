@@ -1,0 +1,50 @@
+{
+  "company_name": "Morningstar",
+  "company_url": "https://www.linkedin.com/company/morningstar/",
+  "execution_date": "2026-07-22T15:22:26.697828",
+  "1st_degree_count": 0,
+  "1st_degree_referral_drafts": [],
+  "new_connection_requests_target": 5,
+  "new_connection_requests_sent": [
+    {
+      "first_name": "Surendra",
+      "profile_url": "https://www.linkedin.com/in/surendra012",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:31:22.548818",
+      "draft_message": "Hi Surendra,\n\nThanks for connecting! I noticed Morningstar is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Rahul",
+      "profile_url": "https://www.linkedin.com/in/rahul-badwar-342642165",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:31:31.436724",
+      "draft_message": "Hi Rahul,\n\nThanks for connecting! I noticed Morningstar is hiring for a Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Sarthak",
+      "profile_url": "https://www.linkedin.com/in/sarthak-dhargalkar-85b305174",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:31:40.876564",
+      "draft_message": "Hi Sarthak,\n\nThanks for connecting! I noticed Morningstar is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Siddhesh",
+      "profile_url": "https://www.linkedin.com/in/sidgahrana",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:31:51.340959",
+      "draft_message": "Hi Siddhesh,\n\nThanks for connecting! I noticed Morningstar is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    },
+    {
+      "first_name": "Indrayani",
+      "profile_url": "https://www.linkedin.com/in/indrayanivaishnav",
+      "status": "Accepted",
+      "notification_sent": true,
+      "notification_date": "2026-07-22T15:32:00.516327",
+      "draft_message": "Hi Indrayani,\n\nThanks for connecting! I noticed Morningstar is hiring for Role and my background aligns with the requirements.\n\nIf you are open to it, could you please guide me or refer me for this position?\n\nAttached my resume for reference.\n\nBest regards, [Your Name]"
+    }
+  ]
+}

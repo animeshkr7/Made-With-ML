@@ -1,0 +1,125 @@
+﻿{
+    "message": "Found 20 records",
+    "data": [
+        {
+            "id": 32,
+            "email": "Satyam.Singh@artech.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 33,
+            "email": "debbie.nolan@boeinginl.com",
+            "type": "C",
+            "date": "16-07-26"
+        },
+        {
+            "id": 34,
+            "email": "saurabh.snehi@broadaxis.com",
+            "type": "C",
+            "date": "16-07-26"
+        },
+        {
+            "id": 35,
+            "email": "sravan@aorzon.com",
+            "type": "C",
+            "date": "16-07-26"
+        },
+        {
+            "id": 36,
+            "email": "careers@lexandlink.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 37,
+            "email": "joyjit88@gmail.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 38,
+            "email": "humasiddiqui@michaelpage.co.in",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 39,
+            "email": "priyaramrakhiani@michaelpage.co.in",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 40,
+            "email": "aditya.shukla@huntingcube.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 41,
+            "email": "aishwarya@meedenlabs.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 42,
+            "email": "chanchala.kumari@cahead.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 43,
+            "email": "sravan.raju@atvsllc.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 44,
+            "email": "nohayr.elbanna@systemsltd.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 45,
+            "email": "jobs@quadzero.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 46,
+            "email": "nelvia.geralda@ekrut.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 47,
+            "email": "career@thoughtwin.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 48,
+            "email": "lakshman@kanmalaitech.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 49,
+            "email": "hr@bellsandbecca.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 50,
+            "email": "srirajR@abhima.com",
+            "type": "D",
+            "date": "16-07-26"
+        },
+        {
+            "id": 51,
+            "email": "hr@sidraforce.com",
+            "type": "D",
+            "date": "16-07-26"
+        }
+    ]
+}

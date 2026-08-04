@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "author": "Reeta kujur, open to work",
+        "url": "Unknown URL",
+        "text": "🌍 REMOTE HIRING | \n\nSenior AI, Data & Platform Roles | 5+ Yrs | ₹1.1 LPM | Technogig Software*\n\nWe’re building enterprise AI platforms and we need *senior, hands-on builders* to join us.  \n*100% Remote from India* | *US Shift*\n\n📍 *Location*: Remote - India  \n💼 *Experience*: 5+ Years *Mandatory for all roles*  \n💰 *Budget*: ₹1.1 LPM | ⏰ *Shift*: 5:30 PM – 2:30 AM IST | PST Hours  \n💼 *Fulltime* | *Payroll*: Technogig Software Solutions\n\nOpen Positions\n\n*1. AI Engineer \nGenAI & Agentic AI*  \nDesign LLM apps, RAG pipelines & multi-agent systems  \n*Skills*: OpenAI, Azure OpenAI, LLaMA, Mistral, LangChain, LangGraph, AutoGen, CrewAI, Pinecone, Chroma, Azure AI Search, Prompt Engineering, Fine-tuning, Embeddings, AI Governance\n\n*2. Data Engineer \nPython, Snowflake, ADF*  \nBuild & optimize enterprise data pipelines  \n*Skills*: Python, Snowflake, Azure Data Factory, Linux, Shell Scripting, ETL/ELT, Data Modeling, Performance Tuning, APIs, GitLab, CI/CD\n\n*3. Graph Developer / Neo4j Engineer*  \nDevelop enterprise Knowledge Graphs & relationship analytics  \n*Skills*: Neo4j, Cypher, Neo4j GDS, Graph Modeling, Python/Java/JS, REST, GraphQL, Data Ingestion, Azure, Docker\n\n*4. ML/AI Platform Architect / Engineer*  \nOwn end-to-end AI/ML platform architecture  \n*Skills*: Python, Kubernetes, Docker, Azure, MLOps, Feature Store, Model Catalog, Agentic AI Infra, AI Governance, Observability\n\n*What We’re Looking For*\n✅ 5+ Years proven hands-on experience  \n✅ Experience shipping production AI/Data platforms  \n✅ Comfortable collaborating in US timezone  \n✅ Strong problem-solving & communication\n\n*Apply Now:*  \n📧 *Email*: Madhuri.k@technogigsolution.in\nDM: `Role + YOE + Resume`\n\nReferrals highly appreciated. Tag your network 👇\n\n#Hiring #RemoteJobs #AIJobs #GenAI #AgenticAI #LLM #RAG #DataEngineer #Neo4j #Snowflake #MLOps #Python #Azure #Kubernetes #TechnogigSoftware\n… more",
+        "scraped_at": "2026-07-24T11:32:38.436737",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 16,
+        "author": "KIFAYAT HUSSAIN",
+        "url": "https://www.linkedin.com/posts/kifayat-hussain-7980a115a_hiring-platformengineer-mlops-share-7486293791755096064-arTp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "🚀 We’re Hiring: Senior Platform Engineer – MLOps / Databricks 🚀\n\n📍 Location: Anywhere in LATAM (Remote)\n\n\nAre you passionate about building scalable AI platforms and MLOps infrastructure? We’re looking for an experienced Senior Platform Engineer to help design and operate cloud-native AI platforms powered by Databricks and AWS.\n\nKey Responsibilities\n\n✅ Design, implement, and maintain AI/ML platforms on AWS and Databricks\n✅ Build scalable data pipelines for machine learning and analytics workloads\n✅ Develop Infrastructure-as-Code using AWS CDK and CloudFormation\n✅ Build backend services and REST APIs using Python and Node.js\n✅ Deploy and manage ML models using MLflow\n✅ Integrate LLMs and RAG solutions into production environments\n✅ Implement CI/CD, observability, monitoring, and platform reliability best practices\n\nRequired Skills\n\n✔ 7+ years of Software/Platform Engineering experience\n✔ Hands-on experience with Databricks (Mandatory)\n✔ Strong expertise in MLflow\n✔ Advanced Python and Node.js development\n✔ AWS, AWS CDK, CloudFormation, and Infrastructure as Code\n✔ MLOps, AI/ML Platform Engineering, and Model Deployment\n✔ Experience with LLMs, RAG, GenAI, LangChain, or LangGraph\n✔ Docker, Kubernetes, and CI/CD pipelines\n\nPreferred Experience\n\n⭐ Unity Catalog\n⭐ Delta Lake\n⭐ Feature Store\n⭐ Model Serving\n⭐ GitHub Actions\n⭐ Platform Architecture & Observability\n\n📩 Interested candidates? Send your updated resume to info@infosoftsolutions.us with the subject line “Senior Platform Engineer – MLOps / Databricks”.\n\nKnow someone who would be a great fit? Feel free to share this opportunity!\n\n#Hiring #PlatformEngineer #MLOps #Databricks #MLflow #Python #NodeJS #AWS #CloudEngineering #InfrastructureAsCode #GenAI #LLM #RAG #LangChain #LangGraph #AIJobs #MachineLearning #RemoteJobs #LATAM #TechJobs\n… more",
+        "scraped_at": "2026-07-24T11:33:29.388328",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 20,
+        "author": "Susmita Rijal, hiring",
+        "url": "https://www.linkedin.com/posts/susmita-rijal-2142782bb_ml-note-ml-share-7486293115054768128-WWnC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "We are looking for #ML/ Platform Engineer — Audio AI, GPU Inference and Product for the reputed Dubai based Company (Remote work). Know who might be interested?\n\nSummary\n-We are looking for motivated ML and platform engineers who want to learn quickly, take real ownership, and build excellent products from idea to production.\n-The founder of this company is from Germany, studied at TUM and Oxford, and now run an AI software lab. We’re a team of 15 building end-to-end tools for professional music producers—from developing and fine-tuning audio models to production infrastructure and polished user interfaces.\n\nResponsibilities\n-Start with an idea for a new professional audio tool\n-Research relevant papers, models, and existing implementations\n-Build, adapt, or fine-tune the model\n-Create a reliable production API and inference pipeline\n-Optimize GPU infrastructure for speed and cost\n-Build interface prototypes using tools such as Claude\n-Ship the product, listen to users, and keep improving it\n-You would become an *Idea-to-Product Owner*\n\nRequirements\n-Platform Engineering (Language: TypeScript)\n-Runtime: Node.js\n-Framework: Fastify\n-Database: PostgreSQL on Google Cloud SQL\n-Hosting: Google Cloud Run\n-Validation/contracts: Zod with OpenAPI-compatible schemas)\n-ML Enginerring (Python, Runpod Serverless, Vast.ai)\n-Experience with AI/Agentic Coding\n\nAbout Us\n-We strongly support AI-assisted development. Everyone receives access to capable models, but we believe these tools amplify the engineer behind them. Good judgment, efficient architecture, and a deep understanding of the system still matter enormously.\n-A large part of our development team is based in Kathmandu. I’ve visited Nepal more than five times and hope to return soon. I’m open to different backgrounds and levels of specialization—curiosity, ownership, and the desire to push what is possible matter more than having the perfect résumé.\n-This is a high-ownership environment with ambitious goals and occasional intense sprints. In return, you’ll have the freedom and tools to take meaningful products from an idea to real users.\n\n#Note: Only Nepali Candidates who lives in Nepal are requested to apply for this position\n\nInterested Candidates are requested to send their resume at recruiter@safaltaservices.com or call contact or WhatsApp at 9749873637.\n\n#ml\n#ai\n#platformengineering\n#typescriptlanguage\n#node.js\n#fastifyframework\n#googlecloudrun\n#postgreSQLongooglecloudsql\n#aiagenticcoding\n#dubaibased\n#remote\n#nepal\n#hiring\n\n… more",
+        "scraped_at": "2026-07-24T11:33:41.629474",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 29,
+        "author": "Afreen Ashraff",
+        "url": "https://www.linkedin.com/posts/afreen-ashraff-4ab92536b_priorityhiring-hiringnow-frontierai-share-7486290432830873601-KTeH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "🚀 🧠 PRIORITY HIRING | REMOTE | MEMBER OF TECHNICAL STAFF – FRONTIER AI\nAre you passionate about Frontier AI, applied research, machine learning, and evaluation systems? micro1 is hiring a Member of Technical Staff (MTS) – Frontier AI to help shape the next generation of AI by leading research, evaluation, and data initiatives that directly improve real-world AI systems.\n💼 Role: Member of Technical Staff – Frontier AI\n🌍 Location: Remote\n🕒 Job Type: Full-time\n👥 Openings: 1\n💰 Compensation: $180,000–$320,000/year + Equity + Performance Bonus + Comprehensive Benefits\n🧠 What You'll Do\n✅ Lead research and evaluation initiatives from problem definition to signal validation\n✅ Design ML-oriented datasets, annotation schemas, evaluation rubrics, and data pipelines\n✅ Analyze AI model failures to identify root causes and opportunities for improvement\n✅ Translate complex real-world behavior into structured evaluation frameworks\n✅ Collaborate with researchers, engineers, and domain experts to improve AI performance\n✅ Build high-quality feedback loops that enhance AI models and agentic systems\n✅ Ensure research quality and data integrity through rigorous evaluation standards\n✅ Present research findings and technical insights to cross-functional stakeholders\n💡 Required Skills\n✔ Research Signal Judgment\n✔ ML-Oriented Data Design\n✔ Evaluation Framework Development\n✔ QA & Data Quality Processes\n✔ Failure Analysis & Root Cause Investigation\n✔ Ops-to-Research Translation\n✔ Strong Analytical & Problem-Solving Skills\n✔ Excellent Written & Verbal Communication\n⭐ Preferred Qualifications\n🔹 Experience with Reinforcement Learning (RL) environments or simulators\n🔹 Background in agentic AI systems or real-world AI workflows\n🔹 Experience in applied AI research or production AI systems\n🔹 Expertise in evaluation design for complex AI tasks\n🔹 Familiarity with expert incentive design and high-impact technical projects\n🌟 Why Join micro1?\n✨ Fully Remote Position\n✨ Competitive Salary: $180K–$320K/year\n✨ Equity & Performance Bonuses\n✨ Comprehensive health benefits, PTO, and 401(k) match\n✨ Work with world-class AI researchers and engineers\n✨ Help build and improve the next generation of Frontier AI systems\n🔗 Apply Here:\nhttps://lnkd.in/eD5tvy4y\n📢 Know someone with expertise in AI research, machine learning, evaluation systems, reinforcement learning, or applied research? Share this opportunity with your network!\n#PriorityHiring #HiringNow #FrontierAI #ArtificialIntelligence #MachineLearning #AIResearch #MemberOfTechnicalStaff #ResearchScientist #ReinforcementLearning #DataScience #MLEngineer #AppliedAI #AgenticAI #RemoteJobs #RemoteWork #WorkFromHome #TechJobs #GlobalJobs #WorldwideJobs #CareerOpportunity #OpenToWork #NowHiring #micro1\n… more",
+        "scraped_at": "2026-07-24T11:34:05.943254",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 55,
+        "author": "Harshitha Potla",
+        "url": "https://www.linkedin.com/posts/harshitha-potla-407355273_hiring-dataengineer-etl-share-7486284382773870592-0Hd_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "🚀 **We're Hiring | ETL Data Engineer with AI/ML & LLM Experience | 6–8 Years | C2H | HCL**\n\nWe're looking for an experienced **ETL Data Engineer** with **6–8 years of experience** and exposure to **AI/ML & Large Language Models (LLMs)** to join our client's team at **HCL Technologies** on a **Contract-to-Hire (C2H)** basis.\n\n📍 **Experience:** 6–8 Years\n💼 **Employment Type:** Contract-to-Hire (C2H)\n🏢 **Client:** HCL Technologies\n📍 Work Location: Remote\n⚡ **Joining:** Immediate Joiners Preferred\n\n### **Mandatory Skills:**\n\n✅ Data Engineering & ETL/ELT Processes\n✅ Python\n✅ Apache Spark (PySpark / Spark SQL)\n✅ Azure Databricks (Unity Catalog), Snowflake, Azure Functions & Service Bus\n✅ SQL\n✅ Terraform\n✅ CI/CD Tools – GitHub Actions, Git, Artifactory, SonarQube\n✅ Exposure to AI/ML and Large Language Models (LLMs)\n\n### **Preferred Profile:**\n\n* Strong hands-on experience in designing and developing scalable ETL/ELT pipelines.\n* Expertise in Python and Spark-based data processing.\n* Experience working with Azure Databricks, Snowflake, and cloud-native data engineering solutions.\n* Familiarity with Infrastructure as Code (Terraform) and CI/CD practices.\n* Exposure to AI/ML concepts and LLM-based solutions is highly desirable.\n\n📩 **Interested candidates, please share your updated resume to\n [ harshita.p@voltoconsulting.com ]\n along with the following details:**\n\n* Total Experience:\n* Relevant Experience in ETL/Data Engineering:\n* Relevant Experience in Azure Databricks:\n* Relevant Experience in PySpark:\n* Relevant Experience in Snowflake:\n* Relevant Experience in Terraform:\n* Relevant Experience in AI/ML & LLM:\n* Current CTC:\n* Expected CTC:\n* Notice Period:\n* Current Location:\n\n#Hiring #DataEngineer #ETL #ELT #Python #PySpark #ApacheSpark #AzureDatabricks #Snowflake #Terraform #GitHubActions #CI_CD #AI #MachineLearning #LLM #DataEngineering #HCL #C2HJobs #ImmediateJoiners #TechJobs #HiringNow\n\n… more",
+        "scraped_at": "2026-07-24T11:35:17.167564",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 74,
+        "author": "Shyni Sathiya",
+        "url": "https://www.linkedin.com/posts/shynisathiya_hiring-dataengineer-azuredatabricks-share-7486276638809182208-OQZu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "🚀 Hiring: Data Engineer (AI/ML & Azure Databricks)\n📍 Location: PAN India\n 💼 Experience: 5+ Years\n ⚡ Immediate Joiners Preferred\n\nKey Skills:\nData Engineering & ETL/ELT Processes – 5+ Years\nPython – 5+ Years\nApache Spark (PySpark/Spark SQL) – 5+ Years\nAzure Databricks (Unity Catalog), Snowflake, Azure Functions, Service Bus – 5+ Years\nSQL – 3+ Years\nTerraform – 3+ Years\nCI/CD: GitHub Actions, Git, Artifactory, SonarQube – 3+ Years\nExposure to AI/ML and Large Language Models (LLMs)\n\nIf you're interested or know someone who fits this role, share your updated resume or tag relevant connections.\n📩 shyni.s@voltoconsulting.com\n\n#Hiring #DataEngineer #AzureDatabricks #PySpark #Python #Snowflake #Terraform #GitHubActions #AI #LLM #DataEngineering #Azure #ImmediateHiring #ITJobs #LinkedInJobs\n… more",
+        "scraped_at": "2026-07-24T11:36:16.424309",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 110,
+        "author": "Edwin Rajadurai, hiring",
+        "url": "https://www.linkedin.com/posts/edwin-rajadurai-82602b25a_senior-software-engineer-apply-on-job-share-7486251967913218049-PRuT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Senior Software Engineer  \nmicro1  \n100 Openings  \n\n💰 Pay: $50–$100/hour  \n🌍 Job Type: Remote | Contract | Full-Time/Part-Time  \n\nWe are looking for experienced *Senior Software Engineers* to join micro1 and build AI, data, and developer infrastructure. If you’re strong in Python3, Java, Rust and love shipping scalable systems, this is a great opportunity to work on high-impact engineering projects.\n\n✅ Required Skills:  \n✔ Python3 - backend services, data pipelines, ML tooling  \n✔ Java - distributed systems, APIs, microservices  \n✔ Rust - systems programming, performance-critical components  \n✔ Cloud platforms - AWS, GCP, or Azure  \n✔ Databases - PostgreSQL, MySQL, Redis, or vector DBs  \n✔ APIs, distributed systems, and system design  \n✔ Testing, CI/CD, and code review  \n✔ +7 additional skills in Go, TypeScript, Kubernetes, Docker, or AI/ML engineering  \n\n🎯 Key Responsibilities:  \n✔ Design and build scalable backend services and APIs  \n✔ Contribute to AI training infrastructure, data processing, and evaluation platforms  \n✔ Write production-quality code in Python3, Java, Rust, and related languages  \n✔ Review code, mentor engineers, and drive engineering best practices  \n✔ Own features end-to-end from design to deployment and monitoring  \n✔ Optimize for performance, reliability, and cost  \n✔ Collaborate with product, data, and research teams  \n✔ Work in an agile, remote-first environment with clear deliverables  \n\n✨ Why Join?  \n✔ Earn $50–$100 per hour based on experience and project scope  \n✔ 100% remote work with flexible schedules  \n✔ 100 open roles across AI and infrastructure teams  \n✔ Work with micro1 on cutting-edge AI and data systems  \n✔ High autonomy, direct impact, and fast feedback loops  \n✔ Join one of our largest engineering hiring waves this year  \n\nThis opportunity is ideal for senior engineers with 5+ years of experience in backend, systems, or ML infrastructure. If you enjoy building robust systems and shipping at speed, don't miss this opportunity.\n\n#Hiring #SeniorSoftwareEngineer #Python #Java #Rust #Backend #SystemsEngineering #SoftwareEngineer #AI #ML #Cloud #APIs #RemoteJobs #ContractJobs #TechJobs #RemoteWork #micro1 #CareerOpportunity #NowHiring #Jobs2026 #ApplyNow\n\n📩 Apply and give the ai interview\n\nhttps://lnkd.in/dkUdAkpa\n\n… more",
+        "scraped_at": "2026-07-24T11:38:06.506963",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 113,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/feed/update/urn:li:groupPost:12505570-7486249608050790400/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "WE ARE HIRING – FULL STACK DEVELOPERS, AI, ML, LLM & REMOTE TECH PROFESSIONALS\n\n📩 Submit Your Resume / CV: lauren.plageman@brandsmileexecutive.com\n\nWe are actively recruiting talented technology professionals for exciting opportunities with leading startups, Fortune 500 companies, AI organizations, SaaS providers, fintech firms, and global enterprises.\n\nWhether you are a Full Stack Developer, Software Engineer, AI Engineer, Machine Learning Engineer, LLM Engineer, Python Developer, Java Developer, React Developer, Angular Developer, DevOps Engineer, Cloud Engineer, Data Scientist, HR Tech Professional, or Engineering Leader, we encourage you to apply.\n\nOpen Career Areas\n\n◆ Full Stack Development (MERN, MEAN, Java, .NET, Python)\n◆ Frontend Development (React, Angular, Next.js, Vue.js)\n◆ Backend Development (Node.js, Java, Python, Go, C#)\n◆ Artificial Intelligence (AI)\n◆ Machine Learning (ML)\n◆ Large Language Models (LLMs) & Generative AI\n◆ Cloud Engineering (AWS, Azure, GCP)\n◆ DevOps & Site Reliability Engineering (SRE)\n◆ Data Engineering & Data Science\n◆ HR Technology (HR Tech)\n◆ Remote Software Engineering Opportunities\n◆ Executive & Engineering Leadership Roles\n\nEmployment Types\n\n◆ Full-Time Positions\n◆ Contract, C2C & W2 Opportunities\n◆ Remote, Hybrid & On-Site Positions\n\nCareer Levels\n\nEntry-Level | Mid-Level | Senior-Level | Lead | Principal Engineer | Software Architect | Manager | Director | Executive Leadership\n\n📍 Locations: USA, Canada, Europe, Middle East, Asia, Africa, and Global Remote Opportunities.\n\n📩 Apply Now: Send your Resume / CV to lauren.plageman@brandsmileexecutive.com\n\nWe welcome software engineers, full stack developers, AI/ML specialists, LLM engineers, DevOps engineers, cloud professionals, HR Tech experts, and technology leaders ready to build innovative, scalable, and AI-powered solutions.\n\n#HiringNow #FullStackDeveloper #SoftwareEngineer #ArtificialIntelligence #MachineLearning #LLM #GenerativeAI #TechJobs #RemoteJobs #CloudComputing #DevOps #DataScience #HRTech #Python #Java #React #Angular #GlobalHiring #NowHiring\n… more",
+        "scraped_at": "2026-07-24T11:38:14.718765",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 114,
+        "author": "Edwin Rajadurai, hiring",
+        "url": "https://www.linkedin.com/posts/edwin-rajadurai-82602b25a_llm-red-teamer-apply-on-job-share-7486250807890452481-dD2b/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "LLM Red-Teamer  \nmicro1  \n100 Openings  \n\n💰 Pay: $40–$65/hour  \n🌍 Job Type: Remote | Contract | Flexible Hours  \n\nWe are looking for *LLM Red-Teamers* to join micro1 and help make AI models safer. Your job is to find where large language models break, hallucinate, or behave unsafely, then help teams fix it. If you enjoy problem-solving and creative testing, this is a great opportunity.\n\n✅ Required Skills:  \n✔ Adversarial prompt construction - jailbreaks, edge cases, and safety probing  \n✔ Precision in written English - clear, unambiguous prompts and reports  \n✔ Rubric design - create evaluation criteria for model behavior  \n✔ Analytical thinking and attention to detail  \n✔ +1 in AI safety, cybersecurity, QA, or technical writing  \n\n🎯 Key Responsibilities:  \n✔ Design and execute adversarial prompts to test LLM safety and reliability  \n✔ Identify vulnerabilities: bias, misinformation, harmful outputs, policy violations  \n✔ Document findings with reproducible examples and severity ratings  \n✔ Build and refine rubrics to evaluate model responses at scale  \n✔ Collaborate with researchers and ML engineers to validate issues  \n✔ Create datasets of \"bad\" and \"good\" prompts for training and eval  \n✔ Track trends in model failures and recommend mitigations  \n✔ Maintain high-quality reporting and throughput on testing tasks  \n\n✨ Why Join?  \n✔ Earn $40–$65 per hour  \n✔ 100% remote work with flexible scheduling  \n✔ 100 open roles across safety, alignment, and eval projects  \n✔ Work with micro1 on frontier LLM safety for leading AI labs  \n✔ Be on the frontlines of AI safety and responsible deployment  \n✔ No PhD required - practical testing and writing skills matter most  \n\nThis opportunity is ideal for security researchers, QA specialists, writers, and anyone curious about how AI fails. If you like breaking things to make them better, don't miss this opportunity.\n\n#Hiring #LLM #RedTeam #AISafety #AdversarialTesting #PromptEngineering #AIAlignment #QA #TechJobs #RemoteJobs #ContractJobs #RemoteWork #micro1 #CareerOpportunity #NowHiring #Jobs2026 #ApplyNow\n\n📩 Apply and complete the adversarial prompt assessment.\n\nhttps://lnkd.in/dDXU-zQG\n\n… more",
+        "scraped_at": "2026-07-24T11:38:17.416616",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 119,
+        "author": "Edwin Rajadurai, hiring",
+        "url": "https://www.linkedin.com/posts/edwin-rajadurai-82602b25a_senior-software-engineer-apply-on-job-share-7486250179378122752-37PC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Senior Software Engineer  \nmicro1  \n100 Openings  \n\n💰 Pay: $50 – $100/hour  \n🌍 Job Type: Contract | Remote | Flexible Hours  \n\nWe are looking for *Senior Software Engineers* to join micro1 and build core systems for AI training, evaluation, and product infrastructure. You’ll ship production code that scales to millions of users and supports frontier LLMs.\n\n✅ Required Skills:  \n✔ Python3 - backend services, APIs, and automation  \n✔ Java - large-scale systems and distributed applications  \n✔ Rust - performance-critical services and infrastructure  \n✔ System design, cloud architecture, and debugging at scale  \n✔ Testing, CI/CD, and code review best practices  \n✔ +7 in Go, TypeScript, Kubernetes, AWS/GCP, databases, and data engineering  \n\n🎯 Key Responsibilities:  \n✔ Design and build scalable backend services for AI products  \n✔ Optimize performance, reliability, and cost for high-throughput systems  \n✔ Work with ML teams to integrate models, evals, and data pipelines  \n✔ Develop APIs and tools used by researchers and enterprise customers  \n✔ Write clean, maintainable code with strong test coverage  \n✔ Own features end-to-end from design to deployment and monitoring  \n✔ Collaborate across product, ML, and data teams to ship fast  \n✔ Contribute to architecture decisions and technical standards  \n\n✨ Why Join?  \n✔ Earn $50–$100 per hour  \n✔ 100 open roles across AI infrastructure and product teams  \n✔ 100% remote with flexible scheduling  \n✔ Work with micro1 on cutting-edge AI systems at scale  \n✔ High ownership, fast iteration, and direct impact  \n✔ Work with Python3, Java, Rust, and modern cloud stack  \n\nThis opportunity is ideal for senior engineers who love building reliable systems and want to be close to AI.\n\n#Hiring #SeniorSoftwareEngineer #Python3 #Java #Rust #Backend #Cloud #AWS #Kubernetes #SoftwareEngineering #TechJobs #RemoteJobs #ContractJobs #micro1 #CareerOpportunity #NowHiring #Jobs2026\n*Apply and give the AI interview*\n\nhttps://lnkd.in/exvUxNiS\n\n… more",
+        "scraped_at": "2026-07-24T11:38:32.777667",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 124,
+        "author": "Edwin Rajadurai, hiring",
+        "url": "https://www.linkedin.com/posts/edwin-rajadurai-82602b25a_physics-expert-phd-apply-on-job-share-7486249371316072448-rolK/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "Physics Expert (PhD)  \nmicro1  \n50 Openings  \n\n💰 Pay: $80 – $90/hour  \n🌍 Job Type: Contract | Remote | Flexible Hours  \n\nWe are looking for *Physics Experts with a PhD* to join micro1 and help train and evaluate AI models in physics. Your expertise will shape how AI reasons about concepts, solves problems, and explains complex phenomena.\n\n✅ Required Skills:  \n✔ Advanced physics knowledge - classical mechanics, E&M, quantum, statistical, and relativity  \n✔ Scientific data analysis - modeling, simulation, and interpreting experimental results  \n✔ Technical writing - clear explanations, derivations, and documentation  \n✔ +2 in problem solving and research methodology  \n\n🎯 Key Responsibilities:  \n✔ Create and solve advanced physics problems for AI training data  \n✔ Evaluate AI-generated solutions for correctness, logic, and physical validity  \n✔ Write step-by-step derivations and explanations across theory and applied topics  \n✔ Annotate datasets with equations, assumptions, and reasoning chains  \n✔ Review AI outputs on mechanics, optics, thermodynamics, quantum, and astrophysics  \n✔ Identify errors, edge cases, and conceptual gaps in AI reasoning  \n✔ Collaborate with ML teams to improve physics evaluation rubrics  \n✔ Meet quality and volume targets with academic rigor  \n\n✨ Why Join?  \n✔ Earn $80–$90 per hour  \n✔ 50 open roles across AI science and research teams  \n✔ 100% remote with flexible scheduling  \n✔ Work with micro1 on building AI that can assist researchers, engineers, and students  \n✔ Apply your PhD-level expertise to frontier AI products  \n✔ Help advance how AI understands and teaches physics  \n\nThis opportunity is ideal for PhDs who want to bring physics expertise to the future of AI.\n\n#Hiring #PhysicsExpert #PhD #ClassicalMechanics #QuantumPhysics #ScientificData #TechnicalWriting #Research #STEM #AI #RemoteJobs #ContractJobs #micro1 #CareerOpportunity #NowHiring #Jobs2026\n*Apply and give the AI interview*\n\nhttps://lnkd.in/dErmhK-W\n\n… more",
+        "scraped_at": "2026-07-24T11:38:46.220633",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 125,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/hiring-aijobs-datascience-share-7486136244058537984-R-lc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "🚀 Fresh AI & Data Science Opportunities Added on LastMinute AI!\nLooking to start or grow your career in AI, Machine Learning, NLP, or Data Science? We've added two exciting openings that you shouldn't miss.\n🔹 AI Engineer (Remote) – Anikaay Integration\n🌍 Remote | Full-Time\n✅ Python, PyTorch / TensorFlow\n✅ LLMs, NLP & Generative AI\n✅ LangChain, Hugging Face\n✅ MLOps, RAG, Vector Databases\n✅ AWS SageMaker / Google Vertex AI\nBuild production-ready AI applications, fine-tune LLMs, develop intelligent AI pipelines, and work on cutting-edge GenAI solutions from anywhere.\n🔹 Junior Data Scientist – Expretio\n📍 Montreal, Canada\n✅ Entry-Level / Junior Role\n✅ Python, Pandas, SQL\n✅ PyTorch, LightGBM, MLflow\n✅ Power BI, PostgreSQL, MongoDB\n✅ Predictive Modeling & Time Series\n✅ Generative AI Tools\nAn excellent opportunity for recent graduates and aspiring Data Scientists to work on real-world AI, predictive analytics, and Revenue Management systems alongside experienced AI researchers.\n💡 Skills in Demand:\n• Python\n• Machine Learning\n• Generative AI\n• Large Language Models (LLMs)\n• Retrieval-Augmented Generation (RAG)\n• LangChain\n• PyTorch\n• TensorFlow\n• SQL\n• Data Science\n• NLP\n• MLOps\n• Time Series Forecasting\n📌 Apply Now:\nhttps://lnkd.in/dgN4Zgst\nWe keep adding carefully curated AI, ML, Data Science, Software Engineering, and Analytics opportunities to help students, fresh graduates, and professionals find their next role.\nTag someone who is looking for AI or Data Science opportunities 👇\n#Hiring #AIJobs #DataScience #MachineLearning #GenerativeAI #LLM #RAG #LangChain #Python #PyTorch #TensorFlow #NLP #MLOps #DataScientist #RemoteJobs #TechJobs #CareerGrowth #LastMinuteAI\n… more",
+        "scraped_at": "2026-07-24T11:38:48.911208",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 126,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/ai-research-engineer-linkedin-%E0%A4%AA%E0%A4%B0-%E0%A4%A8%E0%A4%AF%E0%A4%95%E0%A4%A4-share-7486236505850474496-WQ9d/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "AI Research Engineer\n\n⚡ LinkedIn पर नियुक्ति पोस्ट में पकड़ा गया — जब तक यह नौकरी चयनिकाओं में नहीं आता।\n\n📍 रिमोट\n💰 USD 261800-354200/वर्ष\n\nक्लायंट को एक AI Research Engineer की तलाश है जिसे PhD हो तथा जो AI/ML में अनुसंधान कर सके। Python, PyTorch, TensorFlow और LLMs, Generative AI व Deep Learning के अनुभव की आवश्यकता है।\n\n✍️ आपका आवेदन पहले से तैयार है — देखें और एक क्लिक में भेजें.\n🔗 मुफ़्त आवेदन करें (पहला हमारी ओर से): https://lnkd.in/gv-S2pZv\n\nसैकड़ों नई remote tech जॉब्स रोज़ Freelanly पर आती हैं — LinkedIn hiring posts से, जॉब बोर्ड्स से पहले. सबसे पहले पाएं: freelanly.com\n… more",
+        "scraped_at": "2026-07-24T11:38:51.650696",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 127,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/ai-research-engineer-caught-in-a-linkedin-share-7486236540365402112-QD-_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "AI Research Engineer\n\n⚡ Caught in a LinkedIn hiring post — before it hits the job boards.\n\n📍 Remote\n💰 USD 261800-354200/year\n\nClient seeks an AI Research Engineer with a PhD to conduct research in AI/ML. Requires Python, PyTorch, TensorFlow, and experience with LLMs, Generative AI, and Deep Learning.\n\n✍️ Your application is already drafted — review & send in one click.\n🔗 Apply free (first one's on us): https://lnkd.in/gv-S2pZv\n\nHundreds of fresh remote tech roles land on Freelanly every day — caught from LinkedIn hiring posts before the boards. Be first: freelanly.com\n\nTelegram: https://t.me/PCFTI\n🇪🇸 Síguenos en español: https://lnkd.in/dthNCFqz\n🇸🇦 تابعنا بالعربية: https://lnkd.in/dvfsy_Rd\n🇮🇳 हिंदी में फॉलो करें: https://lnkd.in/dxavg7Wj\n… more",
+        "scraped_at": "2026-07-24T11:38:54.329766",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    },
+    {
+        "id": 133,
+        "author": "Unknown Author",
+        "url": "https://www.linkedin.com/posts/aiml-engineer-caught-in-a-linkedin-hiring-share-7486234025536299008-_haO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiiXMEB4Vzb885F9rmsF5MaK311TVTg2mg",
+        "text": "AI/ML Engineer\n\n⚡ Caught in a LinkedIn hiring post — before it hits the job boards.\n\n📍 Remote\n💰 USD 80750-109250/year\n\nAnusha Edunuri seeks a mid-level AI/ML Engineer with 4–6 years experience. The role requires Python, ML algorithms (XGBoost, Random Forest), AWS SageMaker, SQL, and model deployment skills.\n\n✍️ Your application is already drafted — review & send in one click.\n🔗 Apply free (first one's on us): https://lnkd.in/gZvGG3Wt\n\nHundreds of fresh remote tech roles land on Freelanly every day — caught from LinkedIn hiring posts before the boards. Be first: freelanly.com\n\nTelegram: https://t.me/PCFTI\n🇪🇸 Síguenos en español: https://lnkd.in/dthNCFqz\n🇸🇦 تابعنا بالعربية: https://lnkd.in/dvfsy_Rd\n🇮🇳 हिंदी में फॉलो करें: https://lnkd.in/dxavg7Wj\n… more",
+        "scraped_at": "2026-07-24T11:39:10.612215",
+        "llm_evaluation": {
+            "Q1": true,
+            "Q2": true,
+            "Q3": true
+        }
+    }
+]
