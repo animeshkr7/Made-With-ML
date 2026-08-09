@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Processor Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <div class="container">
+        <div class="glass-panel">
+            <div class="header">
+                <h1>Data Processor</h1>
+                <p>Fetch and review your application logs by date.</p>
+            </div>
+
+            <div class="controls">
+                <div class="input-group">
+                    <label for="searchDate">Select Date (DD-MM-YY)</label>
+                    <div class="search-row">
+                        <input type="text" id="searchDate" placeholder="15-07-26" pattern="\d{2}-\d{2}-\d{2}">
+                        <button id="fetchBtn">
+                            <span class="btn-text">Fetch Records</span>
+                            <div class="loader" id="btnLoader"></div>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="statusMessage" class="status-message hidden"></div>
+
+            <div class="data-container">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Email Address</th>
+                            <th>Role Type</th>
+                            <th>Date</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <tr class="empty-state">
+                            <td colspan="3">Enter a date and click fetch to see records.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="stats-row hidden" id="statsRow">
+                <p>Total applications found: <span id="recordCount" class="highlight">0</span></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+{
+    "exclude_keywords": [
+        "intern",
+        "jakarta",
+        "consulting",
+        "hiring campaign",
+        "field engineer",
+        "test engineer",
+        "lead",
+        "principal",
+        "marketer",
+        "seo",
+        "project manager",
+        "staff",
+        "full stack engineer",
+        "senior",
+        "account",
+        "aeo"
+    ],
+    "exclude_email_domains": [
+        "gmail.com",
+        "programming.com",
+        "hotmail.com",
+        "protonmail.com",
+        "zohomail.com"
+    ]
+}

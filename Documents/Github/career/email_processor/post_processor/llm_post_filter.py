@@ -77,6 +77,14 @@ def process_posts_llm(input_filepath: str, batch_size: int = 7) -> str:
     Saves qualified posts to output/linkedin_ml_posts_<timestamp>_llm_curated.json.
     """
     print("\n--- Starting Parallel LLM Post Filter ---")
+    
+    import sys
+    base_dir_monitor = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "linkedin_monitor")
+    if base_dir_monitor not in sys.path:
+        sys.path.append(base_dir_monitor)
+    from filter_utils import load_config, should_exclude_post
+    config = load_config()
+
     if not os.path.exists(input_filepath):
         print(f"Error: Input file {input_filepath} does not exist.")
         return ""
@@ -88,11 +96,24 @@ def process_posts_llm(input_filepath: str, batch_size: int = 7) -> str:
     if not posts:
         return ""
 
+    valid_posts = []
+    for post in posts:
+        text = post.get('text', '')
+        is_excluded, reason = should_exclude_post(text, config)
+        if not is_excluded:
+            valid_posts.append(post)
+        else:
+            print(f"Flow B: Skipping excluded post: {reason}")
+            
+    print(f"After keyword filtering, {len(valid_posts)} posts remain for LLM evaluation.")
+    if not valid_posts:
+        return ""
+
     qualified_posts = []
 
     # Divide posts into batches of 7
-    for i in range(0, len(posts), batch_size):
-        batch = posts[i:i + batch_size]
+    for i in range(0, len(valid_posts), batch_size):
+        batch = valid_posts[i:i + batch_size]
         batch_num = (i // batch_size) + 1
         total_batches = (len(posts) + batch_size - 1) // batch_size
 

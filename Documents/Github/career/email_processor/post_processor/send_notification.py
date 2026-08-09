@@ -26,9 +26,27 @@ def send_notification(input_file, recipient_email=None):
         
     try:
         with open(input_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+            raw_data = json.load(f)
     except Exception as e:
         print(f"Error reading JSON file: {e}")
+        return False
+
+    import sys
+    base_dir_monitor = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "linkedin_monitor")
+    if base_dir_monitor not in sys.path:
+        sys.path.append(base_dir_monitor)
+    from filter_utils import load_config, should_exclude_post
+    config = load_config()
+
+    data = []
+    for post in raw_data:
+        text = post.get('text', '')
+        is_excluded, reason = should_exclude_post(text, config)
+        if not is_excluded:
+            data.append(post)
+            
+    if not data:
+        print("All posts were filtered out. No email notification sent.")
         return False
 
     # Format data into a readable email body instead of raw JSON
