@@ -27,7 +27,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 # Groq Model Selection
 # We'll use Llama 3.3 70B for highly accurate reasoning and structured outputs
 DEFAULT_MODEL = "llama-3.3-70b-versatile"
-FAST_MODEL = "llama-3.1-8b-instant"
+FAST_MODEL = "openai/gpt-oss-20b"
 
 # Selenium Configurations
 SELENIUM_HEADLESS = True

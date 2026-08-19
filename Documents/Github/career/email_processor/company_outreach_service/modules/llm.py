@@ -28,7 +28,7 @@ Respond ONLY with a valid JSON object matching this schema:
     try:
         chat_completion = client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
-            model="llama-3.1-8b-instant",
+            model="openai/gpt-oss-20b",
             temperature=0.1,
             response_format={"type": "json_object"}
         )
@@ -74,7 +74,7 @@ Output ONLY the final message body. No intro/outro commentary.
     try:
         res = client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
-            model="llama-3.1-8b-instant",
+            model="openai/gpt-oss-20b",
             temperature=0.1,
         )
         msg = res.choices[0].message.content.strip()

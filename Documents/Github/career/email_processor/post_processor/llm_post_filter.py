@@ -50,7 +50,7 @@ Example JSON schema:
         try:
             chat_completion = client.chat.completions.create(
                 messages=[{"role": "user", "content": prompt}],
-                model="llama-3.1-8b-instant",
+                model="openai/gpt-oss-20b",
                 temperature=0.0,
                 response_format={"type": "json_object"}
             )
@@ -70,13 +70,19 @@ Example JSON schema:
     print(" -> Max retries reached for batch. Returning empty evaluation.")
     return {}
 
-def process_posts_llm(input_filepath: str, batch_size: int = 7) -> str:
+def process_posts_llm(input_filepath: str, batch_size: int = 7, exclude_urls: set = None) -> str:
     """
     Processes all scraped posts from input_filepath in batches of 7 using LLM.
     Filters posts where Q1 == True and Q2 == True and Q3 == True.
     Saves qualified posts to output/linkedin_ml_posts_<timestamp>_llm_curated.json.
+    
+    :param exclude_urls: Set of post URLs already processed by Flow A (regex email flow).
+                         These will be skipped here to avoid duplicate notifications.
     """
     print("\n--- Starting Parallel LLM Post Filter ---")
+    
+    if exclude_urls is None:
+        exclude_urls = set()
     
     import sys
     base_dir_monitor = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "linkedin_monitor")
@@ -98,6 +104,10 @@ def process_posts_llm(input_filepath: str, batch_size: int = 7) -> str:
 
     valid_posts = []
     for post in posts:
+        post_url = post.get('url', '')
+        if post_url and post_url in exclude_urls:
+            print(f"Flow B: Skipping post already emailed by Flow A: {post_url[:80]}")
+            continue
         text = post.get('text', '')
         is_excluded, reason = should_exclude_post(text, config)
         if not is_excluded:
@@ -105,7 +115,7 @@ def process_posts_llm(input_filepath: str, batch_size: int = 7) -> str:
         else:
             print(f"Flow B: Skipping excluded post: {reason}")
             
-    print(f"After keyword filtering, {len(valid_posts)} posts remain for LLM evaluation.")
+    print(f"After keyword filtering + dedup, {len(valid_posts)} posts remain for LLM evaluation.")
     if not valid_posts:
         return ""
 

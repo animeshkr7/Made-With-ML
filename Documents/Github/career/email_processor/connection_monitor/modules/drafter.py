@@ -39,7 +39,7 @@ Output ONLY the final message text.
 """
         res = client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
-            model="llama-3.1-8b-instant",
+            model="openai/gpt-oss-20b",
             temperature=0.1,
         )
         msg = res.choices[0].message.content.strip()

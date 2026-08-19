@@ -40,7 +40,7 @@ Email:
                     "content": prompt,
                 }
             ],
-            model="llama-3.1-8b-instant", 
+            model="openai/gpt-oss-20b", 
             temperature=0.0,
             response_format={"type": "json_object"}
         )

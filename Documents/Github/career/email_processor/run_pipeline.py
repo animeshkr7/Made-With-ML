@@ -39,10 +39,20 @@ def run_pipeline():
     print("\n==================================================")
     print("  FLOW A: Regex Email Filter & Notification       ")
     print("==================================================")
+    flow_a_urls = set()  # Track URLs already notified in Flow A
     filtered_file = process_posts(output_file)
     if filtered_file and os.path.exists(filtered_file):
         print("Sending Flow A email notification...")
         send_notification(filtered_file)
+        # Collect the URLs of posts that were emailed in Flow A for dedup in Flow B
+        try:
+            import json
+            with open(filtered_file, 'r', encoding='utf-8') as _f:
+                flow_a_posts = json.load(_f)
+            flow_a_urls = {p.get('url', '') for p in flow_a_posts if p.get('url')}
+            print(f"Flow A: {len(flow_a_urls)} post URLs will be excluded from Flow B.")
+        except Exception as _e:
+            print(f"Flow A: Could not read filtered posts for dedup: {_e}")
     else:
         print("Flow A: No posts containing raw emails were found.")
 
@@ -51,7 +61,7 @@ def run_pipeline():
     print("  FLOW B: Parallel LLM Evaluator (Q1/Q2/Q3)       ")
     print("==================================================")
     try:
-        llm_curated_file = process_posts_llm(output_file, batch_size=7)
+        llm_curated_file = process_posts_llm(output_file, batch_size=7, exclude_urls=flow_a_urls)
         if llm_curated_file and os.path.exists(llm_curated_file):
             print("Sending Flow B LLM curated job email notification...")
             send_llm_job_notification(llm_curated_file)
