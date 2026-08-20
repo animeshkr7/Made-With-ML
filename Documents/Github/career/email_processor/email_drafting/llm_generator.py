@@ -40,7 +40,7 @@ Email:
                     "content": prompt,
                 }
             ],
-            model="llama-3.1-8b-instant", 
+            model="openai/gpt-oss-20b", 
             temperature=0.0,
             response_format={"type": "json_object"}
         )
@@ -50,7 +50,7 @@ Email:
         first_name = data.get("first_name", "None")
         company_name = data.get("company_name", "your company")
     except Exception as e:
-        print(f"Error communicating with Groq API or parsing JSON: {e}")
+        print(f"Error communicating with Groq API or parsing JSON: {type(e).__name__} - {str(e)}")
         first_name = "None"
         company_name = "your company"
 
