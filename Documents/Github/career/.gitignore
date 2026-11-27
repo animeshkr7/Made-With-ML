@@ -2,3 +2,10 @@
 .env
 token.json
 credentials.json
+
+# Skill execution & application logs (never committed)
+logs/
+**/logs/
+*.log
+workday_applied.md
+.cache/
